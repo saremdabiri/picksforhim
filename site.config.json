@@ -1,0 +1,76 @@
+{
+  "siteName": "Picks for Him",
+  "siteKey": "him",
+  "tagline": "Refined gifts and everyday luxuries for the man who has (almost) everything",
+  "siteUrl": "https://picksforhim.com",
+  "contactEmail": "",
+  "amazonTag": "amirdabiri-20",
+  "pinterestDomainVerify": "",
+  "pinterestProfileUrl": "",
+  "analyticsSnippet": "",
+  "headExtra": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link href=\"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Jost:wght@400;500&display=swap\" rel=\"stylesheet\">",
+  "homeEyebrow": "The Gentleman's Gift Edit",
+  "homeH1": "Gifts worth giving. <em>Things worth keeping.</em>",
+  "homeLedeTail": "Precision shavers, fine watches, serious gear for the grill and the water: chosen for craftsmanship, not clutter.",
+  "sister": {
+    "name": "Picks for Her",
+    "url": "https://picksforher.com"
+  },
+  "palette": {
+    "dark": "#121212",
+    "ivory": "#f6f3ec",
+    "gold": "#b08d57",
+    "ink": "#161616",
+    "soft": "#cfc6b4"
+  },
+  "theme": [
+    "#121212",
+    "#b08d57",
+    "#f6f3ec",
+    "#cfc6b4"
+  ],
+  "pillars": [
+    {
+      "slug": "grooming",
+      "name": "Grooming & Shave",
+      "short": "Grooming",
+      "blurb": "Premium electric shavers and grooming tools for the daily ritual."
+    },
+    {
+      "slug": "watches",
+      "name": "Watches & Accessories",
+      "short": "Watches",
+      "blurb": "Automatic, Swiss and solar watches, plus the accessories that finish the look."
+    },
+    {
+      "slug": "outdoors",
+      "name": "Outdoors & Fishing",
+      "short": "Outdoors",
+      "blurb": "Reels, fish finders and coolers for the man who'd rather be on the water."
+    },
+    {
+      "slug": "home",
+      "name": "Grill, Bar & Home",
+      "short": "Grill & Home",
+      "blurb": "Smokers, thermometers and the finer things for hosting."
+    },
+    {
+      "slug": "tech",
+      "name": "Tech & Audio",
+      "short": "Tech",
+      "blurb": "Headphones and gadgets with real substance."
+    },
+    {
+      "slug": "security",
+      "name": "Safety & Security",
+      "short": "Security",
+      "blurb": "Biometric safes and home security, chosen with responsibility in mind."
+    },
+    {
+      "slug": "gift-guides",
+      "name": "Gift Guides",
+      "short": "Gift Guides",
+      "blurb": "Curated edits for Christmas, birthdays, Father's Day and every milestone."
+    }
+  ]
+}
