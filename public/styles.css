@@ -191,3 +191,10 @@ a:hover { color: var(--gold); }
 :root { --bg: #f6f3ec; --surface: #ffffff; --ink: #161616; --muted: #6d655d; --line: #e6dfd3; --gold: #b08d57;
   --accent: #b08d57; --accent-soft: #cfc6b4; --sage: #b08d57; --sage-soft: #f6f3ec;
   --head: #121212; --head-ink: #f6f3ec; --head-muted: #b9b1a4; --btn: #121212; --btn-ink: #f6f3ec; }
+
+/* Popular gift searches */
+.popular-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+.popular-chip { display: inline-block; padding: 10px 16px; border: 1px solid var(--accent-soft, #cfc6b4); border-radius: 999px; text-decoration: none; color: inherit; font-size: .95rem; background: rgba(255,255,255,.6); }
+.popular-chip:hover { border-color: currentColor; }
+.popular { margin: 0 0 14px; font-size: .9rem; line-height: 1.8; }
+.popular a { white-space: nowrap; }
