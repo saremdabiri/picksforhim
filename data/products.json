@@ -10,7 +10,7 @@
     "url": "https://www.amazon.com/dp/B0FGLF3SDT",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=braun+series+9+pro+plus"
   },
   {
@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0842CNQ94",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=yeti+tundra+45"
   },
   {
@@ -528,7 +528,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0D4876TX4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=hyperice+normatec+elite"
   },
   {
@@ -628,5 +628,47 @@
     "verified": true,
     "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
+  },
+  {
+    "id": "apple-watch-ultra-4",
+    "name": "Apple Watch Ultra 4 (GPS + Cellular, 49mm)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's toughest, brightest watch: titanium case, multi-day battery, dive and outdoor features; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B0HJB6C34Y",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=apple+watch+ultra+4"
+  },
+  {
+    "id": "ugg-tasman-ii-men",
+    "name": "UGG Men's Tasman II slipper",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The suede-and-sheepskin slipper with a rubber sole he can wear to grab the mail; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B0DPLLP4KR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=ugg+mens+tasman+ii"
+  },
+  {
+    "id": "valentino-born-in-roma-uomo",
+    "name": "Valentino Uomo Born in Roma eau de toilette",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "A modern woody-spicy cologne with vanilla and vetiver in the studded Valentino bottle; sold by Valentino Beauty.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B07YDGWWPL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
   }
 ]
