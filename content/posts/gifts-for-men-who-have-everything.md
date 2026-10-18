@@ -30,6 +30,11 @@
    "text": "A Swiss watch with the integrated-bracelet look everyone wants. If he already has a smartwatch, a classic piece for dinners and events fills the gap. More in our [watch guide](/luxury-watches-for-men-gift-guide/)."
   },
   {
+   "title": "The pocket upgrade: TheraGun Mini (3rd Gen)",
+   "product": "theragun-mini-3",
+   "text": "Even if he owns a full-size massage gun, the Mini goes in the gym bag or carry-on. 2K+ bought on Amazon in the past month. More ideas in our [gifts for husband](/gifts-for-husband/) and [Christmas gifts for dad](/christmas-gifts-for-dad/) lists."
+  },
+  {
    "title": "For the serious angler: Garmin LiveScope Plus",
    "product": "garmin-livescope-plus",
    "text": "Live forward-facing sonar that shows fish moving in real time. The ultimate gift for a fisherman who already owns a fishfinder. See our [offshore fishing tech guide](/offshore-fishing-tech-gifts/)."
@@ -69,7 +74,8 @@
   "Gifts for Men Who Have Everything 2026",
   "Gifts for the Husband Who Doesn't Want Anything",
   "Unique Gifts He'd Never Buy Himself"
- ]
+ ],
+ "updated": "2026-10-18"
 }
 ---
 Gifts for men who have everything need a different approach. He already owns the basics, and if he wanted something ordinary he would have bought it. The trick is to find what he hasn't tried yet, or the premium version of something he uses every day.
