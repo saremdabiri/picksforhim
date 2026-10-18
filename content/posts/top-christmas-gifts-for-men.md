@@ -20,6 +20,11 @@
    "text": "Tens of thousands bought in the past month. The number-one tech gift for men this season."
   },
   {
+   "title": "The viral tech gift: Ray-Ban Meta (Gen 2) smart glasses",
+   "product": "ray-ban-meta-gen-2",
+   "text": "Thousands bought in the past month on Amazon. Classic Wayfarer style with a hands-free camera, open-ear speakers and a built-in assistant, so he can capture the moment without reaching for his phone."
+  },
+  {
    "title": "Bushnell Tour V6 Shift golf rangefinder",
    "product": "bushnell-tour-v6-shift",
    "text": "Over a thousand bought in the past month. The golf gift that never misses."

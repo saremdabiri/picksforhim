@@ -25,6 +25,11 @@
    "text": "A watch with real presence that he'll wear every day. Great for a first Christmas or a big birthday."
   },
   {
+   "title": "The cool-factor gift: Ray-Ban Meta (Gen 2) glasses",
+   "product": "ray-ban-meta-gen-2",
+   "text": "Iconic Ray-Ban style with a camera, music and calls built in. One of the most-bought tech gifts on Amazon this month, and an easy win for the guy who loves gadgets."
+  },
+  {
    "title": "For music on the go: Beats Solo 4",
    "product": "beats-solo-4",
    "text": "Over-the-ear sound with long battery life and plenty of color options. Tens of thousands of happy reviews."
