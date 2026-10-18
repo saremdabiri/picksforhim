@@ -614,5 +614,19 @@
     "verified": true,
     "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=ray-ban+meta+glasses"
+  },
+  {
+    "id": "theragun-mini-3",
+    "name": "TheraGun Mini (3rd Gen) massage gun",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Therabody's pocket-size percussive massager, quiet and travel-ready; sold by TheraGun.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B0DV7JN7ZD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
   }
 ]
