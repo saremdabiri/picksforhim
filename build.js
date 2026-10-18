@@ -122,7 +122,7 @@ function heroUrl(post) {
 
 // ---------- layout ----------
 function layout({ title, description, urlPath, body, ogImage, type = 'website', extraHead = '', published }) {
-  const fullTitle = title === config.siteName ? title : `${title} | ${config.siteName}`;
+  const fullTitle = (title === config.siteName || title === config.homeTitle) ? title : `${title} | ${config.siteName}`;
   const canonical = SITE + urlPath;
   const img = ogImage ? SITE + ogImage : SITE + (fs.existsSync(path.join(ROOT, 'public/images/og-default.png')) ? '/images/og-default.png' : '/favicon.svg');
   const nav = config.pillars.map((p) => `<a href="/category/${p.slug}/">${esc(p.short)}</a>`).join('') + (printables.length ? '<a class="nav-shop" href="/printables/">Printables</a>' : '');
@@ -288,7 +288,7 @@ for (const post of posts) {
   ${printables.length ? `<section><h2 class="section-title">Our printables</h2><p class="lede" style="margin-bottom:18px">Planners, checklists and cards we designed for pet-loving homes. Instant download from our Etsy shop.</p><div class="grid grid-3">${printables.slice(0, 3).map(printableCard).join('')}</div><p style="margin-top:16px"><a href="/printables/">See all printables →</a></p></section>` : ''}
   <section><h2 class="section-title">Browse by topic</h2><div class="pillars">${pillarsHtml}</div></section>
 </div>`;
-  write('index.html', layout({ title: config.siteName, description: config.tagline, urlPath: '/', body }));
+  write('index.html', layout({ title: config.homeTitle || config.siteName, description: config.tagline, urlPath: '/', body }));
 }
 
 // Category pages
