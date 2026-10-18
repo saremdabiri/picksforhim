@@ -1,12 +1,12 @@
 ---
 {
- "title": "The Christmas Gift Edit for Him: Refined Gifts He'll Actually Use",
+ "title": "Best Christmas Gifts for Him 2026: Luxury Gifts He'll Actually Use",
  "slug": "luxury-christmas-gifts-for-him",
  "pillar": "gift-guides",
  "date": "2026-10-17",
  "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, Bose noise cancelling, a Traeger smoker, YETI, a Garmin fishfinder, MEATER and a biometric safe. Considered gifts, no clutter.",
  "heroAlt": "Gift boxes wrapped in dark paper with gold ribbon beside a watch and leather gloves",
- "keyword": "luxury christmas gifts for him",
+ "keyword": "christmas gifts for him",
  "quickPicks": [
   "tissot-prx",
   "braun-series-9-pro-plus",
