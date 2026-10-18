@@ -600,5 +600,19 @@
     "verified": true,
     "lastVerified": "2026-10-17",
     "searchUrl": "https://www.amazon.com/s?k=joola+pro+iv+paddle"
+  },
+  {
+    "id": "ray-ban-meta-gen-2",
+    "name": "Ray-Ban Meta (Gen 2) Wayfarer smart glasses",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Classic Wayfarers with a built-in camera, open-ear audio and Meta AI; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B0FLYDJHB4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=ray-ban+meta+glasses"
   }
 ]
