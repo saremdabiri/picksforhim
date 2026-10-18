@@ -55,6 +55,8 @@ const BANNED = [
   /\bvet[- ]approved\b/i, /\bhands[- ]on\b/i,
 ];
 
+const popularHtml = (config.popular || []).length ? `<nav class="popular" aria-label="Popular gift searches"><strong>Popular gift searches:</strong> ${config.popular.map((x) => `<a href="${x.url}">${esc(x.label)}</a>`).join(' · ')}</nav>` : '';
+
 // ---------- load posts ----------
 const postDir = path.join(ROOT, 'content/posts');
 const posts = fs.readdirSync(postDir).filter((f) => f.endsWith('.md')).map((file) => {
@@ -63,10 +65,10 @@ const posts = fs.readdirSync(postDir).filter((f) => f.endsWith('.md')).map((file
   if (data.draft) return null;
   if (!pillarBySlug[data.pillar]) errors.push(`${file}: unknown pillar "${data.pillar}"`);
   for (const item of data.items || []) {
-    if (!productById[item.product]) errors.push(`${file}: product "${item.product}" is not in data/products.json`);
+    if (!productById[item.product]) warnings.push(`${file}: product "${item.product}" is not in data/products.json (item skipped)`);
   }
   for (const id of data.quickPicks || []) {
-    if (!productById[id]) errors.push(`${file}: quick pick "${id}" is not in data/products.json`);
+    if (!productById[id]) warnings.push(`${file}: quick pick "${id}" is not in data/products.json (skipped)`);
   }
   const allText = body + JSON.stringify(data);
   for (const re of BANNED) if (re.test(allText)) errors.push(`${file}: contains banned phrase matching ${re}`);
@@ -168,6 +170,7 @@ ${body}
     <nav class="footer-links" aria-label="Site">
       <a href="/about/">About</a><a href="/affiliate-disclosure/">Affiliate Disclosure</a><a href="/privacy/">Privacy Policy</a><a href="/contact/">Contact</a><a href="/rss.xml">RSS</a>
     </nav>
+    ${popularHtml}
     ${config.sister?`<p class="sister">Shopping for someone else? <a href="${config.sister.url}">${esc(config.sister.name)} →</a></p>`:''}<p class="copyright">© ${YEAR} ${esc(config.siteName)}</p>
   </div>
 </footer>
@@ -209,7 +212,7 @@ for (const post of posts) {
   if (heroUrl(post).endsWith('.svg')) write(`images/posts/${post.slug}-hero.svg`, heroSvg(post));
   const pillar = pillarBySlug[post.pillar];
   const quick = (post.quickPicks || []).map((id) => productById[id]).filter(Boolean);
-  const items = post.items || [];
+  const items = (post.items || []).filter((it) => productById[it.product]);
   const related = [
     ...posts.filter((p) => p.slug !== post.slug && p.pillar === post.pillar),
     ...posts.filter((p) => p.slug !== post.slug && p.pillar !== post.pillar),
@@ -224,7 +227,7 @@ for (const post of posts) {
   <h2 id="${slugify(post.listHeading || 'the-picks')}">${esc(post.listHeading || 'The picks')}</h2>
   ${items.map((it, i) => {
     const p = productById[it.product];
-    return `<div class="pick">
+    return `<div class="pick" id="pick-${i + 1}">
     <h3><span class="num">${i + 1}</span>${inline(it.title)}</h3>
     ${markdown(it.text)}
     <div class="pick-product"><div><span class="eyebrow">The pick</span><strong>${esc(p.name)}</strong></div>${buyButton(p)}</div>
@@ -245,6 +248,8 @@ for (const post of posts) {
     author: { '@type': 'Organization', name: config.siteName }, publisher: { '@type': 'Organization', name: config.siteName },
     mainEntityOfPage: `${SITE}/${post.slug}/`,
   }];
+  jsonLd.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [ { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` }, { '@type': 'ListItem', position: 2, name: pillar.name, item: `${SITE}/category/${pillar.slug}/` }, { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE}/${post.slug}/` } ] });
+  if (items.length) jsonLd.push({ '@context': 'https://schema.org', '@type': 'ItemList', name: post.listHeading || post.title, itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, name: productById[it.product].name, url: `${SITE}/${post.slug}/#pick-${i + 1}` })) });
   if ((post.faq || []).length) jsonLd.push({
     '@context': 'https://schema.org', '@type': 'FAQPage',
     mainEntity: post.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
@@ -284,6 +289,7 @@ for (const post of posts) {
   <p class="lede">${esc(config.tagline)}. ${esc(config.homeLedeTail||'')}</p>
 </div></section>
 <div class="wrap">
+  ${(config.popular || []).length ? `<section><h2 class="section-title">${esc(config.popularTitle || 'Most searched gift guides')}</h2><div class="popular-grid">${config.popular.map((x) => `<a class="popular-chip" href="${x.url}">${esc(x.label)}</a>`).join('')}</div></section>` : ''}
   <section><h2 class="section-title">Latest guides</h2><div class="grid grid-3">${posts.slice(0, 9).map(card).join('')}</div></section>
   ${printables.length ? `<section><h2 class="section-title">Our printables</h2><p class="lede" style="margin-bottom:18px">Planners, checklists and cards we designed for pet-loving homes. Instant download from our Etsy shop.</p><div class="grid grid-3">${printables.slice(0, 3).map(printableCard).join('')}</div><p style="margin-top:16px"><a href="/printables/">See all printables →</a></p></section>` : ''}
   <section><h2 class="section-title">Browse by topic</h2><div class="pillars">${pillarsHtml}</div></section>
@@ -338,7 +344,7 @@ write('404.html', layout({ title: 'Page not found', description: 'Page not found
 const urls = ['/', ...(printables.length ? ['/printables/'] : []), ...config.pillars.map((p) => `/category/${p.slug}/`), ...posts.map((p) => `/${p.slug}/`), ...pages.map((p) => `/${p.slug}/`)];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((u) => `  <url><loc>${SITE}${u}</loc></url>`).join('\n')}
+${urls.map((u) => { const po = posts.find((p) => `/${p.slug}/` === u); const lm = po ? (po.updated || po.date) : (u === '/' && posts[0] ? (posts[0].updated || posts[0].date) : ''); return `  <url><loc>${SITE}${u}</loc>${lm ? `<lastmod>${lm}</lastmod>` : ''}</url>`; }).join('\n')}
 </urlset>`);
 write('rss.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>

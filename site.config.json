@@ -73,5 +73,35 @@
       "blurb": "Curated edits for Christmas, birthdays, Father's Day and every milestone."
     }
   ],
-  "homeTitle": "Picks for Him: Best Gifts for Men, Husbands & Boyfriends (2026)"
+  "homeTitle": "Picks for Him: Best Gifts for Men, Husbands & Boyfriends (2026)",
+  "popular": [
+    {
+      "label": "Christmas gifts for him",
+      "url": "/luxury-christmas-gifts-for-him/"
+    },
+    {
+      "label": "Top Christmas gifts for men",
+      "url": "/top-christmas-gifts-for-men/"
+    },
+    {
+      "label": "Gifts for husband",
+      "url": "/gifts-for-husband/"
+    },
+    {
+      "label": "Christmas gifts for dad",
+      "url": "/christmas-gifts-for-dad/"
+    },
+    {
+      "label": "Gifts for boyfriend",
+      "url": "/gifts-for-boyfriend/"
+    },
+    {
+      "label": "Birthday gifts for men",
+      "url": "/birthday-gifts-for-men/"
+    },
+    {
+      "label": "Gifts for men who have everything",
+      "url": "/gifts-for-men-who-have-everything/"
+    }
+  ]
 }
