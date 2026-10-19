@@ -50,9 +50,9 @@
    "text": "Wireless meat thermometer that tells his phone exactly when the steak is ready. A great add-on gift."
   },
   {
-   "title": "For the morning routine: Philips Norelco i9000",
-   "product": "norelco-i9000",
-   "text": "A smooth rotary shaver with a premium feel; see the [full shaver comparison](/best-luxury-electric-shavers-for-men/)."
+   "title": "For the music lover: Sony WH-1000XM6",
+   "product": "sony-wh-1000xm6",
+   "text": "The headphones he'll use every day, from the commute to the gym floor. Over 3,000 bought on Amazon in the past month."
   }
  ],
  "faq": [
@@ -74,7 +74,8 @@
   "Best Birthday Gifts for Men 2026",
   "Birthday Gift Ideas for Husband",
   "Birthday Gifts He'll Actually Use"
- ]
+ ],
+ "updated": "2026-10-19"
 }
 ---
 A great birthday gift for a man is something he'd want but wouldn't buy himself. Start with what he does on weekends: golf, fitness, grilling, music. Then go one level up.

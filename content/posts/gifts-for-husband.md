@@ -45,9 +45,9 @@
    "text": "A quick-access biometric safe for the nightstand: fast for him, locked for everyone else. A thoughtful gift for a gun owner. Details in our [gun safe guide](/best-gun-safes-for-home/)."
   },
   {
-   "title": "For the angler: Garmin STRIKER Vivid 7cv",
-   "product": "garmin-striker-vivid-7cv",
-   "text": "If he lives for weekends on the water, a fishfinder is the gift that changes his trips. Going offshore? See our [offshore fishing tech guide](/offshore-fishing-tech-gifts/)."
+   "title": "The quiet upgrade: Sony WH-1000XM6",
+   "product": "sony-wh-1000xm6",
+   "text": "Flights, the office, a noisy house: Sony's newest noise-cancelling flagship gives him his own bubble. One of Amazon's most-bought headphones right now (3K+ in the past month).\n\nFor a Christmas-specific list, see [Christmas gifts for husband](/christmas-gifts-for-husband/)."
   },
   {
    "title": "For quiet time: Bose QuietComfort headphones",
@@ -78,7 +78,8 @@
   "Best Gifts for Husband 2026",
   "What to Get Your Husband for Christmas",
   "Gifts Your Husband Will Actually Use"
- ]
+ ],
+ "updated": "2026-10-19"
 }
 ---
 Shopping for your husband is hard: he says he doesn't need anything, and he buys what he wants himself. The secret is to upgrade the things he already uses every single day, or feed the hobby he loves.
