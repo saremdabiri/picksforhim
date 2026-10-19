@@ -91,10 +91,10 @@
     "description": "Japanese automatic with the famous textured 'cocktail' dial.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B074KKQ6L4",
+    "url": "https://www.amazon.com/dp/B0CM3ZLM7N",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=seiko+presage+cocktail+time"
   },
   {
@@ -670,5 +670,19 @@
     "verified": true,
     "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
+  },
+  {
+    "id": "sony-wh-1000xm6",
+    "name": "Sony WH-1000XM6 noise cancelling headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Sony's newest flagship over-ear headphones with class-leading noise cancelling and all-day battery; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-19",
+    "url": "https://www.amazon.com/dp/B0F3PQHWTZ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-19",
+    "searchUrl": "https://www.amazon.com/s?k=sony+wh-1000xm6"
   }
 ]
