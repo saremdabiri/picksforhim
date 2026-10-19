@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B07HSPSX5M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=hamilton+khaki+field+mechanical"
   },
   {
@@ -612,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0FLYDJHB4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=ray-ban+meta+glasses"
   },
   {
@@ -640,7 +640,7 @@
     "url": "https://www.amazon.com/dp/B0HJB6C34Y",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+ultra+4"
   },
   {
@@ -654,7 +654,7 @@
     "url": "https://www.amazon.com/dp/B0DPLLP4KR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=ugg+mens+tasman+ii"
   },
   {
@@ -668,7 +668,7 @@
     "url": "https://www.amazon.com/dp/B07YDGWWPL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
   },
   {
@@ -684,5 +684,33 @@
     "verified": true,
     "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=sony+wh-1000xm6"
+  },
+  {
+    "id": "armani-acqua-di-gio",
+    "name": "Armani Acqua di Giò Eau de Toilette",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "The fresh, aquatic Armani classic, one of the best-selling men's colognes ever; sold by Armani beauty on Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-19",
+    "url": "https://www.amazon.com/dp/B000E7YK5K",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-19",
+    "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
+  },
+  {
+    "id": "bose-qc-ultra-2",
+    "name": "Bose QuietComfort Ultra Headphones (2nd Gen)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Bose's flagship noise cancelling over-ear headphones with immersive audio and a premium build; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-19",
+    "url": "https://www.amazon.com/dp/B0FDKR293G",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-19",
+    "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+ultra+headphones+2nd+gen"
   }
 ]
