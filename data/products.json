@@ -712,5 +712,19 @@
     "verified": true,
     "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+ultra+headphones+2nd+gen"
+  },
+  {
+    "id": "airpods-max-2",
+    "name": "Apple AirPods Max 2",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's premium over-ear noise-cancelling headphones; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0GSS4SGZR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   }
 ]
