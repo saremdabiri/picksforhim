@@ -50,9 +50,9 @@
    "text": "A clear color fishfinder that's easy to learn; shows structure and fish below the boat or kayak."
   },
   {
-   "title": "For the angler, part two: Shimano Nasci FD reel",
-   "product": "shimano-nasci-fd",
-   "text": "Shimano smoothness at a sensible level. A reel he'll reach for every trip."
+   "title": "For the music lover: Apple AirPods Max 2",
+   "product": "airpods-max-2",
+   "text": "Thousands bought on Amazon in the past month (9K+ tonight) and on the Headphones best-seller list. Apple's premium over-ear noise-cancelling headphones, sold by Amazon."
   },
   {
    "title": "For responsible peace of mind: biometric pistol safe",
@@ -79,7 +79,8 @@
   "The Christmas Gift Edit for Him",
   "Luxury Gifts He'll Actually Use",
   "Gifts for the Man Who Has Everything"
- ]
+ ],
+ "updated": "2026-10-20"
 }
 ---
 The best gifts for men aren't gimmicks. They're the upgraded version of something he already loves: the morning shave, the watch on his wrist, Saturday at the grill, Sunday on the water.

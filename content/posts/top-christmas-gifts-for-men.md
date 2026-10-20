@@ -4,7 +4,7 @@
  "slug": "top-christmas-gifts-for-men",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, Bushnell rangefinders, Garmin watches, Garmin LiveScope, Traeger, YETI, a Tissot PRX and more.",
+ "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, YETI, a Tissot PRX and more.",
  "heroAlt": "A row of wrapped Christmas presents under a tree with a man's watch and headphones beside them",
  "keyword": "top christmas gifts for men",
  "quickPicks": [
@@ -18,6 +18,11 @@
    "title": "AirPods Pro 3",
    "product": "airpods-pro-3",
    "text": "Tens of thousands bought in the past month. The number-one tech gift for men this season."
+  },
+  {
+   "title": "The headphone everyone wants: Apple AirPods Max 2",
+   "product": "airpods-max-2",
+   "text": "Thousands bought on Amazon in the past month (9K+ tonight) and on the Headphones best-seller list. Apple's premium over-ear noise-cancelling headphones, sold by Amazon."
   },
   {
    "title": "The viral tech gift: Ray-Ban Meta (Gen 2) smart glasses",
@@ -45,11 +50,6 @@
    "text": "The Swiss watch of the moment, and a gift with staying power."
   },
   {
-   "title": "Traeger Pro 22",
-   "product": "traeger-pro-22",
-   "text": "The pellet smoker that turns him into the neighborhood pitmaster."
-  },
-  {
    "title": "YETI Tundra 45",
    "product": "yeti-tundra-45",
    "text": "For hunting, fishing, tailgating and the beach. Built for life."
@@ -67,7 +67,7 @@
   },
   {
    "q": "What are good Christmas gifts for men who have everything?",
-   "a": "Premium upgrades of daily gear and hobby tech: a fishfinder, a smoker, a rangefinder or recovery boots."
+   "a": "Premium upgrades of daily gear and hobby tech: a fishfinder, premium headphones, a rangefinder or recovery boots."
   },
   {
    "q": "What's a good Christmas gift for my husband?",
@@ -79,7 +79,8 @@
   "Top Christmas Gifts for Men 2026",
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
- ]
+ ],
+ "updated": "2026-10-20"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.
