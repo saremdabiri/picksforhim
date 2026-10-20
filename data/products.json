@@ -626,7 +626,7 @@
     "url": "https://www.amazon.com/dp/B0DV7JN7ZD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
   },
   {
@@ -696,7 +696,7 @@
     "url": "https://www.amazon.com/dp/B000E7YK5K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -726,5 +726,75 @@
     "verified": true,
     "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
+  },
+  {
+    "id": "airpods-5",
+    "name": "Apple AirPods 5 with Active Noise Cancellation",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's newest everyday earbuds with noise cancellation; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0HJB76H2V",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+5"
+  },
+  {
+    "id": "apple-airtag-4-pack",
+    "name": "Apple AirTag (2nd Generation) 4-pack",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Find My trackers for keys, wallet, luggage and gear bag; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0GJTXVN9Z",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=apple+airtag+4+pack"
+  },
+  {
+    "id": "yeti-rambler-20",
+    "name": "YETI Rambler 20 oz tumbler with MagSlider lid",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "The vacuum-insulated stainless tumbler that keeps coffee hot on the drive; sold by YETI Authorized.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B073WJMKHN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=yeti+rambler+20+oz"
+  },
+  {
+    "id": "leatherman-wave-plus",
+    "name": "Leatherman Wave Plus multi-tool",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "The classic 18-in-1 full-size multi-tool with one-hand blades; sold by Leatherman Tool Group.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B079MJ6MLV",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=leatherman+wave+plus"
+  },
+  {
+    "id": "bellroy-hide-and-seek",
+    "name": "Bellroy Hide & Seek slim leather wallet",
+    "pillar": "watches",
+    "merchant": "Amazon",
+    "description": "A slim premium-leather bifold with RFID protection and a hidden pocket; sold by Bellroy.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0DC9F65H4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=bellroy+hide+and+seek+wallet"
   }
 ]
