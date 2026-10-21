@@ -40,9 +40,9 @@
    "text": "For the guy who runs, lifts or is training for something. A premium watch he'll actually wear."
   },
   {
-   "title": "For the competitive one: JOOLA Pro IV pickleball paddle",
-   "product": "joola-pro-iv-paddle",
-   "text": "If he's into pickleball, a pro-level paddle is a gift he'll brag about."
+   "title": "For the competitive one: JOOLA Ben Johns Hyperion paddle",
+   "product": "joola-ben-johns-hyperion",
+   "text": "If he's into pickleball, the Ben Johns Hyperion, with its spin-friendly carbon surface and USA Pickleball-approved build, is a paddle he'll brag about."
   },
   {
    "title": "For the outdoorsman: YETI Tundra 45",
@@ -74,7 +74,8 @@
   "Best Gifts for Boyfriend 2026",
   "Christmas Gifts for Your Boyfriend",
   "Boyfriend Gift Ideas He'll Love"
- ]
+ ],
+ "updated": "2026-10-21"
 }
 ---
 Whether it's your first Christmas together or his birthday, the best gifts for a boyfriend are things he'll use every day and think of you when he does.

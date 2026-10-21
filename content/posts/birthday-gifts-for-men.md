@@ -35,9 +35,9 @@
    "text": "The upgrade nobody regrets. Great noise cancelling, great calls, and he'll use them daily."
   },
   {
-   "title": "For the pickleball obsessed: JOOLA Pro IV paddle",
-   "product": "joola-pro-iv-paddle",
-   "text": "Pickleball is everywhere, and a premium carbon paddle is a gift he'd never buy himself."
+   "title": "For the pickleball obsessed: JOOLA Ben Johns Hyperion paddle",
+   "product": "joola-ben-johns-hyperion",
+   "text": "Pickleball is everywhere, and this is JOOLA's signature paddle for Ben Johns: a Carbon Abrasion Surface for spin and a 16mm honeycomb core for control and less vibration. A premium paddle he'd never buy himself."
   },
   {
    "title": "For recovery days: Hyperice Normatec Elite",
@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Husband",
   "Birthday Gifts He'll Actually Use"
  ],
- "updated": "2026-10-19"
+ "updated": "2026-10-21"
 }
 ---
 A great birthday gift for a man is something he'd want but wouldn't buy himself. Start with what he does on weekends: golf, fitness, grilling, music. Then go one level up.

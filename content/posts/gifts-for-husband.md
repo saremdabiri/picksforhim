@@ -40,9 +40,9 @@
    "text": "Runs, rides, golf, sleep and training readiness on a bright AMOLED screen. A serious upgrade from a basic fitness band."
   },
   {
-   "title": "For peace of mind: VAULTEK 20 Series safe",
-   "product": "vaultek-20-series",
-   "text": "A quick-access biometric safe for the nightstand: fast for him, locked for everyone else. A thoughtful gift for a gun owner. Details in our [gun safe guide](/best-gun-safes-for-home/)."
+   "title": "For peace of mind: BILLCONCH biometric safe",
+   "product": "billconch-biometric-safe",
+   "text": "A quick-access nightstand safe that opens with a fingerprint or PIN, with a carbon-steel shell and room for two standard pistols. Thousands of Amazon reviews and 3K+ bought in the past month. A thoughtful gift for a gun owner. Details in our [gun safe guide](/best-gun-safes-for-home/)."
   },
   {
    "title": "The quiet upgrade: Sony WH-1000XM6",
@@ -79,7 +79,7 @@
   "What to Get Your Husband for Christmas",
   "Gifts Your Husband Will Actually Use"
  ],
- "updated": "2026-10-19"
+ "updated": "2026-10-21"
 }
 ---
 Shopping for your husband is hard: he says he doesn't need anything, and he buys what he wants himself. The secret is to upgrade the things he already uses every single day, or feed the hobby he loves.

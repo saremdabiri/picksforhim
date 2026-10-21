@@ -4,7 +4,7 @@
  "slug": "top-christmas-gifts-for-men",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, YETI, a Tissot PRX and more.",
+ "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, the Meta Quest 3, a Tissot PRX and more.",
  "heroAlt": "A row of wrapped Christmas presents under a tree with a man's watch and headphones beside them",
  "keyword": "top christmas gifts for men",
  "quickPicks": [
@@ -50,14 +50,14 @@
    "text": "The Swiss watch of the moment, and a gift with staying power."
   },
   {
-   "title": "YETI Tundra 45",
-   "product": "yeti-tundra-45",
-   "text": "For hunting, fishing, tailgating and the beach. Built for life."
+   "title": "The game-night gift: Meta Quest 3 (512GB)",
+   "product": "meta-quest-3",
+   "text": "One of Amazon's hottest tech gifts right now, with 5K+ bought in the past month. A wireless headset for VR games, workouts and mixed reality that blends virtual objects with his actual living room, with no PC or cables needed."
   },
   {
-   "title": "VAULTEK 20 Series biometric safe",
-   "product": "vaultek-20-series",
-   "text": "The responsible gift for a gun owner. See all [gun safes for home](/best-gun-safes-for-home/)."
+   "title": "BILLCONCH biometric gun safe",
+   "product": "billconch-biometric-safe",
+   "text": "The responsible gift for a gun owner: fingerprint or PIN access and a carbon-steel shell, with 3K+ bought in the past month. See all [gun safes for home](/best-gun-safes-for-home/)."
   }
  ],
  "faq": [
@@ -80,7 +80,7 @@
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
  ],
- "updated": "2026-10-20"
+ "updated": "2026-10-21"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.

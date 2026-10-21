@@ -8,16 +8,16 @@
  "heroAlt": "A sleek black biometric safe on a walnut nightstand beside a leather watch box",
  "keyword": "best gun safe for home",
  "quickPicks": [
-  "vaultek-20-series",
+  "billconch-biometric-safe",
   "billconch-fingerprint-safe",
   "kaer-3-gun-rifle-safe"
  ],
  "listHeading": "The safes worth owning",
  "items": [
   {
-   "title": "VAULTEK 20 Series: the refined quick-access safe",
-   "product": "vaultek-20-series",
-   "text": "Vaultek is the name serious owners mention first. The 20 Series opens with a fingerprint and the lid lifts on its own, so access is fast and quiet, while the steel body keeps curious hands out.\n\n**Best for:** a bedside handgun in a home with children or guests.\n\n**Consider:** register several fingerprints, including from your other hand."
+   "title": "BILLCONCH biometric safe: the best-seller",
+   "product": "billconch-biometric-safe",
+   "text": "Opens with a fingerprint or a PIN, with a carbon-steel shell and a built-in LED light so you can see inside at night. It holds two standard pistols, or jewelry and cash, and it is one of the best-selling handgun safes on Amazon, with thousands of reviews and 3K+ bought in the past month.\n\n**Best for:** a bedside handgun in a home with children or guests.\n\n**Consider:** register several fingerprints, including from your other hand."
   },
   {
    "title": "VAULTEK MX Series: room for a collection",
@@ -73,7 +73,8 @@
   "The Best Gun Safes for Home",
   "Biometric Gun Safes Worth Owning",
   "A Thoughtful Gift for Him: A Proper Safe"
- ]
+ ],
+ "updated": "2026-10-21"
 }
 ---
 Responsible ownership starts with secure storage. The right safe keeps firearms out of the wrong hands, especially children's, while still giving you fast access when it counts.
