@@ -206,7 +206,7 @@
     "url": "https://www.amazon.com/dp/B07H8WTFHW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=meater+plus"
   },
   {
@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0D4876TX4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=hyperice+normatec+elite"
   },
   {
@@ -640,7 +640,7 @@
     "url": "https://www.amazon.com/dp/B0FLYDJHB4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=ray-ban+meta+glasses"
   },
   {
@@ -838,5 +838,75 @@
     "verified": true,
     "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3+512gb"
+  },
+  {
+    "id": "meta-quest-3s",
+    "name": "Meta Quest 3S 128GB mixed-reality headset",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "All-in-one VR and mixed-reality headset, no PC or console needed; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B0F2GYMC8H",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
+  },
+  {
+    "id": "ember-mug-2",
+    "name": "Ember Mug 2 (14 oz) temperature-control smart mug",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Heated smart mug that holds coffee at his chosen temperature, set from an app; sold by Ember.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B07NQSR1DD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=ember+mug+2"
+  },
+  {
+    "id": "breville-barista-express",
+    "name": "Breville Barista Express espresso machine",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Espresso machine with a built-in conical burr grinder and steam wand; one of Amazon's best-selling espresso makers, sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B00CH9QWOU",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
+  },
+  {
+    "id": "solo-stove-bonfire-stand",
+    "name": "Solo Stove Bonfire 19.5\" fire pit with stand",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Stainless steel, low-smoke wood-burning fire pit with stand; sold by Solo Stove.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B0CKZBZ25K",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
+  },
+  {
+    "id": "oura-ring-5",
+    "name": "Oura Ring 5",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Smart ring for sleep, activity and readiness tracking (membership required for full features); sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B0GRK1N94H",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   }
 ]
