@@ -252,6 +252,20 @@
     "searchUrl": "https://www.amazon.com/s?k=vaultek+20+series+biometric+safe"
   },
   {
+    "id": "billconch-biometric-safe",
+    "name": "BILLCONCH biometric fingerprint handgun safe",
+    "pillar": "security",
+    "merchant": "Amazon",
+    "description": "Best-selling quick-access safe with fingerprint or PIN entry, a carbon-steel shell and a built-in LED light; fits two standard pistols.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B0B6HYSFBF",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=billconch+biometric+gun+safe"
+  },
+  {
     "id": "vaultek-mx",
     "name": "VAULTEK MX Series smart handgun safe",
     "pillar": "security",
@@ -602,6 +616,20 @@
     "searchUrl": "https://www.amazon.com/s?k=joola+pro+iv+paddle"
   },
   {
+    "id": "joola-ben-johns-hyperion",
+    "name": "JOOLA Ben Johns Hyperion pickleball paddle",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Ben Johns signature paddle with a spin-friendly Carbon Abrasion Surface and a 16mm honeycomb core; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B09VCRKGCP",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=joola+ben+johns+hyperion"
+  },
+  {
     "id": "ray-ban-meta-gen-2",
     "name": "Ray-Ban Meta (Gen 2) Wayfarer smart glasses",
     "pillar": "tech",
@@ -796,5 +824,19 @@
     "verified": true,
     "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=bellroy+hide+and+seek+wallet"
+  },
+  {
+    "id": "meta-quest-3",
+    "name": "Meta Quest 3 512GB mixed-reality headset",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Wireless VR and mixed-reality headset that blends virtual objects with your room; Amazon-exclusive Gorilla Tag bundle, sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B0CD1JTBSC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=meta+quest+3+512gb"
   }
 ]
