@@ -908,5 +908,31 @@
     "verified": true,
     "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
+  },
+  {
+    "id": "ipad-air-m4",
+    "name": "Apple iPad Air 11-inch (M4)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple iPad Air with the M4 chip, 11-inch Liquid Retina display, Wi-Fi 7, Touch ID and all-day battery.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B0GQVPX1PJ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22"
+  },
+  {
+    "id": "amazon-basics-home-safe-1-8",
+    "name": "Amazon Basics steel home safe, 1.8 cu ft (keypad)",
+    "pillar": "security",
+    "merchant": "Amazon",
+    "description": "1.8 cubic foot steel home safe with programmable keypad, backup key, interior shelf and pre-drilled anchor holes.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B078K2YPRW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22"
   }
 ]
