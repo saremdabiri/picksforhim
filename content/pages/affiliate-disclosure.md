@@ -9,7 +9,7 @@
 
 ## Other programs
 
-We may also take part in affiliate programs run by other retailers. Any page that contains affiliate links says so at the top of the page.
+We also take part in affiliate programs run by other retailers and brands, including programs on the Awin network (for example TIDEWE). Any page that contains affiliate links says so at the top of the page.
 
 ## Pinterest
 
