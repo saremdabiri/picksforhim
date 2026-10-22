@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -640,7 +640,7 @@
     "url": "https://www.amazon.com/dp/B0FLYDJHB4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=ray-ban+meta+glasses"
   },
   {
@@ -668,7 +668,7 @@
     "url": "https://www.amazon.com/dp/B0HJB6C34Y",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+ultra+4"
   },
   {
@@ -696,7 +696,7 @@
     "url": "https://www.amazon.com/dp/B07YDGWWPL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
   },
   {
@@ -710,7 +710,7 @@
     "url": "https://www.amazon.com/dp/B0F3PQHWTZ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=sony+wh-1000xm6"
   },
   {
@@ -878,7 +878,7 @@
     "url": "https://www.amazon.com/dp/B00CH9QWOU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
   },
   {
@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1038,5 +1038,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-10-22"
+  },
+  {
+    "id": "nintendo-switch-2",
+    "name": "Nintendo Switch 2 System",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Nintendo's next-generation console with a larger 1080p screen, play at home on the TV or handheld; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B0F3GWXLTS",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22",
+    "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   }
 ]
