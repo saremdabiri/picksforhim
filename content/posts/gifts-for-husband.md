@@ -50,9 +50,9 @@
    "text": "Flights, the office, a noisy house: Sony's newest noise-cancelling flagship gives him his own bubble. One of Amazon's most-bought headphones right now (3K+ in the past month).\n\nFor a Christmas-specific list, see [Christmas gifts for husband](/christmas-gifts-for-husband/)."
   },
   {
-   "title": "For quiet time: Bose QuietComfort headphones",
-   "product": "bose-qc-headphones",
-   "text": "Flights, focus time at work, or just a quiet hour at home. World-class noise cancelling."
+   "title": "For the man who'd never buy one himself: Apple iPad Air (M4)",
+   "product": "ipad-air-m4",
+   "text": "Streaming on the couch, reading in bed, video calls, a bigger screen for the flight. The newest iPad Air runs Apple's M4 chip on an 11-inch Liquid Retina display, with Wi-Fi 7 and Touch ID. Sold by Amazon, 4.7 stars, and 3K+ bought in the past month.\n\nIf he'd rather have something to wear, see [birthday gifts for men](/birthday-gifts-for-men/)."
   }
  ],
  "faq": [
@@ -79,7 +79,7 @@
   "What to Get Your Husband for Christmas",
   "Gifts Your Husband Will Actually Use"
  ],
- "updated": "2026-10-21"
+ "updated": "2026-10-22"
 }
 ---
 Shopping for your husband is hard: he says he doesn't need anything, and he buys what he wants himself. The secret is to upgrade the things he already uses every single day, or feed the hobby he loves.

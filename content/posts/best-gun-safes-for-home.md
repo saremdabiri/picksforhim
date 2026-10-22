@@ -20,9 +20,9 @@
    "text": "Opens with a fingerprint or a PIN, with a carbon-steel shell and a built-in LED light so you can see inside at night. It holds two standard pistols, or jewelry and cash, and it is one of the best-selling handgun safes on Amazon, with thousands of reviews and 3K+ bought in the past month.\n\n**Best for:** a bedside handgun in a home with children or guests.\n\n**Consider:** register several fingerprints, including from your other hand."
   },
   {
-   "title": "VAULTEK MX Series: room for a collection",
-   "product": "vaultek-mx",
-   "text": "For the man with more than one pistol, the MX holds several handguns plus magazines in one smart safe, with biometric entry and phone alerts if it's opened or moved.\n\n**Best for:** collectors who want everything secured in one place."
+   "title": "Amazon Basics 1.8 cu ft home safe: room for more",
+   "product": "amazon-basics-home-safe-1-8",
+   "text": "When a nightstand box is too small, this steel home safe gives 1.8 cubic feet for pistol cases, documents and valuables in one locked place. It has an 8-gauge steel door, two live-door bolts, a programmable keypad with a backup key, an interior shelf and pre-drilled holes to anchor it to the floor or wall. Sold by Amazon, 4.6 stars from over 30,000 reviews.\n\n**Best for:** owners who want one bolted-down spot for several items, not quick bedside access."
   },
   {
    "title": "BILLCONCH fingerprint safe: the crowd favorite",
@@ -74,7 +74,7 @@
   "Biometric Gun Safes Worth Owning",
   "A Thoughtful Gift for Him: A Proper Safe"
  ],
- "updated": "2026-10-21"
+ "updated": "2026-10-22"
 }
 ---
 Responsible ownership starts with secure storage. The right safe keeps firearms out of the wrong hands, especially children's, while still giving you fast access when it counts.
