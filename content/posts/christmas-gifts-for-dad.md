@@ -50,9 +50,9 @@
    "text": "Fast, accurate yardages with slope mode for practice rounds. A favorite gift for dads who play every weekend."
   },
   {
-   "title": "For quiet time: Bose QuietComfort headphones",
-   "product": "bose-qc-headphones",
-   "text": "For flights, the game on his tablet, or a quiet hour in a busy house. World-class noise cancelling and all-day comfort."
+   "title": "For the dad who reads at night: Kindle Paperwhite",
+   "product": "kindle-paperwhite-16gb",
+   "text": "One of Amazon's bestselling devices right now (10K+ bought in the past month). The 7-inch glare-free screen reads like paper in sunlight and has an adjustable warm light for bedtime, and the battery lasts for weeks. Thousands of books fit on it, so it goes from the nightstand to the fishing trip without a bag full of paperbacks."
   }
  ],
  "faq": [
@@ -74,7 +74,8 @@
   "Best Christmas Gifts for Dad 2026",
   "Gifts for the Dad Who Has Everything",
   "Christmas Gifts Dad Will Actually Use"
- ]
+ ],
+ "updated": "2026-10-23"
 }
 ---
 Christmas gifts for dad are famously hard: he says he doesn't need anything, and when he wants something he buys it himself. The best gifts upgrade what he already does every week, whether that's grilling, golf, fishing or his morning routine.
