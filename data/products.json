@@ -889,10 +889,10 @@
     "description": "Stainless steel, low-smoke wood-burning fire pit with stand; sold by Solo Stove.",
     "image": null,
     "dateAdded": "2026-10-21",
-    "url": "https://www.amazon.com/dp/B0CKZBZ25K",
+    "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-24",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -1066,5 +1066,33 @@
     "verified": true,
     "lastVerified": "2026-10-23",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite"
+  },
+  {
+    "id": "apple-watch-se-3",
+    "name": "Apple Watch SE 3 (GPS, 44mm)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's most affordable current Apple Watch: fitness and sleep tracking, notifications and Apple Pay; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-24",
+    "url": "https://www.amazon.com/dp/B0HJ9VPB3C",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-24",
+    "searchUrl": "https://www.amazon.com/s?k=apple+watch+se+3"
+  },
+  {
+    "id": "jbl-flip-7",
+    "name": "JBL Flip 7 portable Bluetooth speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A waterproof, drop-proof portable speaker that clips to a bag and plays loud enough for a room or a backyard; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-24",
+    "url": "https://www.amazon.com/dp/B0DMV3BMGP",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-24",
+    "searchUrl": "https://www.amazon.com/s?k=jbl+flip+7"
   }
 ]
