@@ -45,6 +45,11 @@
    "text": "Cordless electric filleting at the cleaning table. A gift that turns a big catch into dinner, faster."
   },
   {
+   "title": "For cold mornings on the water: TIDEWE Heated Fleece Jacket",
+   "product": "tidewe-heated-jacket",
+   "text": "A rechargeable heated jacket with three heat settings and a 10,000 mAh battery pack, so early launches and late-season trips stay comfortable. Hundreds of reviews on TIDEWE's own store."
+  },
+  {
    "title": "Plano Atlas 3700 tackle backpack",
    "product": "plano-atlas-3700-backpack",
    "text": "Three StowAway boxes and room for the day's gear, hands-free from the truck to the bank."
