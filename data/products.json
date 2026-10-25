@@ -1108,5 +1108,19 @@
     "verified": true,
     "lastVerified": "2026-10-24",
     "searchUrl": "https://www.amazon.com/s?k=jbl+flip+7"
+  },
+  {
+    "id": "garmin-forerunner-165",
+    "name": "Garmin Forerunner 165 GPS running smartwatch",
+    "pillar": "sports",
+    "merchant": "Amazon",
+    "description": "Garmin's popular AMOLED running watch with GPS, daily suggested workouts, sleep tracking and up to 11 days of battery.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B0CT3SGHXL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+165"
   }
 ]
