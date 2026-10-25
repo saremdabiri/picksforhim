@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0F8QZ7233",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+970"
   },
   {
@@ -766,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -934,7 +934,7 @@
     "url": "https://www.amazon.com/dp/B0GQVPX1PJ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-25"
   },
   {
     "id": "amazon-basics-home-safe-1-8",
@@ -960,7 +960,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-hunting-blind-see-through-with-carrying-bag-2-3-person-pop-up-ground-blinds-270-degree-hunting-tent",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-25"
   },
   {
     "id": "tidewe-heated-hunting-chair",
@@ -973,7 +973,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-360-heated-hunting-chair-adjustable-height-swivel-blind-chair-with-armrests",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-25"
   },
   {
     "id": "tidewe-heated-jacket",
@@ -986,7 +986,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-men-s-heated-jacket-fleece-with-battery-pack-rechargeable-coat-for-hunting-black-camo",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-25"
   },
   {
     "id": "tidewe-heated-gloves",
@@ -999,7 +999,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Fheated-hunting-gloves",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-25"
   },
   {
     "id": "vortex-crossfire-hd-10x42",
@@ -1122,5 +1122,33 @@
     "verified": true,
     "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+165"
+  },
+  {
+    "id": "kindle-paperwhite-signature",
+    "name": "Amazon Kindle Paperwhite Signature Edition (32 GB)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "The premium Paperwhite with 32 GB, an auto-adjusting warm light, wireless charging and a glare-free 7-inch screen.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B0C8RR4WN3",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Over-ear wireless headphones with active noise cancelling and up to 40 hours of battery; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B0C8PR4W22",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=beats+studio+pro"
   }
 ]
