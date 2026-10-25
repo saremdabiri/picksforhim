@@ -10,6 +10,8 @@ This page explains what information {{siteName}} collects and how it's used.
 - **Analytics:** we may use a privacy-friendly analytics tool to count page views and see which guides are popular. This data is aggregated and is not used to identify you.
 - **Server logs:** our hosting provider (GitHub Pages) may keep standard technical logs such as IP address and browser type for security and performance.
 
+- **Email sign-ups:** if you request our free holiday gift checklist, we store the email address you enter (on our Cloudflare-hosted form service) to send you the checklist and occasional gift-guide emails. We never sell it, and you can ask us to delete it at any time.
+
 ## Affiliate links and cookies
 
 When you click an affiliate link (for example, to Amazon), the retailer may set a cookie on your browser so they can credit us if you buy something. That cookie is set by the retailer and covered by the retailer's own privacy policy.
