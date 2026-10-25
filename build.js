@@ -57,6 +57,10 @@ const BANNED = [
 
 const popularHtml = (config.popular || []).length ? `<nav class="popular" aria-label="Popular gift searches"><strong>Popular gift searches:</strong> ${config.popular.map((x) => `<a href="${x.url}">${esc(x.label)}</a>`).join(' · ')}</nav>` : '';
 
+// Holiday gift checklist sign-up (Oct 25, 2026). Sign-ups go to the Fur & Nest form handler (Cloudflare Pages + KV), form-name picks-<siteKey>-checklist.
+const FORM_ACTION = 'https://furandnest.pages.dev/api/form';
+const checklistForm = (cta) => `<form class="cl-form" action="${FORM_ACTION}" method="post"><input type="hidden" name="form-name" value="picks-${config.siteKey}-checklist"><input type="text" name="company" tabindex="-1" autocomplete="off" class="cl-hp" aria-hidden="true"><label class="cl-sr" for="cl-email">Email address</label><input id="cl-email" type="email" name="email" required placeholder="Your email address"><button type="submit">${cta}</button></form><p class="cl-small">Free PDF. Occasional gift-guide emails, no spam. Unsubscribe any time. See our <a href="/privacy/">privacy policy</a>.</p>`;
+const checklistBox = `<section class="cl-box"><p class="eyebrow">Free download</p><h2>The 2026 Holiday Gift Checklist</h2><p>A printable list to plan every person, budget and order date, plus our best gift ideas. Enter your email and it's yours.</p>${checklistForm('Send me the checklist')}</section>`;
 // ---------- load posts ----------
 const postDir = path.join(ROOT, 'content/posts');
 const posts = fs.readdirSync(postDir).filter((f) => f.endsWith('.md')).map((file) => {
@@ -267,6 +271,7 @@ for (const post of posts) {
   ${list}
   <div class="prose">${markdown(post.after)}</div>
   ${faq}
+  ${checklistBox}
   <p class="disclosure-note bottom">We don't accept payment for placement. Prices and availability change often, so check the retailer for current details. As an Amazon Associate we earn from qualifying purchases.</p>
 </article>
 <div class="wrap">${relatedHtml}</div>`;
@@ -291,6 +296,7 @@ for (const post of posts) {
 </div></section>
 <div class="wrap">
   ${(config.popular || []).length ? `<section><h2 class="section-title">${esc(config.popularTitle || 'Most searched gift guides')}</h2><div class="popular-grid">${config.popular.map((x) => `<a class="popular-chip" href="${x.url}">${esc(x.label)}</a>`).join('')}</div></section>` : ''}
+  ${checklistBox}
   <section><h2 class="section-title">Latest guides</h2><div class="grid grid-3">${posts.slice(0, 9).map(card).join('')}</div></section>
   ${printables.length ? `<section><h2 class="section-title">Our printables</h2><p class="lede" style="margin-bottom:18px">Planners, checklists and cards we designed for pet-loving homes. Instant download from our Etsy shop.</p><div class="grid grid-3">${printables.slice(0, 3).map(printableCard).join('')}</div><p style="margin-top:16px"><a href="/printables/">See all printables →</a></p></section>` : ''}
   <section><h2 class="section-title">Browse by topic</h2><div class="pillars">${pillarsHtml}</div></section>
@@ -334,6 +340,11 @@ const pages = fs.readdirSync(pageDir).filter((f) => f.endsWith('.md')).map((file
     body: `<article class="page wrap-narrow"><h1>${esc(data.title)}</h1><div class="prose">${html}</div></article>` }));
   return data;
 });
+write('holiday-gift-checklist/index.html', layout({ title: 'Free 2026 Holiday Gift Checklist (Printable PDF)', description: `A free printable 2026 holiday gift checklist from ${config.siteName}: plan every person, budget and order date, with our best gift ideas.`, urlPath: '/holiday-gift-checklist/',
+  body: `<article class="page wrap-narrow"><p class="eyebrow">Free download</p><h1>Free 2026 Holiday Gift Checklist</h1><div class="prose"><p>Christmas shopping is easier with a plan. Our free printable checklist helps you:</p><ul><li>list everyone you're buying for, with a budget for each</li><li>note gift ideas, where to buy and when you ordered</li><li>tick off wrapped, shipped and given</li><li>see our most popular gift guides at a glance</li></ul><p>Enter your email below and we'll take you straight to the download.</p></div>${checklistForm('Get the free checklist')}</article>` }));
+write('holiday-gift-checklist/thanks/index.html', layout({ title: 'Your Holiday Gift Checklist', description: 'Download your free 2026 holiday gift checklist.', urlPath: '/holiday-gift-checklist/thanks/',
+  extraHead: '<meta name="robots" content="noindex">',
+  body: `<article class="page wrap-narrow"><h1>You're in! Here's your checklist</h1><div class="prose"><p><a class="btn" href="/holiday-gift-checklist-2026.pdf" download>Download the 2026 Holiday Gift Checklist (PDF)</a></p><p>Need ideas to fill it in? Start with ${(config.popular || []).slice(0, 3).map((x) => `<a href="${x.url}">${esc(x.label.toLowerCase())}</a>`).join(', ')}.</p></div></article>` }));
 write('newsletter/thanks/index.html', layout({ title: "You're in!", description: 'Subscribed', urlPath: '/newsletter/thanks/',
   body: `<article class="page wrap-narrow"><h1>You're in!</h1><p>Thank you.</p></article>` }));
 write('contact/thanks/index.html', layout({ title: 'Thanks!', description: 'Message sent', urlPath: '/contact/thanks/',
@@ -342,7 +353,7 @@ write('404.html', layout({ title: 'Page not found', description: 'Page not found
   body: `<article class="page wrap-narrow"><h1>That page wandered off</h1><p>Try the <a href="/">home page</a> or browse a topic from the menu above.</p></article>` }));
 
 // Sitemap, RSS, robots
-const urls = ['/', ...(printables.length ? ['/printables/'] : []), ...config.pillars.map((p) => `/category/${p.slug}/`), ...posts.map((p) => `/${p.slug}/`), ...pages.map((p) => `/${p.slug}/`)];
+const urls = ['/', ...(printables.length ? ['/printables/'] : []), ...config.pillars.map((p) => `/category/${p.slug}/`), ...posts.map((p) => `/${p.slug}/`), ...pages.map((p) => `/${p.slug}/`), '/holiday-gift-checklist/'];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => { const po = posts.find((p) => `/${p.slug}/` === u); const lm = po ? (po.updated || po.date) : (u === '/' && posts[0] ? (posts[0].updated || posts[0].date) : ''); return `  <url><loc>${SITE}${u}</loc>${lm ? `<lastmod>${lm}</lastmod>` : ''}</url>`; }).join('\n')}
