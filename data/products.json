@@ -378,6 +378,20 @@
     "searchUrl": "https://www.amazon.com/s?k=penn+battle+iv+combo"
   },
   {
+    "id": "penn-battle-iv-reel",
+    "name": "PENN Battle IV spinning reel (3000)",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Full-metal-body PENN spinning reel with HT-100 carbon drag, 5+1 bearings and a braid-ready spool; for inshore, pier and surf.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B0D19MW8K8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=penn+battle+iv+spinning+reel"
+  },
+  {
     "id": "garmin-striker-vivid-7cv",
     "name": "Garmin STRIKER Vivid 7cv fishfinder",
     "pillar": "outdoors",
@@ -1050,7 +1064,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
