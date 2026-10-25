@@ -246,7 +246,7 @@ for (const post of posts) {
   const jsonLd = [{
     '@context': 'https://schema.org', '@type': 'Article', headline: post.title, description: post.description,
     datePublished: post.date, dateModified: post.updated || post.date, image: `${SITE}${heroUrl(post)}`,
-    author: { '@type': 'Organization', name: config.siteName }, publisher: { '@type': 'Organization', name: config.siteName },
+    author: { '@type': 'Person', name: 'Amir Dabiri', url: `${SITE}/about/` }, publisher: { '@type': 'Organization', name: config.siteName },
     mainEntityOfPage: `${SITE}/${post.slug}/`,
   }];
   jsonLd.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [ { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` }, { '@type': 'ListItem', position: 2, name: pillar.name, item: `${SITE}/category/${pillar.slug}/` }, { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE}/${post.slug}/` } ] });
@@ -259,7 +259,7 @@ for (const post of posts) {
   const body = `<article class="post wrap-narrow">
   <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/category/${pillar.slug}/">${esc(pillar.name)}</a></nav>
   <h1>${esc(post.title)}</h1>
-  <p class="post-meta">${post.updated ? `Updated ${fmtDate(post.updated)}` : fmtDate(post.date)} · ${esc(pillar.name)}</p>
+  <p class="post-meta">${post.updated ? `Updated ${fmtDate(post.updated)}` : fmtDate(post.date)} · ${esc(pillar.name)} · By <a href="/about/">Amir Dabiri</a></p>
   ${disclosureTop}
   <img class="hero" src="${heroUrl(post)}" alt="${esc(post.heroAlt || post.title)}" width="1200" height="630">
   <div class="prose">${markdown(post.intro)}</div>
