@@ -50,9 +50,9 @@
    "text": "Cordless compression boots that pros use after hard sessions. Seven zones, simple controls and a premium feel. A wow gift for the runner, cyclist or golfer."
   },
   {
-   "title": "For the outdoorsman: YETI Tundra 45",
-   "product": "yeti-tundra-45",
-   "text": "The cooler that lasts for decades, for boat days, tailgates and hunting trips. Fishing husband? See our [fishing gifts](/fishing-gifts-for-men/)."
+   "title": "For the husband who runs, rides or golfs: Garmin Forerunner 165",
+   "product": "garmin-forerunner-165",
+   "text": "One of Amazon's best-selling sports watches right now, with 7K+ bought in the past month and a 4.6-star rating from over 5,000 reviews. A bright AMOLED screen, built-in GPS, daily suggested workouts, a morning sleep and recovery report, and up to 11 days of battery. Sold by Amazon.com."
   }
  ],
  "faq": [
@@ -78,14 +78,17 @@
   "Christmas Gifts for Husband 2026",
   "What to Get Your Husband for Christmas",
   "Luxury Gifts for the Husband Who Has Everything"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
-Finding Christmas gifts for husband is harder than it should be: he says he doesn't want anything, and he buys what he needs the moment he needs it. The trick is to give him the luxury version of something he'd never splurge on himself, or a piece of new tech he hasn't tried yet.
+Finding Christmas gifts for husband, especially a husband who has everything, is harder than it should be: he says he doesn't want anything, and he buys what he needs the moment he needs it. The trick is to give him the luxury version of something he'd never splurge on himself, or a piece of new tech he hasn't tried yet.
 
 Every pick below was checked on Amazon this week: in stock, highly rated and sold by Amazon or the brand itself.
 
 <!-- list -->
+
+Want the quick list? See our [top 10 gifts for men 2026](/top-10-gifts-for-men-2026/), plus [anniversary gifts for husband](/anniversary-gifts-for-husband/) if your dates are close together.
 
 ## How to choose a Christmas gift for your husband
 
