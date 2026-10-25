@@ -45,9 +45,9 @@
    "text": "If he's into pickleball, the Ben Johns Hyperion, with its spin-friendly carbon surface and USA Pickleball-approved build, is a paddle he'll brag about."
   },
   {
-   "title": "For the outdoorsman: YETI Tundra 45",
-   "product": "yeti-tundra-45",
-   "text": "Tailgates, boat days and camping. The cooler that lasts forever."
+   "title": "For the gamer: Nintendo Switch 2",
+   "product": "nintendo-switch-2",
+   "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger 1080p screen than the original. It's the most-bought gift on this list (20K+ on Amazon last month), rated 4.8 stars and sold by Amazon.com."
   },
   {
    "title": "For the groomed guy: Braun Series 9 PRO+",
@@ -75,7 +75,7 @@
   "Christmas Gifts for Your Boyfriend",
   "Boyfriend Gift Ideas He'll Love"
  ],
- "updated": "2026-10-21"
+ "updated": "2026-10-25"
 }
 ---
 Whether it's your first Christmas together or his birthday, the best gifts for a boyfriend are things he'll use every day and think of you when he does.

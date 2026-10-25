@@ -25,9 +25,9 @@
    "text": "A slightly more approachable Shimano with the same smooth feel. A great upgrade from a starter reel."
   },
   {
-   "title": "PENN Battle IV combo: built for salt",
-   "product": "penn-battle-iv-combo",
-   "text": "A full-metal PENN reel paired with a matched rod, ready for inshore, pier and surf fishing. Tough enough for redfish and snook."
+   "title": "PENN Battle IV reel: built for salt",
+   "product": "penn-battle-iv-reel",
+   "text": "PENN's full-metal-body spinning reel (size 3000) with HT-100 carbon fiber drag, a 5+1 sealed bearing system and a braid-ready spool, made for inshore, pier and surf fishing. Rated 4.8 stars by owners; pair it with his favorite rod."
   },
   {
    "title": "Garmin STRIKER Vivid 7cv: see what's below",
@@ -74,7 +74,8 @@
   "Fishing Gifts for Men",
   "Gifts for the Fisherman Who Has Everything",
   "The Angler's Christmas Gift Guide"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
 If he'd rather be on the water, the best gifts are the ones he'll use every trip. Not novelty mugs: real gear upgrades from the brands anglers trust, Shimano, PENN, Garmin, Costa and YETI.
