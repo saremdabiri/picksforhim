@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0842CNQ94",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=yeti+tundra+45"
   },
   {
@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -892,7 +892,7 @@
     "url": "https://www.amazon.com/dp/B00CH9QWOU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
   },
   {
@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -986,7 +986,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-men-s-heated-jacket-fleece-with-battery-pack-rechargeable-coat-for-hunting-black-camo",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   {
     "id": "tidewe-heated-gloves",
@@ -1064,7 +1064,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
@@ -1134,7 +1134,7 @@
     "url": "https://www.amazon.com/dp/B0C8RR4WN3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
   },
   {
@@ -1150,5 +1150,19 @@
     "verified": true,
     "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=beats+studio+pro"
+  },
+  {
+    "id": "lego-technic-peugeot-9x8",
+    "name": "LEGO Technic Peugeot 9X8 24H Le Mans Hybrid Hypercar 42156",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A 1,775-piece LEGO Technic model of the Le Mans hypercar for adult builders; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-26",
+    "url": "https://www.amazon.com/dp/B0BNW95ZT1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-26",
+    "searchUrl": "https://www.amazon.com/s?k=lego+technic+peugeot+9x8"
   }
 ]
