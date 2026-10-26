@@ -59,7 +59,8 @@
   "The Luxury Electric Shaver Edit",
   "Braun vs Norelco: The Flagship Shaver Guide",
   "Gifts for Him: The Best Electric Shavers"
- ]
+ ],
+ "updated": "2026-10-26"
 }
 ---
 A great shave is one of the few luxuries a man uses every single day, which is exactly what makes a premium electric shaver such a smart gift. The best ones are precisely engineered, built to last for years, and turn a chore into a small ritual.
