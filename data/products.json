@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-27",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -612,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0D4876TX4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-27",
     "searchUrl": "https://www.amazon.com/s?k=hyperice+normatec+elite"
   },
   {
@@ -710,7 +710,7 @@
     "url": "https://www.amazon.com/dp/B07YDGWWPL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22",
+    "lastVerified": "2026-10-27",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
   },
   {
@@ -1164,5 +1164,19 @@
     "verified": true,
     "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=lego+technic+peugeot+9x8"
+  },
+  {
+    "id": "garmin-approach-s70",
+    "name": "Garmin Approach S70 47mm Premium GPS Golf Watch",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A premium AMOLED GPS golf watch with 43,000+ preloaded courses, virtual caddie and swing tempo; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-27",
+    "url": "https://www.amazon.com/dp/B0BYFBRMWP",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-27",
+    "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
   }
 ]
