@@ -211,3 +211,10 @@ a:hover { color: var(--gold); }
 .cl-box .cl-small a{color:#e3c88f}
 .cl-hp,.cl-sr{position:absolute!important;left:-9999px;width:1px;height:1px;overflow:hidden}
 .btn{display:inline-block;padding:12px 22px;border-radius:999px;background:#c9a65c;color:#141210!important;font-weight:600;text-decoration:none}
+
+/* Comparison tables (markdown pipe tables) */
+.table-wrap{overflow-x:auto;margin:1.5em 0;border:1px solid var(--line);border-radius:var(--radius)}
+.table-wrap table{width:100%;border-collapse:collapse;font-size:15px}
+.table-wrap th,.table-wrap td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+.table-wrap th{background:var(--accent-soft);font-weight:600}
+.table-wrap tr:last-child td{border-bottom:0}
