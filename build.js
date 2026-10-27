@@ -137,7 +137,7 @@ function layout({ title, description, urlPath, body, ogImage, type = 'website', 
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${esc(fullTitle)}</title>
+${extraHead.includes('name="robots"') ? '' : '<meta name="robots" content="max-image-preview:large">\n'}<title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${canonical}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
