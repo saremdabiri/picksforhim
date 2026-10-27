@@ -4,7 +4,7 @@
  "slug": "luxury-christmas-gifts-for-him",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, Bose noise cancelling, a Traeger smoker, YETI, a Garmin fishfinder, MEATER and a biometric safe. Considered gifts, no clutter.",
+ "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, the Nintendo Switch 2, a Traeger smoker, YETI, a Garmin fishfinder, MEATER and a biometric safe. Considered gifts, no clutter.",
  "heroAlt": "Gift boxes wrapped in dark paper with gold ribbon beside a watch and leather gloves",
  "keyword": "christmas gifts for him",
  "quickPicks": [
@@ -25,9 +25,9 @@
    "text": "The integrated-bracelet Swiss watch everyone is talking about. More picks in our [watch guide](/luxury-watches-for-men-gift-guide/)."
   },
   {
-   "title": "For the traveler: Bose QuietComfort headphones",
-   "product": "bose-qc-headphones",
-   "text": "Quiet on the plane, focus at the office and great sound at home. Comfortable enough for a long-haul flight."
+   "title": "For game nights: Nintendo Switch 2",
+   "product": "nintendo-switch-2",
+   "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger, sharper screen than the original. It's one of the most-bought gifts on Amazon this season (20K+ bought last month), rated 4.8 stars and sold by Amazon.com."
   },
   {
    "title": "For the pitmaster: Traeger Pro 22",
@@ -80,7 +80,7 @@
   "Luxury Gifts He'll Actually Use",
   "Gifts for the Man Who Has Everything"
  ],
- "updated": "2026-10-20"
+ "updated": "2026-10-27"
 }
 ---
 The best gifts for men aren't gimmicks. They're the upgraded version of something he already loves: the morning shave, the watch on his wrist, Saturday at the grill, Sunday on the water.
