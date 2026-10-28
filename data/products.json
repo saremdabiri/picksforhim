@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B07HSPSX5M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=hamilton+khaki+field+mechanical"
   },
   {
@@ -701,16 +701,16 @@
   },
   {
     "id": "valentino-born-in-roma-uomo",
-    "name": "Valentino Uomo Born in Roma eau de toilette",
+    "name": "Valentino Uomo Born in Roma Intense Eau de Parfum",
     "pillar": "grooming",
     "merchant": "Amazon",
     "description": "A modern woody-spicy cologne with vanilla and vetiver in the studded Valentino bottle; sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-18",
-    "url": "https://www.amazon.com/dp/B07YDGWWPL",
+    "url": "https://www.amazon.com/dp/B0BZ8FFPQL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma"
   },
   {
@@ -738,7 +738,7 @@
     "url": "https://www.amazon.com/dp/B000E7YK5K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -766,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -836,7 +836,7 @@
     "url": "https://www.amazon.com/dp/B0DC9F65H4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=bellroy+hide+and+seek+wallet"
   },
   {
@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1077,7 +1077,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-28",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
@@ -1191,5 +1191,19 @@
     "verified": true,
     "lastVerified": "2026-10-27",
     "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
+  },
+  {
+    "id": "valentino-born-in-roma-uomo-intense",
+    "name": "Valentino Uomo Born in Roma Intense Eau de Parfum",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "An ambery, vanilla-and-lavender intense eau de parfum in Valentino's studded bottle; sold by Valentino Beauty.",
+    "image": null,
+    "dateAdded": "2026-10-28",
+    "url": "https://www.amazon.com/dp/B0BZ8FFPQL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-28",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma+intense"
   }
 ]
