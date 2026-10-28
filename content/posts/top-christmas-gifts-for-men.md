@@ -4,7 +4,7 @@
  "slug": "top-christmas-gifts-for-men",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, the Meta Quest 3, a Tissot PRX and more.",
+ "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, the Meta Quest 3, the Nintendo Switch 2, a Tissot PRX and more.",
  "heroAlt": "A row of wrapped Christmas presents under a tree with a man's watch and headphones beside them",
  "keyword": "top christmas gifts for men",
  "quickPicks": [
@@ -25,9 +25,9 @@
    "text": "Thousands bought on Amazon in the past month (9K+ tonight) and on the Headphones best-seller list. Apple's premium over-ear noise-cancelling headphones, sold by Amazon."
   },
   {
-   "title": "The viral tech gift: Ray-Ban Meta (Gen 2) smart glasses",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Thousands bought in the past month on Amazon. Classic Wayfarer style with a hands-free camera, open-ear speakers and a built-in assistant, so he can capture the moment without reaching for his phone."
+   "title": "The gift of the season: Nintendo Switch 2",
+   "product": "nintendo-switch-2",
+   "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger, sharper screen than the original. It's the most-bought gift on Amazon this season (20K+ last month), rated 4.8 stars and sold by Amazon.com."
   },
   {
    "title": "Bushnell Tour V6 Shift golf rangefinder",
@@ -80,7 +80,7 @@
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
  ],
- "updated": "2026-10-21"
+ "updated": "2026-10-28"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.

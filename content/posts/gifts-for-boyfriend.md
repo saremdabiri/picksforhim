@@ -25,9 +25,9 @@
    "text": "A watch with real presence that he'll wear every day. Great for a first Christmas or a big birthday."
   },
   {
-   "title": "The cool-factor gift: Ray-Ban Meta (Gen 2) glasses",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Iconic Ray-Ban style with a camera, music and calls built in. One of the most-bought tech gifts on Amazon this month, and an easy win for the guy who loves gadgets."
+   "title": "The cool-factor gift: Meta Quest 3S",
+   "product": "meta-quest-3s",
+   "text": "A standalone mixed-reality headset for games, workouts and movies on a giant virtual screen, with no PC or console needed. 10,000+ bought on Amazon last month, rated 4.6 stars from 6,700+ reviews and sold by Amazon.com, an easy win for the guy who loves gadgets."
   },
   {
    "title": "For music on the go: Beats Solo 4",
@@ -75,7 +75,7 @@
   "Christmas Gifts for Your Boyfriend",
   "Boyfriend Gift Ideas He'll Love"
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-28"
 }
 ---
 Whether it's your first Christmas together or his birthday, the best gifts for a boyfriend are things he'll use every day and think of you when he does.
