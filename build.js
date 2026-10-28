@@ -249,7 +249,7 @@ for (const post of posts) {
 
   const jsonLd = [{
     '@context': 'https://schema.org', '@type': 'Article', headline: post.title, description: post.description,
-    datePublished: post.date, dateModified: post.updated || post.date, image: `${SITE}${heroUrl(post)}`,
+    datePublished: `${post.date}T12:00:00+00:00`, dateModified: `${post.updated || post.date}T12:00:00+00:00`, image: `${SITE}${heroUrl(post)}`,
     author: { '@type': 'Person', name: 'Amir Dabiri', url: `${SITE}/about/` }, publisher: { '@type': 'Organization', name: config.siteName },
     mainEntityOfPage: `${SITE}/${post.slug}/`,
   }];
