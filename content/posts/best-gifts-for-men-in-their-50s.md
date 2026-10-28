@@ -4,6 +4,7 @@
  "slug": "best-gifts-for-men-in-their-50s",
  "pillar": "gift-guides",
  "date": "2026-10-27",
+ "updated": "2026-10-28",
  "description": "The best gifts for men in their 50s in 2026, from 50th birthday gifts for husband to Christmas: a Tissot PRX watch, Traeger pellet grill, Garmin Approach S70 golf watch, Oura Ring 5, Normatec Elite boots, a Solo Stove fire pit and Valentino cologne.",
  "heroAlt": "A dark gift box with a gold ribbon on a wooden table beside a Swiss watch, a golf watch and a bottle of cologne",
  "keyword": "best gifts for men in their 50s",
@@ -32,7 +33,7 @@
   {
    "title": "A signature scent: Valentino Uomo Born in Roma",
    "product": "valentino-born-in-roma-uomo",
-   "text": "A smooth, modern woody fragrance in Valentino's studded bottle, easy to wear from the office to dinner. 1,000+ bought last month and nearly 4,500 reviews, sold by Valentino Beauty."
+   "text": "A smooth, modern woody fragrance in Valentino's studded bottle, easy to wear from the office to dinner. 1,000+ bought last month and about 2,500 reviews, sold by Valentino Beauty."
   },
   {
    "title": "A smart ring he'll forget he's wearing: Oura Ring 5",
