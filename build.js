@@ -12,6 +12,16 @@ const products = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/products.json'
 const productById = Object.fromEntries(products.map((p) => [p.id, p]));
 const printablesFile = path.join(ROOT, 'data/printables.json');
 const printables = fs.existsSync(printablesFile) ? JSON.parse(fs.readFileSync(printablesFile, 'utf8')) : [];
+// Brand coupon boxes (data/promos.json). Codes and spend thresholds come from the brand; a promo stops rendering on builds after its "expires" date.
+const promosFile = path.join(ROOT, 'data/promos.json');
+const promos = fs.existsSync(promosFile) ? JSON.parse(fs.readFileSync(promosFile, 'utf8')) : {};
+const TODAY = new Date().toISOString().slice(0, 10);
+function promoBox(id) {
+  const pr = promos[id];
+  if (!pr || (pr.expires && TODAY > pr.expires)) return '';
+  const rows = pr.codes.map((c) => `<li><code>${esc(c.code)}</code><span>${c.url ? `<a href="${esc(c.url)}" rel="sponsored nofollow noopener" target="_blank">${esc(c.offer)}</a>` : esc(c.offer)}</span></li>`).join('');
+  return `<aside class="promo-box" aria-label="${esc(pr.title)}"><p class="eyebrow">Brand codes</p><h2>${esc(pr.title)}</h2><ul>${rows}</ul><p class="promo-terms">${esc(pr.terms)} ${esc(pr.endText || '')}</p><p class="promo-cta"><a class="btn btn-small" href="${esc(pr.url)}" rel="sponsored nofollow noopener" target="_blank">${esc(pr.cta)}</a></p><p class="promo-note">Codes from ${esc(pr.merchant)}; we earn a commission if you buy through these links.</p></aside>`;
+}
 const pillarBySlug = Object.fromEntries(config.pillars.map((p) => [p.slug, p]));
 const SITE = config.siteUrl.replace(/\/$/, '');
 const YEAR = new Date().getFullYear();
@@ -71,6 +81,7 @@ const posts = fs.readdirSync(postDir).filter((f) => f.endsWith('.md')).map((file
   for (const item of data.items || []) {
     if (!productById[item.product]) warnings.push(`${file}: product "${item.product}" is not in data/products.json (item skipped)`);
   }
+  if (data.promo && !promos[data.promo]) warnings.push(`${file}: promo "${data.promo}" is not in data/promos.json (skipped)`);
   for (const id of data.quickPicks || []) {
     if (!productById[id]) warnings.push(`${file}: quick pick "${id}" is not in data/products.json (skipped)`);
   }
@@ -267,6 +278,7 @@ for (const post of posts) {
   ${disclosureTop}
   <img class="hero" src="${heroUrl(post)}" alt="${esc(post.heroAlt || post.title)}" width="1200" height="630">
   <div class="prose">${markdown(post.intro)}</div>
+  ${post.promo ? promoBox(post.promo) : ''}
   ${quickBox}
   ${list}
   <div class="prose">${markdown(post.after)}</div>
