@@ -4,7 +4,7 @@
  "slug": "black-friday-gifts-for-him-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "description": "The best Black Friday gifts for him in 2026: big-ticket picks rated 4.4 stars or higher from thousands of Amazon reviews, from the Nintendo Switch 2 and AirPods Pro 3 to a Traeger grill and an Oura Ring. Check today's price on each.",
  "heroAlt": "Wrapped gifts in black paper with gold ribbon beside headphones, a watch and a game controller",
  "keyword": "black friday gifts for him 2026",
@@ -99,7 +99,8 @@
   "Black Friday Gifts for Him 2026",
   "Big-Ticket Gifts for Men Worth Buying on Sale",
   "Black Friday Gift Ideas for Husband"
- ]
+ ],
+ "promo": "tidewe-black-friday-2026"
 }
 ---
 Black Friday is the one week a year when the big gifts, the ones he'd never buy himself, get within reach. This list skips the gadget filler and sticks to big-ticket gifts that are worth the money at any price: each one is rated 4.4 stars or higher from hundreds to thousands of Amazon reviews.

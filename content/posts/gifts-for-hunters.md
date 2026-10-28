@@ -35,6 +35,11 @@
    "text": "Waterproof, windproof gloves with 3M insulation and three heat levels (104 to 149°F), running 2.5 to 8.5 hours depending on the setting. Even switched off, they're warm insulated gloves.\n\n**Best for:** late-season sits and duck blinds."
   },
   {
+   "title": "TIDEWE × MinnDak Slough Dawgs waders: dry mornings in the marsh",
+   "product": "tidewe-slough-dawgs-waders",
+   "text": "Breathable bootfoot chest waders developed with the MinnDak duck-hunting crew, with 4-layer HYDRA-SHIELD waterproofing and a TIZIP® front zipper, so he can get in and out without wrestling them off.\n\n**Black Friday code:** TideWe's code **W150** applies to these waders (see the TideWe codes box above).\n\n**Best for:** duck and goose hunters who stand in cold water."
+  },
+  {
    "title": "Vortex Crossfire HD 10x42 binoculars: the hunter's everyday glass",
    "product": "vortex-crossfire-hd-10x42",
    "text": "Bright, sharp 10x42 binoculars from the optics brand hunters trust most, waterproof and fogproof and covered by Vortex's no-questions-asked VIP warranty. Rated 4.8 stars by thousands of Amazon buyers.\n\n**Add:** a bino harness keeps them on his chest and out of the way."
@@ -78,7 +83,9 @@
   "Best Gifts for Hunters",
   "Christmas Gifts for the Hunter in Your Life",
   "Heated Hunting Gear He'll Love"
- ]
+ ],
+ "promo": "tidewe-black-friday-2026",
+ "updated": "2026-10-28"
 }
 ---
 Shopping for a hunter? The best gifts are the ones that keep him warm, hidden and confident through long, cold sits, not another camo mug. These are gear upgrades from brands hunters trust: TIDEWE heated gear and blinds, Vortex optics, Tactacam and Outdoor Edge.

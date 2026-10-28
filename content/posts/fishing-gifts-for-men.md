@@ -80,7 +80,8 @@
   "Gifts for the Fisherman Who Has Everything",
   "The Angler's Christmas Gift Guide"
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-28",
+ "promo": "tidewe-black-friday-2026"
 }
 ---
 If he'd rather be on the water, the best gifts are the ones he'll use every trip. Not novelty mugs: real gear upgrades from the brands anglers trust, Shimano, PENN, Garmin, Costa and YETI.
