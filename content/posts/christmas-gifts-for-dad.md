@@ -90,4 +90,4 @@ These are the Christmas gifts dads actually use, including ideas for the dad who
 - **Feed the hobby.** Grilling, golf, fishing or fitness. Go one level above what he would buy himself.
 - **Think long-term.** Watches, coolers and tough gear last for decades and carry memories.
 
-Shopping for more people on your list? See [gifts for husband](/gifts-for-husband/), [top Christmas gifts for men](/top-christmas-gifts-for-men/) and [best Christmas gifts for him](/luxury-christmas-gifts-for-him/).
+Shopping for more people on your list? See [gifts for husband](/gifts-for-husband/), [top Christmas gifts for men](/top-christmas-gifts-for-men/), [best Christmas gifts for him](/luxury-christmas-gifts-for-him/) and, if Dad just stopped working, [retirement gifts for men](/retirement-gifts-for-men/).
