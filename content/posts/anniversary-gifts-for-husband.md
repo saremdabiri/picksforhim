@@ -95,4 +95,4 @@ Every pick below was checked on Amazon today: in stock, highly rated and sold by
 - **Think about what you do together.** Travel, golf, the gym or the water: a gift that fits your shared life lands best.
 - **Add a personal note.** A short handwritten card turns a great product into a great anniversary gift.
 
-Looking for more? See our [gifts for husband](/gifts-for-husband/) guide for any occasion, [birthday gifts for men](/birthday-gifts-for-men/), or [Christmas gifts for husband](/christmas-gifts-for-husband/).
+Looking for more? See our [gifts for husband](/gifts-for-husband/) guide for any occasion, [birthday gifts for men](/birthday-gifts-for-men/), or [Christmas gifts for husband](/christmas-gifts-for-husband/). Want to go bigger? See our [luxury gifts for husband](/luxury-gifts-for-husband/).

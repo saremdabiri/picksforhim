@@ -97,4 +97,4 @@ Want the quick list? See our [top 10 gifts for men 2026](/top-10-gifts-for-men-2
 - **Think about how he spends his weekends.** Training, fishing, grilling or golf: feed the hobby with gear he'll use for years.
 - **Order early.** Popular gifts sell out in December, and Prime delivery slows down close to Christmas.
 
-Need more ideas? See our [gifts for husband](/gifts-for-husband/) guide for any occasion, [gifts for men who have everything](/gifts-for-men-who-have-everything/), or the full [Christmas gifts for him](/luxury-christmas-gifts-for-him/) list.
+Need more ideas? See our [gifts for husband](/gifts-for-husband/) guide for any occasion, [gifts for men who have everything](/gifts-for-men-who-have-everything/), or the full [Christmas gifts for him](/luxury-christmas-gifts-for-him/) list. Want to go bigger? See our [luxury gifts for husband](/luxury-gifts-for-husband/).

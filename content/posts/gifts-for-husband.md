@@ -94,4 +94,4 @@ These are the gifts husbands actually use, from Christmas morning to his birthda
 - **Feed the hobby.** Grilling, fishing, golf, fitness. Go one level above what he'd buy himself.
 - **Make a milestone mean something.** For an anniversary or a big birthday, a watch lasts for decades.
 
-Still looking? Browse [Christmas gifts for him](/luxury-christmas-gifts-for-him/) or [gifts for a boyfriend](/gifts-for-boyfriend/).
+Still looking? Browse [Christmas gifts for him](/luxury-christmas-gifts-for-him/) or [gifts for a boyfriend](/gifts-for-boyfriend/). Want to go bigger? See our [luxury gifts for husband](/luxury-gifts-for-husband/).
