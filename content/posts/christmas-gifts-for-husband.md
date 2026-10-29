@@ -4,20 +4,20 @@
  "slug": "christmas-gifts-for-husband",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "The best Christmas gifts for husband in 2026, even if he has everything: Ray-Ban Meta smart glasses, the new Apple Watch Ultra 4, Valentino cologne, a Swiss watch, UGG Tasman slippers and more upgrades he won't buy himself.",
+ "description": "The best Christmas gifts for husband in 2026, even if he has everything: Apple AirPods Max 2, the new Apple Watch Ultra 4, Valentino cologne, a Swiss watch, UGG Tasman slippers and more upgrades he won't buy himself.",
  "heroAlt": "A dark wrapped Christmas gift with a gold ribbon beside a watch and cologne under tree lights",
  "keyword": "christmas gifts for husband",
  "quickPicks": [
-  "ray-ban-meta-gen-2",
+  "airpods-max-2",
   "apple-watch-ultra-4",
   "valentino-born-in-roma-uomo"
  ],
  "listHeading": "The best Christmas gifts for your husband",
  "items": [
   {
-   "title": "The gift under the tree he'll open first: Ray-Ban Meta (Gen 2)",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Classic Wayfarer frames with a built-in camera, open-ear audio and a hands-free assistant. They're among the most-bought tech gifts on Amazon this season, and most husbands haven't tried them yet."
+   "title": "The gift under the tree he'll open first: Apple AirPods Max 2",
+   "product": "airpods-max-2",
+   "text": "Apple's premium over-ear headphones with active noise cancellation, spatial audio and a soft knit headband. 10,000+ bought on Amazon in the past month, rated 4.5 stars and sold by Amazon.com, and a luxury most husbands won't buy for themselves."
   },
   {
    "title": "The new flagship watch: Apple Watch Ultra 4",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best Christmas gifts for husband in 2026?",
-   "a": "The most popular this year are Ray-Ban Meta (Gen 2) smart glasses, the Apple Watch Ultra 4, a designer cologne, a Swiss watch like the Tissot PRX and UGG Tasman II slippers."
+   "a": "The most popular this year are Apple AirPods Max 2, the Apple Watch Ultra 4, a designer cologne, a Swiss watch like the Tissot PRX and UGG Tasman II slippers."
   },
   {
    "q": "What do you get a husband who has everything for Christmas?",
@@ -66,7 +66,7 @@
   },
   {
    "q": "What is a good first Christmas gift for a husband?",
-   "a": "For your first Christmas married, a watch or a signature cologne feels personal and lasts. Pair it with something fun like smart glasses."
+   "a": "For your first Christmas married, a watch or a signature cologne feels personal and lasts. Pair it with something fun like new headphones."
   },
   {
    "q": "What should I get my husband for his birthday instead?",
@@ -79,7 +79,7 @@
   "What to Get Your Husband for Christmas",
   "Luxury Gifts for the Husband Who Has Everything"
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-29"
 }
 ---
 Finding Christmas gifts for husband, especially a husband who has everything, is harder than it should be: he says he doesn't want anything, and he buys what he needs the moment he needs it. The trick is to give him the luxury version of something he'd never splurge on himself, or a piece of new tech he hasn't tried yet.

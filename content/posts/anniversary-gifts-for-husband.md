@@ -4,13 +4,13 @@
  "slug": "anniversary-gifts-for-husband",
  "pillar": "gift-guides",
  "date": "2026-10-19",
- "description": "The best anniversary gifts for husband in 2026: a Swiss Tissot PRX, the Hamilton Khaki Field, Valentino and Armani cologne, Ray-Ban Meta smart glasses, the Apple Watch Ultra 4 and more luxury anniversary gifts for him.",
+ "description": "The best anniversary gifts for husband in 2026: a Swiss Tissot PRX, the Hamilton Khaki Field, Valentino and Armani cologne, the Oura Ring 5, the Apple Watch Ultra 4 and more luxury anniversary gifts for him.",
  "heroAlt": "A dark gift box with a gold ribbon beside a classic wristwatch and a cologne bottle on a walnut table",
  "keyword": "anniversary gifts for husband",
  "quickPicks": [
   "tissot-prx",
   "valentino-born-in-roma-uomo",
-  "ray-ban-meta-gen-2"
+  "oura-ring-5"
  ],
  "listHeading": "The best anniversary gifts for your husband",
  "items": [
@@ -35,9 +35,9 @@
    "text": "Clean, aquatic and easy to love, with more than 26,000 reviews. If he likes lighter scents, this is the safe luxury choice, sold by Armani beauty."
   },
   {
-   "title": "Something new to try together: Ray-Ban Meta (Gen 2)",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Classic Wayfarers with a built-in camera and open-ear audio, so he can capture your anniversary trip hands-free. Thousands bought on Amazon in the past month."
+   "title": "A ring he'll actually wear every day: Oura Ring 5",
+   "product": "oura-ring-5",
+   "text": "A titanium smart ring that tracks sleep, activity and readiness and shows it in the Oura app, with no screen on his wrist. 2,000+ bought on Amazon in the past month, rated 4.4 stars, sold by Amazon.com (membership needed for the full feature set)."
   },
   {
    "title": "The flagship upgrade: Apple Watch Ultra 4",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best anniversary gifts for husband in 2026?",
-   "a": "A quality watch like the Tissot PRX or Hamilton Khaki Field, a designer cologne such as Valentino Born in Roma, Ray-Ban Meta smart glasses and the Apple Watch Ultra 4 are among the most popular this year."
+   "a": "A quality watch like the Tissot PRX or Hamilton Khaki Field, a designer cologne such as Valentino Born in Roma, the Oura Ring 5 and the Apple Watch Ultra 4 are among the most popular this year."
   },
   {
    "q": "What are good anniversary gifts for him by year?",
@@ -78,7 +78,8 @@
   "Anniversary Gifts for Husband 2026",
   "Luxury Anniversary Gifts for Him",
   "What to Get Your Husband for Your Anniversary"
- ]
+ ],
+ "updated": "2026-10-29"
 }
 ---
 Anniversary gifts for husband should feel personal and last longer than the dinner reservation. The best ones are pieces he'll use or wear every day and think of you when he does: a fine watch, a signature cologne, or a luxury upgrade he'd never buy himself.
