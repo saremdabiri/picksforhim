@@ -90,4 +90,4 @@ These ideas also work for the husband who says he doesn't want anything.
 - **Go premium on daily use.** He'll appreciate the flagship shaver or watch more than another gadget.
 - **Match his hobby.** Golf, fishing, grilling or fitness: a step up from his current gear always lands.
 
-More ideas: [gifts for husband](/gifts-for-husband/), [Christmas gifts for dad](/christmas-gifts-for-dad/) and [birthday gifts for men](/birthday-gifts-for-men/).
+More ideas: [gifts for husband](/gifts-for-husband/), [Christmas gifts for dad](/christmas-gifts-for-dad/), [birthday gifts for men](/birthday-gifts-for-men/) and [retirement gifts for men](/retirement-gifts-for-men/).
