@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -612,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0D4876TX4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=hyperice+normatec+elite"
   },
   {
@@ -738,7 +738,7 @@
     "url": "https://www.amazon.com/dp/B000E7YK5K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -766,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1189,7 +1189,7 @@
     "url": "https://www.amazon.com/dp/B0BYFBRMWP",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
   },
   {
@@ -1203,7 +1203,21 @@
     "url": "https://www.amazon.com/dp/B0BZ8FFPQL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma+intense"
+  },
+  {
+    "id": "lego-technic-nissan-skyline-gtr-r34",
+    "name": "LEGO Technic 2 Fast 2 Furious Nissan Skyline GT-R (R34)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A detailed LEGO Technic model of the Skyline GT-R R34 from 2 Fast 2 Furious for adult builders; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-29",
+    "url": "https://www.amazon.com/dp/B0DRW6C13X",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-29",
+    "searchUrl": "https://www.amazon.com/s?k=lego+technic+nissan+skyline+gt-r+r34"
   }
 ]
