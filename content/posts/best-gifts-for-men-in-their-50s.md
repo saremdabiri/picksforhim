@@ -95,4 +95,4 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 - **Think comfort and recovery.** Sleep tracking and compression boots are gifts he may not buy for himself.
 - **Buy from the brand or Amazon.** For watches and fragrance, the seller matters as much as the product.
 
-More ideas: [best gifts for men in their 40s](/best-gifts-for-men-in-their-40s/), [Christmas gifts for dad](/christmas-gifts-for-dad/) and [Christmas gifts for husband](/christmas-gifts-for-husband/).
+More ideas: [best gifts for men in their 40s](/best-gifts-for-men-in-their-40s/), [Christmas gifts for dad](/christmas-gifts-for-dad/), [Christmas gifts for husband](/christmas-gifts-for-husband/) and [retirement gifts for men](/retirement-gifts-for-men/).
