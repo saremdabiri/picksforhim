@@ -4,6 +4,7 @@
   "slug": "luxury-gifts-for-husband",
   "pillar": "gift-guides",
   "date": "2026-10-29",
+  "updated": "2026-10-30",
   "description": "Don't let him see this list. 10 luxury gifts for your husband in 2026: a Swiss watch, AirPods Max 2, a Breville espresso machine, Normatec boots and more he'd never buy himself.",
   "heroAlt": "A dark gift box with a gold ribbon next to a steel watch and a cup of espresso",
   "keyword": "luxury gifts for husband",
@@ -50,9 +51,9 @@
       "text": "The wood-pellet smoker that made pellet grilling famous, with 572 sq in of cooking space. He sets the temperature and the Traeger keeps the fire going.\n\n**Best for:** weekend grillers ready for brisket and ribs."
     },
     {
-      "title": "The signature scent: Valentino Uomo Born in Roma Intense",
+      "title": "The signature scent: Valentino Uomo Born in Roma Extradose",
       "product": "valentino-born-in-roma-uomo-intense",
-      "text": "An ambery, vanilla-and-lavender eau de parfum in Valentino's studded bottle. Fragrance is a classic luxury gift because it feels personal, and the bottle looks good on a dresser.\n\n**Best for:** date nights and the man who likes to dress up."
+      "text": "A spicy lavender-and-vetiver parfum with a leathery, woody dry-down in Valentino's studded bottle. Fragrance is a classic luxury gift because it feels personal, and the bottle looks good on a dresser.\n\n**Best for:** date nights and the man who likes to dress up."
     },
     {
       "title": "The quiet tech: Oura Ring 5",
@@ -110,7 +111,7 @@ That's the trick with luxury gifts for a husband: skip the novelty and upgrade t
 | Hyperice Normatec Elite | Recovery boots | Runners and lifters |
 | Solo Stove Bonfire | Fire pit | The host |
 | Traeger Pro 22 | Pellet smoker | The griller |
-| Valentino Born in Roma Intense | Fragrance | Date nights |
+| Valentino Born in Roma Extradose | Fragrance | Date nights |
 | Oura Ring 5 | Smart ring | Sleep and fitness data |
 | Bellroy Hide & Seek | Leather wallet | A second gift |
 

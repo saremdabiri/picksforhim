@@ -4,13 +4,13 @@
  "slug": "best-gifts-for-men-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-22",
- "updated": "2026-10-28",
- "description": "The best gifts for men in their 30s in 2026: Nintendo Switch 2, Ray-Ban Meta glasses, Sony WH-1000XM6 headphones, a Tissot PRX watch, Apple Watch Ultra 4, a Breville espresso machine and Valentino cologne.",
+ "updated": "2026-10-30",
+ "description": "The best gifts for men in their 30s in 2026: Nintendo Switch 2, AirPods Max 2, Sony WH-1000XM6 headphones, a Tissot PRX watch, Apple Watch Ultra 4, a Breville espresso machine and Valentino cologne.",
  "heroAlt": "A black gift box with a gold ribbon on a walnut desk beside wireless headphones, a steel watch and smart sunglasses",
  "keyword": "best gifts for men in their 30s",
  "quickPicks": [
   "nintendo-switch-2",
-  "ray-ban-meta-gen-2",
+  "airpods-max-2",
   "tissot-prx"
  ],
  "listHeading": "The best gifts for men in their 30s",
@@ -21,9 +21,9 @@
    "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger, sharper screen than the original. It's one of the most-bought gifts on Amazon this season (20K+ last month), rated 4.8 stars and sold by Amazon.com."
   },
   {
-   "title": "Tech he'll wear every day: Ray-Ban Meta (Gen 2)",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Classic Wayfarers with a hands-free camera, open-ear speakers and Meta AI built in. Thousands were bought on Amazon last month, sold by Amazon.com."
+   "title": "Tech he'll use every day: Apple AirPods Max 2",
+   "product": "airpods-max-2",
+   "text": "Apple's over-ear noise-cancelling headphones for flights, the commute and focus time at home. Rated 4.5 stars by more than 1,000 buyers and sold by Amazon.com, one of the best-selling premium headphones on Amazon this season."
   },
   {
    "title": "For the commute and the flight: Sony WH-1000XM6",
@@ -48,7 +48,7 @@
   {
    "title": "A signature scent: Valentino Uomo Born in Roma",
    "product": "valentino-born-in-roma-uomo",
-   "text": "A modern woody, aromatic cologne in the studded bottle. Rated 4.7 stars by about 2,500 buyers, sold by Valentino Beauty."
+   "text": "The Extradose parfum: spicy lavender over deep vetiver with a warm, leathery dry-down, in the studded bottle. Rated 4.6 stars, sold by Valentino Beauty."
   },
   {
    "title": "The quiet tracker: Oura Ring 5",
@@ -59,7 +59,7 @@
  "faq": [
   {
    "q": "What are the best gifts for men in their 30s?",
-   "a": "Premium versions of things he uses daily: Sony or Apple headphones, a Swiss watch like the Tissot PRX, Ray-Ban Meta smart glasses, a Breville espresso machine, or a Nintendo Switch 2 for game nights."
+   "a": "Premium versions of things he uses daily: Sony or Apple headphones, a Swiss watch like the Tissot PRX, a Breville espresso machine, or a Nintendo Switch 2 for game nights."
   },
   {
    "q": "What do you get a man in his 30s who has everything?",

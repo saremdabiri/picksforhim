@@ -4,20 +4,20 @@
  "slug": "gifts-for-men-who-have-everything",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "Gifts for men who have everything in 2026, including the husband who says he doesn't want anything: Ray-Ban Meta smart glasses, Normatec recovery boots, a LiveScope sonar, a Swiss watch and more upgrades he'd never buy for himself.",
+ "description": "Gifts for men who have everything in 2026, including the husband who says he doesn't want anything: the Meta Quest 3S, Normatec recovery boots, a LiveScope sonar, a Swiss watch and more upgrades he'd never buy for himself.",
  "heroAlt": "A dark gift box with a gold ribbon on a leather desk beside smart glasses and a watch",
  "keyword": "gifts for men who have everything",
  "quickPicks": [
-  "ray-ban-meta-gen-2",
+  "meta-quest-3s",
   "hyperice-normatec-elite",
   "tissot-prx"
  ],
  "listHeading": "Gifts for the man who has everything",
  "items": [
   {
-   "title": "The tech he hasn't tried: Ray-Ban Meta (Gen 2) smart glasses",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Classic Wayfarer style with a built-in camera, open-ear speakers and a voice assistant. Even men who own every gadget usually don't have these yet, and they're one of the most-bought tech gifts on Amazon right now."
+   "title": "The tech he hasn't tried: Meta Quest 3S",
+   "product": "meta-quest-3s",
+   "text": "An all-in-one VR and mixed-reality headset that needs no PC or console: games, fitness workouts and movies on a giant virtual screen. Even men who own every gadget often haven't tried one, and it's one of the most-bought tech gifts on Amazon right now (10,000+ last month, 4.6 stars, sold by Amazon.com)."
   },
   {
    "title": "The recovery luxury: Hyperice Normatec Elite",
@@ -66,7 +66,7 @@
   },
   {
    "q": "What are unique gifts for men in 2026?",
-   "a": "Ray-Ban Meta smart glasses, Normatec recovery boots and satellite messengers like the Garmin inReach are popular unique gifts this year."
+   "a": "The Meta Quest 3S, Normatec recovery boots and satellite messengers like the Garmin inReach are popular unique gifts this year."
   }
  ],
  "pinTag": "Gifts for Men",
@@ -75,7 +75,7 @@
   "Gifts for the Husband Who Doesn't Want Anything",
   "Unique Gifts He'd Never Buy Himself"
  ],
- "updated": "2026-10-18"
+ "updated": "2026-10-30"
 }
 ---
 Gifts for men who have everything need a different approach. He already owns the basics, and if he wanted something ordinary he would have bought it. The trick is to find what he hasn't tried yet, or the premium version of something he uses every day.
@@ -86,7 +86,7 @@ These ideas also work for the husband who says he doesn't want anything.
 
 ## How to shop for the man who has everything
 
-- **Find the gap.** Smart glasses, recovery tech and satellite messengers are things most men haven't bought yet.
+- **Find the gap.** Mixed-reality headsets, recovery tech and satellite messengers are things most men haven't bought yet.
 - **Go premium on daily use.** He'll appreciate the flagship shaver or watch more than another gadget.
 - **Match his hobby.** Golf, fishing, grilling or fitness: a step up from his current gear always lands.
 
