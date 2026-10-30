@@ -57,6 +57,10 @@
  ],
  "faq": [
   {
+   "q": "What do you get a dad who wants nothing?",
+   "a": "Give him a better version of something he already uses every week, so it never feels like clutter: a Kindle Paperwhite for the dad who reads, a Bushnell rangefinder for the golfer, a YETI cooler for tailgates or a Braun Series 9 PRO+ shaver. He will not ask for any of them, and he will use all of them."
+  },
+  {
    "q": "What are the best Christmas gifts for dad in 2026?",
    "a": "Popular picks this year include a Traeger pellet smoker, a Garmin watch, a flagship electric shaver, a YETI cooler and AirPods Pro 3. Pick one that upgrades something he already does every week."
   },
@@ -75,7 +79,7 @@
   "Gifts for the Dad Who Has Everything",
   "Christmas Gifts Dad Will Actually Use"
  ],
- "updated": "2026-10-23"
+ "updated": "2026-10-30"
 }
 ---
 Christmas gifts for dad are famously hard: he says he doesn't need anything, and when he wants something he buys it himself. The best gifts upgrade what he already does every week, whether that's grilling, golf, fishing or his morning routine.
@@ -83,6 +87,12 @@ Christmas gifts for dad are famously hard: he says he doesn't need anything, and
 These are the Christmas gifts dads actually use, including ideas for the dad who has everything.
 
 <!-- list -->
+
+## What do you get a dad who wants nothing?
+
+When dad says he wants nothing, he usually means he doesn't want more stuff. So skip novelty gadgets and upgrade a thing he already reaches for every week: the Kindle Paperwhite if he reads in bed, the Bushnell rangefinder if he golfs, the YETI Tundra 45 if he tailgates or fishes, or the Braun Series 9 PRO+ for his morning shave. Useful beats clever.
+
+If he truly means it, pair a small upgrade with time together: a round of golf, a fishing trip or a cookout where he runs the new Traeger.
 
 ## How to choose a Christmas gift for dad
 
