@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -94,7 +94,7 @@
     "url": "https://www.amazon.com/dp/B0CM3ZLM7N",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=seiko+presage+cocktail+time"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B07HSPSX5M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=hamilton+khaki+field+mechanical"
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B07GLK1NC2",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=traeger+pro+22"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0842CNQ94",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=yeti+tundra+45"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0F8QZ7233",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+970"
   },
   {
@@ -682,7 +682,7 @@
     "url": "https://www.amazon.com/dp/B0HJB6C34Y",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+ultra+4"
   },
   {
@@ -738,7 +738,7 @@
     "url": "https://www.amazon.com/dp/B000E7YK5K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -836,7 +836,7 @@
     "url": "https://www.amazon.com/dp/B0DC9F65H4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=bellroy+hide+and+seek+wallet"
   },
   {
@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1189,7 +1189,7 @@
     "url": "https://www.amazon.com/dp/B0BYFBRMWP",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
   },
   {
@@ -1217,7 +1217,49 @@
     "url": "https://www.amazon.com/dp/B0DRW6C13X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=lego+technic+nissan+skyline+gt-r+r34"
+  },
+  {
+    "id": "garmin-fenix-8-sapphire",
+    "name": "Garmin fenix 8 AMOLED Sapphire (47mm, DLC titanium)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Garmin's flagship multisport GPS watch: AMOLED display, sapphire lens, titanium case, built-in flashlight and maps.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0DD5PTPT8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=garmin+fenix+8"
+  },
+  {
+    "id": "theragun-prime-6",
+    "name": "TheraGun Prime (6th Gen) massage gun",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Therabody's mid-size percussive massager with app-guided routines; sold by TheraGun.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0FKCJNHWB",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=theragun+prime"
+  },
+  {
+    "id": "sonos-ace",
+    "name": "Sonos Ace noise-cancelling headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Sonos's premium over-ear headphones with active noise cancelling, spatial audio and TV audio swap.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0CYHGPP1L",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=sonos+ace"
   }
 ]
