@@ -79,7 +79,7 @@
   "Gifts for a Husband Who Wants Nothing",
   "Clever Gifts for Picky Men 2026"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 Gifts for men who are hard to buy for have one thing in common: they upgrade something he already does every day. The man who "doesn't want anything" usually means he doesn't want clutter, so skip the gadgets that end up in a drawer and choose one beautifully made thing he'd never splurge on himself.

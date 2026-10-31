@@ -85,7 +85,7 @@
   "Heated Hunting Gear He'll Love"
  ],
  "promo": "tidewe-black-friday-2026",
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 Shopping for a hunter? The best gifts are the ones that keep him warm, hidden and confident through long, cold sits, not another camo mug. These are gear upgrades from brands hunters trust: TIDEWE heated gear and blinds, Vortex optics, Tactacam and Outdoor Edge.

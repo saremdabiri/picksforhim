@@ -89,7 +89,7 @@
   "The Christmas Gifts Men Actually Want",
   "Best Gifts for Him 2026"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 The top 10 gifts for men in 2026 are the ones people are actually buying right now, not a list of novelty mugs. We ranked this list from what's selling and reviewing best on Amazon this Christmas season, and kept only products sold by Amazon or the brand itself.
