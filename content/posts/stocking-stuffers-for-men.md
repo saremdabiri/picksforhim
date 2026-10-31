@@ -80,6 +80,8 @@ The best stocking stuffers for men are small, but they shouldn't feel small. Ski
 
 Every pick below was checked on Amazon this week: in stock, highly rated, and sold by Amazon or the brand itself.
 
+Shopping for a cat dad? The Catfather whiskey glass and Ninja Cat coasters in our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/) guide fit in a stocking too.
+
 <!-- list -->
 
 ## How to choose stocking stuffers for him
