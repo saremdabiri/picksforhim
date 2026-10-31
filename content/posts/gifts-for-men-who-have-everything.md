@@ -82,6 +82,8 @@ Gifts for men who have everything need a different approach. He already owns the
 
 These ideas also work for the husband who says he doesn't want anything.
 
+Is he a cat person? See our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/), from a no-subscription cat camera to The Catfather whiskey glass.
+
 <!-- list -->
 
 ## How to shop for the man who has everything
