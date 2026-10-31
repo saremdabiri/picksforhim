@@ -45,9 +45,9 @@
    "text": "Bright, sharp 10x42 binoculars from the optics brand hunters trust most, waterproof and fogproof and covered by Vortex's no-questions-asked VIP warranty. Rated 4.8 stars by thousands of Amazon buyers.\n\n**Add:** a bino harness keeps them on his chest and out of the way."
   },
   {
-   "title": "Vortex Crossfire HD 1400 rangefinder: know the distance",
+   "title": "Vortex Diamondback HD 2000 rangefinder: know the distance",
    "product": "vortex-crossfire-hd-1400",
-   "text": "A pocket-size 5x laser rangefinder rated to 1,400 yards (750 yards on deer), so he knows exactly how far that shot is before he takes it. Another 4.8-star Vortex favorite."
+   "text": "A 7x laser rangefinder rated to 2,000 yards (1,400 yards on game), with a red OLED display that stays readable at dawn and dusk and Vortex's lifetime VIP warranty. Rated 4.8 stars by 380+ Amazon buyers."
   },
   {
    "title": "Tactacam REVEAL X 3.0: trail camera photos straight to his phone",
@@ -85,7 +85,7 @@
   "Heated Hunting Gear He'll Love"
  ],
  "promo": "tidewe-black-friday-2026",
- "updated": "2026-10-28"
+ "updated": "2026-10-31"
 }
 ---
 Shopping for a hunter? The best gifts are the ones that keep him warm, hidden and confident through long, cold sits, not another camo mug. These are gear upgrades from brands hunters trust: TIDEWE heated gear and blinds, Vortex optics, Tactacam and Outdoor Edge.

@@ -4,7 +4,7 @@
  "slug": "top-10-gifts-for-men-2026",
  "pillar": "gift-guides",
  "date": "2026-10-24",
- "description": "The top 10 gifts for men in 2026, ranked from what's actually selling on Amazon this Christmas: Nintendo Switch 2, AirPods Pro 3, Meta Quest 3S, Ray-Ban Meta glasses, Sony XM6 headphones and more.",
+ "description": "The top 10 gifts for men in 2026, ranked from what's actually selling on Amazon this Christmas: Nintendo Switch 2, AirPods Pro 3, Meta Quest 3S, a TheraGun Prime, Sony XM6 headphones and more.",
  "heroAlt": "Ten wrapped gifts in black and gold paper stacked beside a game console, earbuds and a watch",
  "keyword": "top 10 gifts for men 2026",
  "quickPicks": [
@@ -30,9 +30,9 @@
    "text": "A standalone VR headset, no PC or console needed: games, fitness apps and movies on a giant virtual screen. Rated 4.6 stars from 6,700+ reviews, sold by Amazon.com."
   },
   {
-   "title": "4. Smart glasses that look normal: Ray-Ban Meta (Gen 2)",
-   "product": "ray-ban-meta-gen-2",
-   "text": "Classic Wayfarers with a hands-free camera, open-ear speakers and Meta AI built in. One of the most talked-about tech gifts of 2026, sold by Amazon.com."
+   "title": "4. The recovery gift he'll use daily: TheraGun Prime (6th Gen)",
+   "product": "theragun-prime-6",
+   "text": "Therabody's mid-size massage gun with app-guided routines, rated 4.6 stars from 6,800+ reviews, with thousands bought in the past month and sold by TheraGun on Amazon."
   },
   {
    "title": "5. Headphones for the long flight: Sony WH-1000XM6",
@@ -68,7 +68,7 @@
  "faq": [
   {
    "q": "What are the top 10 gifts for men in 2026?",
-   "a": "Based on what's selling on Amazon this season: Nintendo Switch 2, AirPods Pro 3, Meta Quest 3S, Ray-Ban Meta glasses, Sony WH-1000XM6 headphones, a Breville espresso machine, an AirTag 4-pack, Apple Watch Ultra 4, a Kindle Paperwhite and Armani Acqua di Giò cologne."
+   "a": "Based on what's selling on Amazon this season: Nintendo Switch 2, AirPods Pro 3, Meta Quest 3S, a TheraGun Prime massage gun, Sony WH-1000XM6 headphones, a Breville espresso machine, an AirTag 4-pack, Apple Watch Ultra 4, a Kindle Paperwhite and Armani Acqua di Giò cologne."
   },
   {
    "q": "What is the most popular Christmas gift for men this year?",
@@ -76,7 +76,7 @@
   },
   {
    "q": "What do you get a man who has everything for Christmas 2026?",
-   "a": "Something he wouldn't buy himself: smart glasses, a VR headset or a premium espresso setup. More in [gifts for men who have everything](/gifts-for-men-who-have-everything/)."
+   "a": "Something he wouldn't buy himself: a VR headset, a massage gun or a premium espresso setup. More in [gifts for men who have everything](/gifts-for-men-who-have-everything/)."
   },
   {
    "q": "What is a good Christmas gift for my husband in 2026?",
@@ -88,7 +88,8 @@
   "Top 10 Gifts for Men 2026",
   "The Christmas Gifts Men Actually Want",
   "Best Gifts for Him 2026"
- ]
+ ],
+ "updated": "2026-10-31"
 }
 ---
 The top 10 gifts for men in 2026 are the ones people are actually buying right now, not a list of novelty mugs. We ranked this list from what's selling and reviewing best on Amazon this Christmas season, and kept only products sold by Amazon or the brand itself.
@@ -106,6 +107,6 @@ Every pick was checked on Amazon this week: in stock, with an Add to Cart button
 ## Quick picks by who you're buying for
 
 - **Husband:** Sony WH-1000XM6, Apple Watch Ultra 4 or Armani Acqua di Giò. More: [Christmas gifts for husband](/christmas-gifts-for-husband/).
-- **Boyfriend:** Ray-Ban Meta glasses or AirPods Pro 3. More: [gifts for boyfriend](/gifts-for-boyfriend/).
+- **Boyfriend:** AirPods Pro 3 or a Meta Quest 3S. More: [gifts for boyfriend](/gifts-for-boyfriend/).
 - **Dad:** Kindle Paperwhite or the Breville Barista Express. More: [Christmas gifts for dad](/christmas-gifts-for-dad/).
 - **Teenage son:** Nintendo Switch 2 or Meta Quest 3S. More: [gifts for teenage boys](/gifts-for-teenage-boys/).
