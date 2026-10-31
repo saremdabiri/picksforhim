@@ -1029,16 +1029,16 @@
   },
   {
     "id": "vortex-crossfire-hd-1400",
-    "name": "Vortex Crossfire HD 1400 laser rangefinder",
+    "name": "Vortex Diamondback HD 2000 laser rangefinder",
     "pillar": "outdoors",
     "merchant": "Amazon",
-    "description": "Compact 5x laser rangefinder with HD glass, rated to 1,400 yards max (750 yards on deer).",
+    "description": "7x laser rangefinder with HD glass and a red OLED display, rated to 2,000 yards max (1,400 yards on game); sold by an authorized Vortex dealer.",
     "image": null,
     "dateAdded": "2026-10-22",
-    "url": "https://www.amazon.com/dp/B09YS7WCM7",
+    "url": "https://www.amazon.com/dp/B09YSLMPWG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-31"
   },
   {
     "id": "tactacam-reveal-x-3",
