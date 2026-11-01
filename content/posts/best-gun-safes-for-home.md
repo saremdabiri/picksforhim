@@ -30,9 +30,9 @@
    "text": "One of the most-reviewed handgun safes on Amazon, with fingerprint, keypad and app access. A sensible, well-proven option for the nightstand or closet shelf.\n\n**Best for:** a first safe, or one for each floor of the house."
   },
   {
-   "title": "Fort Knox PB1: no batteries, no electronics",
+   "title": "STOPBOX: no batteries, no electronics",
    "product": "fort-knox-pb1",
-   "text": "Some owners prefer a purely mechanical lock. Fort Knox's pistol box uses a Simplex push-button lock and heavy-gauge steel, so there's nothing to charge and nothing to fail.\n\n**Best for:** the traditionalist who values bombproof simplicity."
+   "text": "Some owners prefer a purely mechanical lock. STOPBOX opens with a user-set mechanical combination (81 to choose from), so there are no batteries to charge and no scanner to fail. It's portable and TSA compliant, and it can be secured with a padlock or security cable (sold separately).\n\n**Best for:** the traditionalist who values bombproof simplicity."
   },
   {
    "title": "KAER rifle and pistol safe: for long guns",
@@ -74,7 +74,7 @@
   "Biometric Gun Safes Worth Owning",
   "A Thoughtful Gift for Him: A Proper Safe"
  ],
- "updated": "2026-10-22"
+ "updated": "2026-11-01"
 }
 ---
 Responsible ownership starts with secure storage. The right safe keeps firearms out of the wrong hands, especially children's, while still giving you fast access when it counts.
