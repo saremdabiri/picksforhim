@@ -309,17 +309,17 @@
   },
   {
     "id": "fort-knox-pb1",
-    "name": "Fort Knox Original Pistol Box (PB1)",
+    "name": "STOPBOX mechanical handgun lock box",
     "pillar": "security",
     "merchant": "Amazon",
-    "description": "Heavy-gauge steel pistol box with a mechanical Simplex lock; no batteries needed. California DOJ certified.",
+    "description": "Battery-free mechanical combination lock box (81 user-set combinations); portable and TSA compliant; sold by StopBox USA.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B072NFNDZB",
+    "url": "https://www.amazon.com/dp/B0CRZRY7KV",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
-    "searchUrl": "https://www.amazon.com/s?k=fort+knox+pistol+box+pb1"
+    "lastVerified": "2026-11-01",
+    "searchUrl": "https://www.amazon.com/s?k=stopbox+handgun"
   },
   {
     "id": "kaer-3-gun-rifle-safe",
@@ -1359,5 +1359,19 @@
     "verified": true,
     "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=ninja+cat+coasters"
+  },
+  {
+    "id": "bose-qc-headphones-2nd-gen",
+    "name": "Bose QuietComfort Headphones (2nd Gen)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Bose's redesigned noise-cancelling headphones with pill-shaped earcups, a wider padded headband and Bose TrueSpatial audio.",
+    "image": null,
+    "dateAdded": "2026-11-01",
+    "url": "https://www.amazon.com/dp/B0GXW9C8QC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-01",
+    "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+headphones+2nd+gen"
   }
 ]
