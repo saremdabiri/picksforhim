@@ -53,6 +53,11 @@
    "title": "For the dad who reads at night: Kindle Paperwhite",
    "product": "kindle-paperwhite-16gb",
    "text": "One of Amazon's bestselling devices right now (10K+ bought in the past month). The 7-inch glare-free screen reads like paper in sunlight and has an adjustable warm light for bedtime, and the battery lasts for weeks. Thousands of books fit on it, so it goes from the nightstand to the fishing trip without a bag full of paperbacks."
+  },
+  {
+   "title": "For quiet on the commute or the couch: Bose QuietComfort Headphones (2nd Gen)",
+   "product": "bose-qc-headphones-2nd-gen",
+   "text": "Bose's redesigned noise-cancelling headphones, now one of Amazon's Headphones best sellers (2K+ bought in the past month, 4.7 stars). New pill-shaped earcups, a wider padded headband and Bose TrueSpatial audio make them comfortable for long flights, games on TV or a quiet hour in the garage.\n\n**Best for:** the dad who still wears the earbuds that came with his phone. Sold by Amazon.com."
   }
  ],
  "faq": [
@@ -79,7 +84,7 @@
   "Gifts for the Dad Who Has Everything",
   "Christmas Gifts Dad Will Actually Use"
  ],
- "updated": "2026-10-30"
+ "updated": "2026-11-01"
 }
 ---
 Christmas gifts for dad are famously hard: he says he doesn't need anything, and when he wants something he buys it himself. The best gifts upgrade what he already does every week, whether that's grilling, golf, fishing or his morning routine.
