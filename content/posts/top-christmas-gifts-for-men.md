@@ -87,6 +87,8 @@ These are the Christmas gifts men are actually getting this year. We built this 
 
 Buying for a man who loves his cat? See our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/).
 
+Need a gift for the office party swap? These [white elephant gifts for men](/white-elephant-gifts-for-men/) are the ones people steal.
+
 <!-- list -->
 
 ## How we picked
