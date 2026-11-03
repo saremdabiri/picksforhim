@@ -455,10 +455,10 @@
     "description": "Live forward-facing sonar: watch fish react to the lure in real time.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B09SGW3LDN",
-    "linkType": "product",
+    "url": "https://www.amazon.com/s?k=garmin+livescope+plus",
+    "linkType": "search",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=garmin+livescope+plus"
   },
   {
@@ -903,10 +903,10 @@
     "description": "Stainless steel, low-smoke wood-burning fire pit with stand; sold by Solo Stove.",
     "image": null,
     "dateAdded": "2026-10-21",
-    "url": "https://www.amazon.com/dp/B0B7BFJ5Y6",
+    "url": "https://www.amazon.com/dp/B0BG5YV9TX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -1042,16 +1042,16 @@
   },
   {
     "id": "tactacam-reveal-x-3",
-    "name": "Tactacam REVEAL X 3.0 cellular trail camera",
+    "name": "Tactacam REVEAL X 3.0 cellular trail camera (2-pack)",
     "pillar": "outdoors",
     "merchant": "Amazon",
-    "description": "Cellular trail camera that sends photos and video to a phone app, with night vision and a waterproof housing; needs a data plan.",
+    "description": "Two cellular trail cameras that send photos and video to a phone app, with night vision and a waterproof housing; each needs a data plan.",
     "image": null,
     "dateAdded": "2026-10-22",
-    "url": "https://www.amazon.com/dp/B0D7FQNM38",
+    "url": "https://www.amazon.com/dp/B0FW4CW7J3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-03"
   },
   {
     "id": "outdoor-edge-razorpro-l",
@@ -1371,7 +1371,7 @@
     "url": "https://www.amazon.com/dp/B0GXW9C8QC",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+headphones+2nd+gen"
   }
 ]
