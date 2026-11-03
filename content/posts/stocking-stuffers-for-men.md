@@ -82,6 +82,8 @@ Every pick below was checked on Amazon this week: in stock, highly rated, and so
 
 Shopping for a cat dad? The Catfather whiskey glass and Ninja Cat coasters in our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/) guide fit in a stocking too.
 
+Headed to an office gift exchange? Here are the [white elephant gifts for men](/white-elephant-gifts-for-men/) that actually get stolen.
+
 <!-- list -->
 
 ## How to choose stocking stuffers for him
