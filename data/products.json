@@ -766,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -1259,7 +1259,7 @@
     "url": "https://www.amazon.com/dp/B0CYHGPP1L",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=sonos+ace"
   },
   {
@@ -1485,5 +1485,75 @@
     "verified": true,
     "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=toilight+toilet+night+light"
+  },
+  {
+    "id": "bowers-wilkins-px8-s2",
+    "name": "Bowers & Wilkins Px8 S2 wireless headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Bowers & Wilkins' flagship noise-cancelling headphones with Nappa leather, aluminium arms and carbon drive units.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B0GPWTFZLQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=bowers+wilkins+px8+s2"
+  },
+  {
+    "id": "sennheiser-momentum-5",
+    "name": "Sennheiser Momentum 5 wireless headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Sennheiser's audiophile-tuned noise-cancelling headphones with long battery life and a customizable EQ.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B0H1Y91MCQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=sennheiser+momentum+5"
+  },
+  {
+    "id": "bose-soundlink-max",
+    "name": "Bose SoundLink Max portable speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Bose's biggest portable Bluetooth speaker: rugged, water-resistant and loud enough for the backyard.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B0CVL1K7DX",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=bose+soundlink+max"
+  },
+  {
+    "id": "marshall-acton-iii",
+    "name": "Marshall Acton III home speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A Bluetooth home speaker in classic Marshall amp styling, with analog bass and treble knobs.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B0BC27MM5Z",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=marshall+acton+iii"
+  },
+  {
+    "id": "sonos-era-100",
+    "name": "Sonos Era 100 smart speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A compact Sonos smart speaker with stereo sound, Wi-Fi and Bluetooth streaming and voice control.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B0BW34LCB8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=sonos+era+100"
   }
 ]
