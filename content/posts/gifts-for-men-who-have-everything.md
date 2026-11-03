@@ -84,6 +84,8 @@ These ideas also work for the husband who says he doesn't want anything.
 
 Is he a cat person? See our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/), from a no-subscription cat camera to The Catfather whiskey glass.
 
+Buying for a gift exchange instead of one guy? See our [white elephant gifts for men](/white-elephant-gifts-for-men/) that get fought over.
+
 <!-- list -->
 
 ## How to shop for the man who has everything
