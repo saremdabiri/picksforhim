@@ -50,9 +50,9 @@
    "text": "A 7x laser rangefinder rated to 2,000 yards (1,400 yards on game), with a red OLED display that stays readable at dawn and dusk and Vortex's lifetime VIP warranty. Rated 4.8 stars by 380+ Amazon buyers."
   },
   {
-   "title": "Tactacam REVEAL X 3.0: trail camera photos straight to his phone",
+   "title": "Tactacam REVEAL X 3.0 (2-pack): trail camera photos straight to his phone",
    "product": "tactacam-reveal-x-3",
-   "text": "A cellular trail camera that sends photos and video to an app, with night vision and a waterproof body, so he can check his stand without walking in and spreading scent.\n\n**Note:** cellular trail cameras need a data plan; check the plan options on the listing."
+   "text": "Two cellular trail cameras that send photos and video to an app, with night vision and a waterproof body, so he can watch two spots without walking in and spreading scent.\n\n**Note:** each cellular trail camera needs a data plan; check the plan options on the listing."
   },
   {
    "title": "Outdoor Edge RazorPro L: the field-dressing knife",
@@ -85,7 +85,7 @@
   "Heated Hunting Gear He'll Love"
  ],
  "promo": "tidewe-black-friday-2026",
- "updated": "2026-10-30"
+ "updated": "2026-11-03"
 }
 ---
 Shopping for a hunter? The best gifts are the ones that keep him warm, hidden and confident through long, cold sits, not another camo mug. These are gear upgrades from brands hunters trust: TIDEWE heated gear and blinds, Vortex optics, Tactacam and Outdoor Edge.

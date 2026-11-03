@@ -4,7 +4,7 @@
  "slug": "top-christmas-gifts-for-men",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Garmin LiveScope, the Meta Quest 3, the Nintendo Switch 2, a Tissot PRX and more.",
+ "description": "The top Christmas gifts for men in 2026, based on what's selling right now: AirPods Pro 3, AirPods Max 2, Bushnell rangefinders, Garmin watches, Bose QuietComfort headphones, the Meta Quest 3, the Nintendo Switch 2, a Tissot PRX and more.",
  "heroAlt": "A row of wrapped Christmas presents under a tree with a man's watch and headphones beside them",
  "keyword": "top christmas gifts for men",
  "quickPicks": [
@@ -40,9 +40,9 @@
    "text": "Hundreds bought in the past month. Premium fitness watch with maps and a bright AMOLED screen."
   },
   {
-   "title": "Garmin LiveScope Plus",
-   "product": "garmin-livescope-plus",
-   "text": "The dream gift for the serious angler: live sonar that shows fish moving in real time. See the [offshore fishing tech guide](/offshore-fishing-tech-gifts/)."
+   "title": "Bose QuietComfort Headphones (2nd Gen): a Headphones best seller",
+   "product": "bose-qc-headphones-2nd-gen",
+   "text": "One of Amazon's best-selling over-ear headphones right now, with 2K+ bought in the past month and a 4.7-star rating. The redesigned 2nd Gen adds a wider, softer headband, Bose TrueSpatial audio and new Immersion and Cinema modes on top of Bose's noise cancelling, an easy upgrade for flights or a noisy office."
   },
   {
    "title": "Tissot PRX",
@@ -80,7 +80,7 @@
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
  ],
- "updated": "2026-10-28"
+ "updated": "2026-11-03"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.
