@@ -1555,5 +1555,19 @@
     "verified": true,
     "lastVerified": "2026-11-03",
     "searchUrl": "https://www.amazon.com/s?k=sonos+era+100"
+  },
+  {
+    "id": "marshall-emberton-iii",
+    "name": "Marshall Emberton III portable Bluetooth speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A pocket-size Marshall speaker with stereo sound, 32+ hours of playtime and an IP67 dust and waterproof rating; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0GXH3N61Z",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=marshall+emberton+iii"
   }
 ]
