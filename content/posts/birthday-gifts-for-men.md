@@ -50,9 +50,9 @@
    "text": "Wireless meat thermometer that tells his phone exactly when the steak is ready. A great add-on gift."
   },
   {
-   "title": "For the music lover: Sony WH-1000XM6",
-   "product": "sony-wh-1000xm6",
-   "text": "The headphones he'll use every day, from the commute to the gym floor. Over 3,000 bought on Amazon in the past month."
+   "title": "For the music lover: Marshall Emberton III",
+   "product": "marshall-emberton-iii",
+   "text": "A pocket-size speaker in classic Marshall styling that goes from the desk to the patio to the beach: stereo sound, 32+ hours on a charge and an IP67 dust and waterproof rating. Rated 4.7 stars by 1,800+ buyers, with 3,000+ bought on Amazon in the past month."
   }
  ],
  "faq": [
@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Husband",
   "Birthday Gifts He'll Actually Use"
  ],
- "updated": "2026-10-21"
+ "updated": "2026-11-04"
 }
 ---
 A great birthday gift for a man is something he'd want but wouldn't buy himself. Start with what he does on weekends: golf, fitness, grilling, music. Then go one level up.
