@@ -1175,7 +1175,7 @@
     "url": "https://www.amazon.com/dp/B0BNW95ZT1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-26",
+    "lastVerified": "2026-11-04",
     "searchUrl": "https://www.amazon.com/s?k=lego+technic+peugeot+9x8"
   },
   {
@@ -1217,7 +1217,7 @@
     "url": "https://www.amazon.com/dp/B0DRW6C13X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-04",
     "searchUrl": "https://www.amazon.com/s?k=lego+technic+nissan+skyline+gt-r+r34"
   },
   {
@@ -1569,5 +1569,89 @@
     "verified": true,
     "lastVerified": "2026-11-04",
     "searchUrl": "https://www.amazon.com/s?k=marshall+emberton+iii"
+  },
+  {
+    "id": "lego-technic-ferrari-sf24-f1",
+    "name": "LEGO Technic Ferrari SF24 F1 Car 42207",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A large-scale LEGO Technic model of Ferrari's 2024 Formula 1 car for adult builders; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0DHLG5BTD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+technic+ferrari+sf24"
+  },
+  {
+    "id": "lego-icons-concorde",
+    "name": "LEGO Icons Concorde 10318",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A detailed display model of the supersonic Concorde airliner for adult builders; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0CGNQ929S",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+icons+concorde"
+  },
+  {
+    "id": "lego-icons-back-to-the-future-time-machine",
+    "name": "LEGO Icons Back to the Future Time Machine 10300",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The DeLorean time machine from Back to the Future, buildable in three versions from the trilogy; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B09TBMHCXL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+back+to+the+future+time+machine"
+  },
+  {
+    "id": "lego-icons-jack-sparrow-pirate-ship",
+    "name": "LEGO Icons Captain Jack Sparrow's Pirate Ship 10365",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A big display model of the Black Pearl from Pirates of the Caribbean for adult builders; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0FMS97LGV",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+icons+jack+sparrow+pirate+ship"
+  },
+  {
+    "id": "lego-hogwarts-castle-and-grounds",
+    "name": "LEGO Harry Potter Hogwarts Castle and Grounds 76419",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A detailed micro-scale model of Hogwarts and its grounds for adult fans; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0BXQ6NRRN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+hogwarts+castle+and+grounds"
+  },
+  {
+    "id": "lego-star-wars-ucs-tie-interceptor",
+    "name": "LEGO Star Wars Ultimate Collector Series TIE Interceptor 75382",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "An Ultimate Collector Series display model of the TIE Interceptor with a stand and nameplate; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-04",
+    "url": "https://www.amazon.com/dp/B0CRWVCNV1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-04",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+ucs+tie+interceptor"
   }
 ]
