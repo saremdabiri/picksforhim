@@ -42,7 +42,7 @@
   {
    "title": "Bose QuietComfort Headphones (2nd Gen): a Headphones best seller",
    "product": "bose-qc-headphones-2nd-gen",
-   "text": "One of Amazon's best-selling over-ear headphones right now, with 2K+ bought in the past month and a 4.7-star rating. The redesigned 2nd Gen adds a wider, softer headband, Bose TrueSpatial audio and new Immersion and Cinema modes on top of Bose's noise cancelling, an easy upgrade for flights or a noisy office."
+   "text": "One of Amazon's best-selling over-ear headphones right now, with 3K+ bought in the past month and a 4.6-star rating. The redesigned 2nd Gen adds a wider, softer headband, Bose TrueSpatial audio and new Immersion and Cinema modes on top of Bose's noise cancelling, an easy upgrade for flights or a noisy office."
   },
   {
    "title": "Tissot PRX",
@@ -80,7 +80,7 @@
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
  ],
- "updated": "2026-11-03"
+ "updated": "2026-11-04"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.
