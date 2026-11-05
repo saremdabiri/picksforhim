@@ -738,7 +738,7 @@
     "url": "https://www.amazon.com/dp/B000E7YK5K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -1203,7 +1203,7 @@
     "url": "https://www.amazon.com/dp/B0DVH3JVS3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+uomo+extradose"
   },
   {
@@ -1653,5 +1653,89 @@
     "verified": true,
     "lastVerified": "2026-11-04",
     "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+ucs+tie+interceptor"
+  },
+  {
+    "id": "armani-code-parfum",
+    "name": "Armani Code Parfum for Men",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Armani Code Parfum, a warm, woody evening fragrance; sold by Armani beauty.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B0B946ZKHN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=armani+code+parfum"
+  },
+  {
+    "id": "prada-luna-rossa-ocean-edp",
+    "name": "Prada Luna Rossa Ocean Eau de Parfum",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Prada Luna Rossa Ocean Eau de Parfum, a fresh, clean everyday scent; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B0C171SR8T",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=prada+luna+rossa+ocean+eau+de+parfum"
+  },
+  {
+    "id": "montblanc-explorer-edp",
+    "name": "Montblanc Explorer Eau de Parfum",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Montblanc Explorer Eau de Parfum, a woody, leathery scent with tens of thousands of reviews; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B07K1BW1XY",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=montblanc+explorer+eau+de+parfum"
+  },
+  {
+    "id": "maison-margiela-replica-jazz-club",
+    "name": "Maison Margiela Replica Jazz Club Eau de Toilette",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Maison Margiela Replica Jazz Club, a warm rum, tobacco and vanilla scent; sold by Maison Margiela.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B00JAMLFHQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+jazz+club"
+  },
+  {
+    "id": "carolina-herrera-bad-boy-cobalt",
+    "name": "Carolina Herrera Bad Boy Cobalt Eau de Parfum",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Carolina Herrera Bad Boy Cobalt Eau de Parfum in the lightning-bolt bottle; sold by Carolina Herrera.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B0DV9TR8KZ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=carolina+herrera+bad+boy+cobalt"
+  },
+  {
+    "id": "viktor-rolf-spicebomb-extreme",
+    "name": "Viktor&Rolf Spicebomb Extreme Eau de Parfum",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Viktor&Rolf Spicebomb Extreme, a spicy tobacco and vanilla scent in the grenade bottle; sold by Viktor&Rolf.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B00WYP5ZHW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=viktor+rolf+spicebomb+extreme"
   }
 ]
