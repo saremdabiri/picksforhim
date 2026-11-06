@@ -85,6 +85,8 @@
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.
 
+**Shopping for a man over 50?** See our [Christmas gifts for men over 50](/best-gifts-for-men-in-their-50s/).
+
 Buying for a man who loves his cat? See our [Christmas gifts for cat lovers (men)](/christmas-gifts-for-cat-lovers-men/).
 
 Need a gift for the office party swap? These [white elephant gifts for men](/white-elephant-gifts-for-men/) are the ones people steal.

@@ -73,6 +73,8 @@
 ---
 The best retirement gifts for men are built around what he'll do with all that new free time: smoke a brisket, sit by the fire, play more golf, go fishing on a Tuesday, or finally enjoy a slow cup of coffee. Pick his favorite and give him the best gear for it, or go classic with a fine watch he'll wear for years.
 
+**Not retiring yet?** See [Christmas gifts for men over 50](/best-gifts-for-men-in-their-50s/).
+
 Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or higher with hundreds or thousands of reviews, and sold by Amazon.com or the brand. Not sure what he'll be into? Ask what he's planning; most retirees have a list.
 
 <!-- list -->

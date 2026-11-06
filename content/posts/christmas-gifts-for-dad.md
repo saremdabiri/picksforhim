@@ -97,6 +97,8 @@
 ---
 **Looking for Christmas gifts for dad from daughter or son?** Don't let Dad see this list. The gifts that land best are upgrades to something he already does every week, because he will never buy the flagship version for himself. From a daughter, our top picks are the **Seiko Presage Cocktail Time** watch and the **Kindle Paperwhite**; from a son, the **Traeger Pro 22** smoker and the **Bushnell Tour V6 Shift** rangefinder. Every pick was rated 4.4 stars or higher on Amazon when we checked on November 2, 2026.
 
+**Is Dad over 50?** Our [Christmas gifts for men over 50](/best-gifts-for-men-in-their-50s/) guide has 8 milestone-worthy picks.
+
 Christmas gifts for dad are famously hard: he says he doesn't need anything, and when he wants something he buys it himself. The best gifts upgrade what he already does every week, whether that's grilling, golf, fishing or his morning routine.
 
 These are the Christmas gifts dads actually use, including ideas for the dad who has everything.
