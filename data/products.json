@@ -1292,16 +1292,16 @@
   },
   {
     "id": "kh-thermo-kitty-bed",
-    "name": "K&H Thermo-Kitty heated cat bed (16 in, 4 W)",
+    "name": "K&H Thermo-Kitty heated cat bed (20 in, 4 W)",
     "pillar": "home",
     "merchant": "Amazon",
-    "description": "A low-wattage heated cat bed with a removable heater.",
+    "description": "A low-wattage heated cat bed with a removable heater, large 20-inch size; sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-10-31",
-    "url": "https://www.amazon.com/dp/B07HML9YLD",
+    "url": "https://www.amazon.com/dp/B07HMVNXXS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=k%26h+thermo+kitty+bed"
   },
   {
@@ -1737,5 +1737,19 @@
     "verified": true,
     "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=viktor+rolf+spicebomb+extreme"
+  },
+  {
+    "id": "lego-game-boy",
+    "name": "LEGO Game Boy (72046) building set for adults",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A life-size buildable Game Boy display model with the classic buttons, contrast dial and swappable Game Pak and lenticular screens; ages 18+.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B0DX3J6MT7",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=lego+game+boy+72046"
   }
 ]
