@@ -50,6 +50,11 @@
    "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger 1080p screen than the original. It's the most-bought gift on this list (20K+ on Amazon last month), rated 4.8 stars and sold by Amazon.com."
   },
   {
+   "title": "For the guy who grew up gaming: LEGO Game Boy",
+   "product": "lego-game-boy",
+   "text": "A build-it-yourself LEGO model of the original Game Boy for adults, with the classic button layout, contrast dial and swappable Game Pak and lenticular screens. It makes a fun evening build and then sits on his desk as retro decor. 5,000+ bought on Amazon last month, rated 4.9 stars by 3,900+ buyers, shipped and sold by Amazon.com."
+  },
+  {
    "title": "For the groomed guy: Braun Series 9 PRO+",
    "product": "braun-series-9-pro-plus",
    "text": "A clean, close shave and a cleaning station. A grown-up upgrade he'll appreciate."
@@ -75,7 +80,7 @@
   "Christmas Gifts for Your Boyfriend",
   "Boyfriend Gift Ideas He'll Love"
  ],
- "updated": "2026-10-28"
+ "updated": "2026-11-06"
 }
 ---
 Whether it's your first Christmas together or his birthday, the best gifts for a boyfriend are things he'll use every day and think of you when he does.

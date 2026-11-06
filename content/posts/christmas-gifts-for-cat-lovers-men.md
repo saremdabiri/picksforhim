@@ -27,7 +27,7 @@
   {
    "title": "K&H Thermo-Kitty Heated Cat Bed: best gift for his cat this winter",
    "product": "kh-thermo-kitty-bed",
-   "text": "A 16-inch bed with a low 4-watt heater that's removable for washing. Cat lovers know the cat always finds the warmest spot, and this gives it one that isn't his keyboard. Rated 4.5 stars by more than 7,000 buyers when we checked.\n\n**Best for:** older cats and cold apartments.\n\n**See more:** our sister site's [heated pet bed guide](https://thefurandnest.com/best-heated-pet-beds/)."
+   "text": "A large 20-inch bed with a low 4-watt heater that's removable for washing. Cat lovers know the cat always finds the warmest spot, and this gives it one that isn't his keyboard. Rated 4.5 stars by more than 7,000 buyers when we checked.\n\n**Best for:** older cats and cold apartments.\n\n**See more:** our sister site's [heated pet bed guide](https://thefurandnest.com/best-heated-pet-beds/)."
   },
   {
    "title": "How to Talk to Your Cat About Gun Safety: best funny book for cat lovers",
