@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -1091,7 +1091,7 @@
     "url": "https://www.amazon.com/dp/B0CFPJYX7P",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite"
   },
   {
@@ -1567,7 +1567,7 @@
     "url": "https://www.amazon.com/dp/B0GXH3N61Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-04",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=marshall+emberton+iii"
   },
   {
@@ -1751,5 +1751,75 @@
     "verified": true,
     "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=lego+game+boy+72046"
+  },
+  {
+    "id": "bose-soundlink-micro-2nd-gen",
+    "name": "Bose SoundLink Micro (2nd Gen) portable Bluetooth speaker",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Palm-sized, waterproof Bose speaker with a strap for bikes, bags and showers; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B0FDLD34V5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=bose+soundlink+micro+2nd+gen"
+  },
+  {
+    "id": "anker-maggo-power-bank-10k",
+    "name": "Anker MagGo Power Bank 10,000mAh (Qi2 certified)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Magnetic Qi2 power bank that snaps onto an iPhone with a fold-out stand and smart display; sold by AnkerDirect.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B0D7DKJ75M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=anker+maggo+power+bank+10000"
+  },
+  {
+    "id": "ridge-wallet",
+    "name": "The Ridge Wallet for Men (slim minimalist RFID wallet)",
+    "pillar": "gift-guides",
+    "merchant": "Amazon",
+    "description": "Slim metal card wallet with RFID blocking and a money clip; sold by The Ridge.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B0C7JMTCDH",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=ridge+wallet"
+  },
+  {
+    "id": "leatherman-skeletool",
+    "name": "Leatherman Skeletool 7-in-1 lightweight multitool",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Light, pocketable 7-in-1 multitool with a locking blade, pliers and bit driver; sold by Leatherman Tool Group.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B01ACC8ZFW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=leatherman+skeletool"
+  },
+  {
+    "id": "armani-acqua-di-gio-small",
+    "name": "Armani Acqua di Giò Eau de Toilette (smaller bottle)",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "The smaller bottle of the best-selling fresh Armani fragrance; sold by Armani beauty.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B0014XJJHW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   }
 ]
