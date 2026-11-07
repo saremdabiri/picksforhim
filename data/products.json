@@ -701,17 +701,17 @@
   },
   {
     "id": "valentino-born-in-roma-uomo",
-    "name": "Valentino Born in Roma Uomo Extradose Parfum",
+    "name": "Valentino Uomo Born in Roma Coral Fantasy Eau de Toilette",
     "pillar": "grooming",
     "merchant": "Amazon",
-    "description": "A spicy lavender-and-vetiver parfum with a warm, leathery woody dry-down in Valentino's studded bottle; sold by Valentino Beauty.",
+    "description": "An amber, fruity scent built on a bright apple accord with smoky tobacco, in Valentino's studded bottle; sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-18",
-    "url": "https://www.amazon.com/dp/B0DVH3JVS3",
+    "url": "https://www.amazon.com/dp/B09SWS4CJZ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
-    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+uomo+extradose"
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma+coral+fantasy"
   },
   {
     "id": "sony-wh-1000xm6",
@@ -875,10 +875,10 @@
     "description": "Heated smart mug that holds coffee at his chosen temperature, set from an app; sold by Ember.",
     "image": null,
     "dateAdded": "2026-10-21",
-    "url": "https://www.amazon.com/dp/B07NQSR1DD",
+    "url": "https://www.amazon.com/dp/B09FFXD5WT",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=ember+mug+2"
   },
   {
@@ -1194,17 +1194,17 @@
   },
   {
     "id": "valentino-born-in-roma-uomo-intense",
-    "name": "Valentino Born in Roma Uomo Extradose Parfum",
+    "name": "Valentino Uomo Born in Roma Coral Fantasy Eau de Toilette",
     "pillar": "grooming",
     "merchant": "Amazon",
-    "description": "A spicy lavender-and-vetiver parfum with a warm, leathery woody dry-down in Valentino's studded bottle; sold by Valentino Beauty.",
+    "description": "An amber, fruity scent built on a bright apple accord with smoky tobacco, in Valentino's studded bottle; sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-28",
-    "url": "https://www.amazon.com/dp/B0DVH3JVS3",
+    "url": "https://www.amazon.com/dp/B09SWS4CJZ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
-    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+uomo+extradose"
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+uomo+born+in+roma+coral+fantasy"
   },
   {
     "id": "lego-technic-nissan-skyline-gtr-r34",
@@ -1748,8 +1748,8 @@
     "dateAdded": "2026-11-06",
     "url": "https://www.amazon.com/dp/B0DX3J6MT7",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-06",
+    "verified": false,
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=lego+game+boy+72046"
   },
   {
@@ -1821,5 +1821,19 @@
     "verified": true,
     "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
+  },
+  {
+    "id": "lego-icons-project-hail-mary",
+    "name": "LEGO Icons Project Hail Mary (11389) spacecraft model for adults",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A microscale build of the Hail Mary spacecraft on a display stand with a crank that spins the crew module, plus Ryland Grace and Rocky figures; for adults.",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0FMYY67LH",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=lego+icons+project+hail+mary+11389"
   }
 ]
