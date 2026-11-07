@@ -97,3 +97,5 @@ Every pick below was checked on November 2, 2026: in stock, rated 4.3 stars or h
 - **Check the seller.** For watches, cologne and tech, buy from Amazon.com or the brand, never an unknown reseller.
 
 More ideas: [Christmas gifts for husband](/christmas-gifts-for-husband/), [Christmas gifts for boyfriend](/christmas-gifts-for-boyfriend/) and [tech gifts for men](/tech-gifts-for-men/).
+
+Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.

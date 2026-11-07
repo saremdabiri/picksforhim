@@ -100,3 +100,5 @@ Need a gift for the office party swap? These [white elephant gifts for men](/whi
 - **Real use.** Gifts he'll use weekly, not novelty clutter.
 
 Browse more: [Christmas gifts for him](/luxury-christmas-gifts-for-him/), [gifts for husband](/gifts-for-husband/), [gifts for boyfriend](/gifts-for-boyfriend/).
+
+Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.
