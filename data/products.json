@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0C4TNKZFG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=bushnell+tour+v6+shift"
   },
   {
@@ -1189,7 +1189,7 @@
     "url": "https://www.amazon.com/dp/B0BYFBRMWP",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
   },
   {
@@ -1919,5 +1919,75 @@
     "verified": true,
     "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=john+boos+maple+cutting+board+18x12"
+  },
+  {
+    "id": "garmin-approach-s44",
+    "name": "Garmin Approach S44 GPS golf watch",
+    "pillar": "tech",
+    "description": "Lightweight GPS golf watch with a bright AMOLED touchscreen and 43,000+ preloaded courses.",
+    "url": "https://www.amazon.com/dp/B0DRZ1WN36",
+    "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s44",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "bushnell-wingman-view",
+    "name": "Bushnell Wingman View GPS golf speaker",
+    "pillar": "tech",
+    "description": "Magnetic Bluetooth speaker with a built-in screen and audible GPS yardages.",
+    "url": "https://www.amazon.com/dp/B0C4TP5FN2",
+    "searchUrl": "https://www.amazon.com/s?k=bushnell+wingman+view",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "titleist-pro-v1-golf-balls",
+    "name": "Titleist Pro V1 golf balls (1 dozen)",
+    "pillar": "outdoors",
+    "description": "The tour-favorite premium golf ball, by the dozen.",
+    "url": "https://www.amazon.com/dp/B0DPN7QZ9R",
+    "searchUrl": "https://www.amazon.com/s?k=titleist+pro+v1+golf+balls",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "perfect-practice-putting-mat",
+    "name": "Perfect Practice putting mat",
+    "pillar": "home",
+    "description": "Indoor putting green with alignment guides and two hole sizes.",
+    "url": "https://www.amazon.com/dp/B07YQ7935B",
+    "searchUrl": "https://www.amazon.com/s?k=perfect+practice+putting+mat",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "samsonite-tour-deluxe-golf-case",
+    "name": "Samsonite Tour Deluxe hard-side golf travel case",
+    "pillar": "outdoors",
+    "description": "Hard-shell golf travel case with wheels for flying with clubs.",
+    "url": "https://www.amazon.com/dp/B002LZA8PY",
+    "searchUrl": "https://www.amazon.com/s?k=samsonite+tour+deluxe+golf+travel+case",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
   }
 ]
