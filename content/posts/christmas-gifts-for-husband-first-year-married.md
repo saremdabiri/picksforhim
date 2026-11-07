@@ -4,8 +4,8 @@
  "slug": "christmas-gifts-for-husband-first-year-married",
  "pillar": "gift-guides",
  "date": "2026-10-28",
- "updated": "2026-10-30",
- "description": "Christmas gifts for husband first year married in 2026: a Tissot PRX watch, Valentino Born in Roma Extradose, a Solo Stove fire pit, Nintendo Switch 2 for game nights, AirPods Max 2, Oura Ring 5 and more first-Christmas gifts he'll keep.",
+ "updated": "2026-11-07",
+ "description": "Christmas gifts for husband first year married in 2026: a Tissot PRX watch, Valentino Uomo Born in Roma Coral Fantasy, a Solo Stove fire pit, Nintendo Switch 2 for game nights, AirPods Max 2, Oura Ring 5 and more first-Christmas gifts he'll keep.",
  "heroAlt": "A dark gift box with a gold ribbon under a Christmas tree beside a Swiss watch and a bottle of cologne",
  "keyword": "christmas gifts for husband first year married",
  "quickPicks": [
@@ -21,9 +21,9 @@
    "text": "A Swiss watch is the classic first-year keepsake, and the PRX's integrated steel bracelet and sunburst dial look far more expensive than they are. He'll wear it every day and remember when he got it. Rated 4.6 stars and sold by Amazon.com."
   },
   {
-   "title": "His new signature scent: Valentino Uomo Born in Roma Extradose",
+   "title": "His new signature scent: Valentino Uomo Born in Roma Coral Fantasy",
    "product": "valentino-born-in-roma-uomo-intense",
-   "text": "A spicy lavender-and-vetiver parfum with a warm, leathery dry-down in Valentino's studded bottle, made for date nights. Rated 4.6 stars, sold by Valentino Beauty."
+   "text": "An amber, fruity scent with a bright apple accord and smoky tobacco in Valentino's studded bottle, made for date nights. Rated 4.6 stars, sold by Valentino Beauty."
   },
   {
    "title": "Nights by the fire together: Solo Stove Bonfire with stand",

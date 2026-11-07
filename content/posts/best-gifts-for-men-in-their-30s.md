@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-men-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-22",
- "updated": "2026-10-30",
+ "updated": "2026-11-07",
  "description": "The best gifts for men in their 30s in 2026: Nintendo Switch 2, AirPods Max 2, Sony WH-1000XM6 headphones, a Tissot PRX watch, Apple Watch Ultra 4, a Breville espresso machine and Valentino cologne.",
  "heroAlt": "A black gift box with a gold ribbon on a walnut desk beside wireless headphones, a steel watch and smart sunglasses",
  "keyword": "best gifts for men in their 30s",
@@ -46,9 +46,9 @@
    "text": "A built-in burr grinder, precise extraction and a steam wand in one brushed-steel machine. Over 10,000 bought last month and nearly 28,000 reviews."
   },
   {
-   "title": "A signature scent: Valentino Uomo Born in Roma",
+   "title": "A signature scent: Valentino Uomo Born in Roma Coral Fantasy",
    "product": "valentino-born-in-roma-uomo",
-   "text": "The Extradose parfum: spicy lavender over deep vetiver with a warm, leathery dry-down, in the studded bottle. Rated 4.6 stars, sold by Valentino Beauty."
+   "text": "A bright apple accord over smoky tobacco and amber, in the studded bottle. Rated 4.6 stars by 880+ buyers, sold by Valentino Beauty."
   },
   {
    "title": "The quiet tracker: Oura Ring 5",

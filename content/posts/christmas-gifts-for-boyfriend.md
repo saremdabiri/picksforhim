@@ -30,9 +30,9 @@
    "text": "Nintendo's new console plays on the TV or in his hands, with a bigger, sharper screen and room for couch co-op date nights.\n\n**Best for:** the gamer, or the guy who loved his old Switch. Rated 4.7 stars by 6,000+ buyers, sold by Amazon.com."
   },
   {
-   "title": "A signature scent: Valentino Uomo Born in Roma Extradose",
+   "title": "A signature scent: Valentino Uomo Born in Roma Coral Fantasy",
    "product": "valentino-born-in-roma-uomo-intense",
-   "text": "A richer, longer-lasting version of Valentino's popular Born in Roma Uomo, in the studded bottle that looks great on a dresser.\n\n**Best for:** date nights and the boyfriend who still wears body spray. Rated 4.6 stars by 180+ buyers, sold by Valentino Beauty."
+   "text": "Valentino's apple-and-tobacco take on Born in Roma Uomo, in the studded bottle that looks great on a dresser.\n\n**Best for:** date nights and the boyfriend who still wears body spray. Rated 4.6 stars by 880+ buyers, sold by Valentino Beauty."
   },
   {
    "title": "For the runner or gym guy: Garmin Forerunner 970",
@@ -86,7 +86,8 @@
   "Christmas Gifts for Boyfriend: Don't Let Him See This",
   "8 Gifts Your Boyfriend Will Actually Use",
   "Luxury Christmas Gifts for Him 2026"
- ]
+ ],
+ "updated": "2026-11-07"
 }
 ---
 **Looking for Christmas gifts for boyfriend in 2026?** Don't let him see this list. The best Christmas gifts for a boyfriend are the upgrades he'd never buy himself: a **Tissot PRX** watch, **AirPods Max 2** headphones or a **Nintendo Switch 2** for date nights on the couch. If you're still early on, go cozy and personal with **UGG Tasman II** slippers or a signature cologne.
@@ -102,7 +103,7 @@ Every pick below was re-checked on Amazon on November 4, 2026: in stock with Add
 | Tissot PRX Powermatic 80 | Swiss automatic watch | His first great watch | 4.6 stars, 390+ reviews |
 | AirPods Max 2 | Over-ear headphones | Commuters, music lovers | 4.5 stars, 1,100+ reviews |
 | Nintendo Switch 2 | Game console | Gamers, couch co-op | 4.7 stars, 6,000+ reviews |
-| Valentino Born in Roma Extradose | Cologne | Date nights | 4.6 stars, 180+ reviews |
+| Valentino Born in Roma Coral Fantasy | Cologne | Date nights | 4.6 stars, 180+ reviews |
 | Garmin Forerunner 970 | Running watch | Runners, gym guys | 4.6 stars, 600+ reviews |
 | TheraGun Prime (6th Gen) | Massage gun | Lifters, athletes | 4.6 stars, 6,800+ reviews |
 | UGG Men's Tasman II | Slippers | Cozy, early relationship | 4.8 stars, 1,700+ reviews |

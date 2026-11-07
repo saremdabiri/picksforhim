@@ -4,7 +4,7 @@
  "slug": "gifts-for-him-2026",
  "pillar": "gift-guides",
  "date": "2026-11-02",
- "description": "Gifts for him 2026: the best gifts for guys this Christmas, from AirPods Max 2 and a Tissot PRX to the Garmin Forerunner 970, Valentino Born in Roma Extradose, a YETI Tundra 45 and a LEGO Technic Skyline GT-R.",
+ "description": "Gifts for him 2026: the best gifts for guys this Christmas, from AirPods Max 2 and a Tissot PRX to the Garmin Forerunner 970, Valentino Uomo Born in Roma Coral Fantasy, a YETI Tundra 45 and a LEGO Technic Skyline GT-R.",
  "heroAlt": "A dark wrapped gift with a gold ribbon beside headphones, a steel watch and a cologne bottle",
  "keyword": "gifts for him 2026",
  "quickPicks": [
@@ -30,9 +30,9 @@
    "text": "Garmin's flagship running watch with a bright AMOLED screen, built-in maps, training readiness and long battery life. Serious runners talk about this one all winter.\n\n**Best for:** the guy training for his next race. Rated 4.6 stars by 620+ buyers, 500+ bought last month, sold by Amazon.com."
   },
   {
-   "title": "For the well-dressed guy: Valentino Born in Roma Uomo Extradose",
+   "title": "For the well-dressed guy: Valentino Uomo Born in Roma Coral Fantasy",
    "product": "valentino-born-in-roma-uomo",
-   "text": "Valentino's warmer, longer-lasting take on Born in Roma, with spicy and woody notes in the studded bottle. A designer cologne is one of the easiest luxury gifts to get right. Pair it with ideas from [luxury gifts for men](/luxury-gifts-for-men/).\n\n**Best for:** date nights and the office. Rated 4.6 stars by 180+ buyers, 100+ bought last month, sold by Valentino Beauty."
+   "text": "Valentino's amber, fruity take on Born in Roma, with a bright apple accord and smoky tobacco in the studded bottle. A designer cologne is one of the easiest luxury gifts to get right. Pair it with ideas from [luxury gifts for men](/luxury-gifts-for-men/).\n\n**Best for:** date nights and the office. Rated 4.6 stars by 880+ buyers, sold by Valentino Beauty."
   },
   {
    "title": "For the guy who likes quiet: Sonos Ace",
@@ -78,7 +78,8 @@
   "Gifts for Him 2026",
   "Best Gifts for Guys",
   "Christmas Gifts for Men 2026"
- ]
+ ],
+ "updated": "2026-11-07"
 }
 ---
 

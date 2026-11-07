@@ -4,8 +4,8 @@
  "slug": "birthday-gifts-for-husband",
  "pillar": "gift-guides",
  "date": "2026-10-29",
- "updated": "2026-10-30",
- "description": "Birthday gifts for husband from wife in 2026: a Tissot PRX watch, Valentino Born in Roma Extradose, a Breville espresso machine, AirPods Max 2, a Garmin golf watch, a Solo Stove fire pit and more premium gifts he'll actually use.",
+ "updated": "2026-11-07",
+ "description": "Birthday gifts for husband from wife in 2026: a Tissot PRX watch, Valentino Uomo Born in Roma Coral Fantasy, a Breville espresso machine, AirPods Max 2, a Garmin golf watch, a Solo Stove fire pit and more premium gifts he'll actually use.",
  "heroAlt": "A dark gift box with a gold ribbon and a birthday card beside a Swiss watch and an espresso cup",
  "keyword": "birthday gifts for husband from wife",
  "quickPicks": [
@@ -21,9 +21,9 @@
    "text": "A Swiss watch is the classic birthday gift from a wife: personal, wearable every day and built to last. The PRX's integrated steel bracelet and sunburst blue dial look far more expensive than they are. Rated 4.6 stars, 100+ bought last month, sold by Amazon.com."
   },
   {
-   "title": "His new signature scent: Valentino Uomo Born in Roma Extradose",
+   "title": "His new signature scent: Valentino Uomo Born in Roma Coral Fantasy",
    "product": "valentino-born-in-roma-uomo-intense",
-   "text": "A spicy lavender-and-vetiver parfum with a warm, leathery dry-down in Valentino's studded bottle, made for birthday dinners and date nights. Rated 4.6 stars, sold by Valentino Beauty."
+   "text": "An amber, fruity scent with a bright apple accord and smoky tobacco in Valentino's studded bottle, made for birthday dinners and date nights. Rated 4.6 stars, sold by Valentino Beauty."
   },
   {
    "title": "Café-quality coffee at home: Breville Barista Express",

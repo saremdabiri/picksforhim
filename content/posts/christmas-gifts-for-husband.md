@@ -27,7 +27,7 @@
   {
    "title": "A signature scent: Valentino Uomo Born in Roma",
    "product": "valentino-born-in-roma-uomo",
-   "text": "Woody, warm and a little spicy, in the iconic studded bottle. A refined cologne is a classic Christmas gift for a husband, and this one is sold directly by Valentino Beauty on Amazon."
+   "text": "Warm and a little smoky, with apple and tobacco notes, in the iconic studded bottle. A refined cologne is a classic Christmas gift for a husband, and this one is sold directly by Valentino Beauty on Amazon."
   },
   {
    "title": "The Swiss classic: Tissot PRX",
@@ -88,7 +88,7 @@
   "What to Get Your Husband for Christmas",
   "Luxury Gifts for the Husband Who Has Everything"
  ],
- "updated": "2026-11-01"
+ "updated": "2026-11-07"
 }
 ---
 **Looking for Christmas gifts for husband from wife?** The best one is the luxury version of something he uses every day: **AirPods Max 2** for music and travel, a **Tissot PRX** Swiss watch, or **UGG Tasman slippers** for Christmas morning. Every pick below had 4.4 stars or higher on Amazon when we checked.
