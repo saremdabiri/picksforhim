@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B07GLK1NC2",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=traeger+pro+22"
   },
   {
@@ -206,7 +206,7 @@
     "url": "https://www.amazon.com/dp/B07H8WTFHW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=meater+plus"
   },
   {
@@ -1835,5 +1835,89 @@
     "verified": true,
     "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=lego+icons+project+hail+mary+11389"
+  },
+  {
+    "id": "shun-classic-8-chefs-knife",
+    "name": "Shun Classic 8-inch chef's knife",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Japanese chef's knife with a layered Damascus-look blade and D-shaped wood handle, made in Japan. Hand wash only.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0000Y7KNQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=shun+classic+8+inch+chef+knife"
+  },
+  {
+    "id": "ninja-woodfire-proconnect-xl",
+    "name": "Ninja Woodfire ProConnect Premium XL outdoor grill and smoker",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "7-in-1 electric outdoor grill that smokes with real wood pellets; 180 sq in fits a 10-lb brisket; app monitors two proteins.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0GRBSFVPJ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=ninja+woodfire+proconnect+premium+xl+grill"
+  },
+  {
+    "id": "ninja-artisan-pizza-oven",
+    "name": "Ninja Artisan outdoor pizza oven (12 in, 700F)",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Electric 5-in-1 outdoor pizza oven with 5 pizza settings; 12-inch pizza in about 3 minutes after preheat.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0DWTFBFWT",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=ninja+artisan+pizza+oven+mo201"
+  },
+  {
+    "id": "le-creuset-dutch-oven-5-5-qt",
+    "name": "Le Creuset enameled cast iron round Dutch oven (5.5 qt, Cerise)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The classic enameled cast iron Dutch oven for braises, stews and bread; stovetop to oven.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B00VA5HG0Q",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=le+creuset+dutch+oven+5.5+qt"
+  },
+  {
+    "id": "breville-smart-oven-air-fryer-pro",
+    "name": "Breville Smart Oven Air Fryer Pro (BOV900BSS)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Large countertop oven that air fries, roasts, bakes, dehydrates and slow cooks, in brushed stainless steel.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B01N5UPTZS",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=breville+smart+oven+air+fryer+pro"
+  },
+  {
+    "id": "john-boos-maple-cutting-board",
+    "name": "John Boos R-Board maple cutting board (18 x 12 in)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Reversible hard-maple cutting board from the American maker; hand wash and oil.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B00063QBF4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=john+boos+maple+cutting+board+18x12"
   }
 ]
