@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -262,7 +262,7 @@
     "url": "https://www.amazon.com/dp/B0B6HYSFBF",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=billconch+biometric+gun+safe"
   },
   {
@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0F8QZ7233",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+970"
   },
   {
@@ -766,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -1077,7 +1077,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
@@ -1371,7 +1371,7 @@
     "url": "https://www.amazon.com/dp/B0GXW9C8QC",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+headphones+2nd+gen"
   },
   {
@@ -1986,6 +1986,19 @@
     "merchant": "Amazon",
     "image": null,
     "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "ipad-11-a16",
+    "name": "Apple iPad 11-inch (A16)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's 11-inch iPad with the A16 chip, Liquid Retina display, USB-C and fast Wi-Fi, in four colors.",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0DZ75TN5F",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-07"
