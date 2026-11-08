@@ -101,4 +101,6 @@ Need a gift for the office party swap? These [white elephant gifts for men](/whi
 
 Browse more: [Christmas gifts for him](/luxury-christmas-gifts-for-him/), [gifts for husband](/gifts-for-husband/), [gifts for boyfriend](/gifts-for-boyfriend/).
 
+Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
+
 Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.

@@ -97,3 +97,5 @@ Buying for a gift exchange instead of one guy? See our [white elephant gifts for
 More ideas: [gifts for husband](/gifts-for-husband/), [Christmas gifts for dad](/christmas-gifts-for-dad/), [birthday gifts for men](/birthday-gifts-for-men/) and [retirement gifts for men](/retirement-gifts-for-men/).
 
 Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.
+
+Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.

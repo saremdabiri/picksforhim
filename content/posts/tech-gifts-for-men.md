@@ -96,3 +96,5 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 - **Buy from Amazon or the brand.** Electronics sold by Amazon.com are easy to return or exchange after the holidays.
 
 More ideas: [top 10 gifts for men 2026](/top-10-gifts-for-men-2026/), [gifts for men who are hard to buy for](/gifts-for-men-who-are-hard-to-buy-for/) and [top Christmas gifts for men](/top-christmas-gifts-for-men/).
+
+Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
