@@ -794,7 +794,7 @@
     "url": "https://www.amazon.com/dp/B0GJTXVN9Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=apple+airtag+4+pack"
   },
   {
@@ -808,7 +808,7 @@
     "url": "https://www.amazon.com/dp/B073WJMKHN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=yeti+rambler+20+oz"
   },
   {
@@ -1091,7 +1091,7 @@
     "url": "https://www.amazon.com/dp/B0CFPJYX7P",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite"
   },
   {
@@ -1371,7 +1371,7 @@
     "url": "https://www.amazon.com/dp/B0GXW9C8QC",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=bose+quietcomfort+headphones+2nd+gen"
   },
   {
@@ -1763,7 +1763,7 @@
     "url": "https://www.amazon.com/dp/B0FDLD34V5",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=bose+soundlink+micro+2nd+gen"
   },
   {
@@ -1777,7 +1777,7 @@
     "url": "https://www.amazon.com/dp/B0D7DKJ75M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=anker+maggo+power+bank+10000"
   },
   {
@@ -1791,7 +1791,7 @@
     "url": "https://www.amazon.com/dp/B0C7JMTCDH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=ridge+wallet"
   },
   {
@@ -2002,5 +2002,18 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "samsonite-freeform-carry-on",
+    "name": "Samsonite Freeform hardside carry-on spinner",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A textured hardside carry-on with four spinner wheels that Samsonite says meets most airlines' cabin size limits; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "url": "https://www.amazon.com/dp/B07BKLHKD9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
   }
 ]
