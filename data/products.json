@@ -1743,13 +1743,13 @@
     "name": "LEGO Game Boy (72046) building set for adults",
     "pillar": "tech",
     "merchant": "Amazon",
-    "description": "A life-size buildable Game Boy display model with the classic buttons, contrast dial and swappable Game Pak and lenticular screens; ages 18+.",
+    "description": "A life-size buildable Game Boy display model with the classic buttons, contrast dial and swappable Game Pak and lenticular screens; ages 18+, shipped and sold by Amazon.",
     "image": null,
     "dateAdded": "2026-11-06",
     "url": "https://www.amazon.com/dp/B0DX3J6MT7",
     "linkType": "product",
-    "verified": false,
-    "lastVerified": "2026-11-07",
+    "verified": true,
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=lego+game+boy+72046"
   },
   {
@@ -2054,5 +2054,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "lego-star-wars-millennium-falcon-75375",
+    "name": "LEGO Star Wars Millennium Falcon (75375) collectible model",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A mid-scale display model of the Millennium Falcon from A New Hope, with cockpit, satellite dish and cannons on a stand with a nameplate; shipped and sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "url": "https://www.amazon.com/dp/B0CGY3ZB24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+millennium+falcon+75375"
   }
 ]
