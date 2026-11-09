@@ -98,3 +98,5 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 More ideas: [top 10 gifts for men 2026](/top-10-gifts-for-men-2026/), [gifts for men who are hard to buy for](/gifts-for-men-who-are-hard-to-buy-for/) and [top Christmas gifts for men](/top-christmas-gifts-for-men/).
 
 Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
+
+**Shopping for a gamer?** Our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide covers the DualSense Edge, wireless headsets and the Switch 2.

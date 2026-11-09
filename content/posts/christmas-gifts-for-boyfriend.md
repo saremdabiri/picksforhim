@@ -125,3 +125,5 @@ Keep it personal but not over the top. A cologne, cozy slippers or a LEGO build 
 - **Order early.** Popular consoles and headphones can sell out in December; Amazon shows the live price and delivery date on each product page.
 
 Shopping for his family too? See [Christmas gifts for dad](/christmas-gifts-for-dad/). More ideas: [gifts for boyfriend](/gifts-for-boyfriend/) (any occasion), [luxury gifts for men](/luxury-gifts-for-men/) and [tech gifts for men](/tech-gifts-for-men/).
+
+**Gamer boyfriend?** The controllers, headsets and VR in our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide work for him too.
