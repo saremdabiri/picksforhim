@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -1077,7 +1077,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
@@ -2068,5 +2068,89 @@
     "verified": true,
     "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+millennium+falcon+75375"
+  },
+  {
+    "id": "dualsense-edge-controller",
+    "name": "PlayStation DualSense Edge wireless controller",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Sony's pro PS5 controller with back buttons, swappable stick caps and modules, and control profiles.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B0DSQQ1P8D",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=dualsense+edge+controller"
+  },
+  {
+    "id": "steelseries-arctis-nova-pro-omni",
+    "name": "SteelSeries Arctis Nova Pro Omni wireless gaming headset",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "SteelSeries' top wireless headset with hi-res wireless audio and connections for up to five devices.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B0GS77JQLF",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=steelseries+arctis+nova+pro+omni"
+  },
+  {
+    "id": "hyperx-cloud-alpha-wireless",
+    "name": "HyperX Cloud Alpha Wireless gaming headset",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A wireless gaming headset with DTS Headphone:X and up to 300 hours of battery life.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B09TRW57WB",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=hyperx+cloud+alpha+wireless"
+  },
+  {
+    "id": "logitech-g-pro-x-superlight-2",
+    "name": "Logitech G Pro X Superlight 2 wireless gaming mouse",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Logitech's very light wireless esports mouse for PC gaming.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B09NBWL8J5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=logitech+g+pro+x+superlight+2"
+  },
+  {
+    "id": "backbone-pro-controller",
+    "name": "BACKBONE Pro mobile gaming controller",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A phone controller for App Store games, Xbox Game Pass streaming and PlayStation Remote Play.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B0DQM23MLZ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=backbone+pro+controller"
+  },
+  {
+    "id": "kafri-rgb-headphone-stand",
+    "name": "KAFRI RGB headphone stand with USB charger",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A lit-up headset stand with nine RGB modes and USB-A and USB-C charging ports.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B07SFSTHL9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=kafri+rgb+headphone+stand"
   }
 ]
