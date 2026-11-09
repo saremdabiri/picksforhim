@@ -4,7 +4,7 @@
  "slug": "lego-sets-for-adults",
  "pillar": "home",
  "date": "2026-11-04",
- "description": "The best LEGO sets for adults in 2026, picked as Christmas gifts for men: Technic Ferrari SF24 F1 and Peugeot 9X8 hypercar, the Skyline GT-R R34, Concorde, the Back to the Future DeLorean, Jack Sparrow's pirate ship, Hogwarts and a UCS TIE Interceptor.",
+ "description": "The best LEGO sets for adults in 2026, picked as Christmas gifts for men: Technic Ferrari SF24 F1 and Peugeot 9X8 hypercar, the Skyline GT-R R34, Concorde, the Back to the Future DeLorean, Jack Sparrow's pirate ship, Hogwarts and the Millennium Falcon.",
  "heroAlt": "A wrapped gift with a gold ribbon beside a half-built model car made of bricks on a wooden desk",
  "keyword": "lego sets for adults",
  "quickPicks": [
@@ -50,9 +50,9 @@
    "text": "A micro-scale Hogwarts with the castle, towers, boathouse and grounds in one compact display. Big on detail without taking over the room.\n\n**Best for:** the fan who reread the books. Rated 4.8 stars by 2,600+ buyers, 4K+ bought last month, shipped and sold by Amazon.com."
   },
   {
-   "title": "Best for Star Wars fans: LEGO Star Wars UCS TIE Interceptor",
-   "product": "lego-star-wars-ucs-tie-interceptor",
-   "text": "An Ultimate Collector Series model of the Imperial fighter, with a display stand and info plaque. The UCS line is LEGO's premium Star Wars range built for adult collectors.\n\n**Best for:** the Star Wars collector. Rated 4.7 stars by 320+ buyers, 400+ bought last month, shipped and sold by Amazon.com."
+   "title": "Best for Star Wars fans: LEGO Star Wars Millennium Falcon (75375)",
+   "product": "lego-star-wars-millennium-falcon-75375",
+   "text": "A mid-scale model of the most famous ship in Star Wars, as seen in A New Hope, with the cockpit, satellite dish and cannons, on a display stand with a nameplate. Big enough to impress on a shelf, small enough for a desk.\n\n**Best for:** the Star Wars fan, new or lifelong. Rated 4.9 stars by 3,400+ buyers, 4K+ bought last month, shipped and sold by Amazon.com."
   }
  ],
  "faq": [
@@ -78,7 +78,8 @@
   "LEGO Sets for Adults",
   "LEGO Gifts for Men",
   "Christmas Gifts for Him"
- ]
+ ],
+ "updated": "2026-11-08"
 }
 ---
 
