@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0F8QZ7233",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=garmin+forerunner+970"
   },
   {
@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1245,7 +1245,7 @@
     "url": "https://www.amazon.com/dp/B0FKCJNHWB",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=theragun+prime"
   },
   {
@@ -2027,7 +2027,7 @@
     "dateAdded": "2026-11-08",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   {
     "id": "leatherman-signal",
@@ -2222,5 +2222,47 @@
     "verified": true,
     "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=thoughtfully+grilling+spice+set"
+  },
+  {
+    "id": "hyperice-hypervolt-2-pro",
+    "name": "Hyperice Hypervolt 2 Pro percussion massager",
+    "pillar": "tech",
+    "description": "Hyperice's most powerful handheld percussion massager, with five speeds and five attachments; sold by Hyperice.",
+    "url": "https://www.amazon.com/dp/B09JB64T9Z",
+    "searchUrl": "https://www.amazon.com/s?k=hyperice+hypervolt+2+pro",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10"
+  },
+  {
+    "id": "bowflex-selecttech-dumbbells",
+    "name": "BowFlex Results Series SelectTech adjustable dumbbells",
+    "pillar": "outdoors",
+    "description": "Dial-adjustable dumbbells that replace a full rack of weights; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0FRNG2N5H",
+    "searchUrl": "https://www.amazon.com/s?k=bowflex+selecttech+dumbbells",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10"
+  },
+  {
+    "id": "shokz-openrun-pro-2",
+    "name": "SHOKZ OpenRun Pro 2 open-ear sport headphones",
+    "pillar": "tech",
+    "description": "Open-ear bone-conduction sport headphones that leave the ears free to hear traffic; sold by Shokz Official.",
+    "url": "https://www.amazon.com/dp/B0D2HKCMBP",
+    "searchUrl": "https://www.amazon.com/s?k=shokz+openrun+pro+2",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10"
   }
 ]
