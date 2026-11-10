@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B07GLK1NC2",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=traeger+pro+22"
   },
   {
@@ -206,7 +206,7 @@
     "url": "https://www.amazon.com/dp/B07H8WTFHW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=meater+plus"
   },
   {
@@ -1861,7 +1861,7 @@
     "url": "https://www.amazon.com/dp/B0GRBSFVPJ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=ninja+woodfire+proconnect+premium+xl+grill"
   },
   {
@@ -2152,5 +2152,75 @@
     "verified": true,
     "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=kafri+rgb+headphone+stand"
+  },
+  {
+    "id": "blackstone-36-griddle",
+    "name": "Blackstone 36-inch 4-burner propane griddle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A 36-inch flat-top griddle with four burners for breakfast, smash burgers and cooking for a crowd.",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "url": "https://www.amazon.com/dp/B00DYN0438",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10",
+    "searchUrl": "https://www.amazon.com/s?k=blackstone+36+inch+griddle"
+  },
+  {
+    "id": "weber-kettle-premium-22",
+    "name": "Weber Original Kettle Premium charcoal grill, 22-inch",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The classic 22-inch charcoal kettle with a lid thermometer and easy ash cleanout.",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "url": "https://www.amazon.com/dp/B00MKB5TXA",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10",
+    "searchUrl": "https://www.amazon.com/s?k=weber+original+kettle+premium+22"
+  },
+  {
+    "id": "alpha-grillers-instant-thermometer",
+    "name": "Alpha Grillers instant-read digital meat thermometer",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A fold-out instant-read thermometer with a backlit display for quick temperature checks.",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "url": "https://www.amazon.com/dp/B00S93EQUK",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10",
+    "searchUrl": "https://www.amazon.com/s?k=alpha+grillers+meat+thermometer"
+  },
+  {
+    "id": "leeou-31pc-grill-tool-set",
+    "name": "Leeou 31-piece stainless steel grill tool set",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Spatula, tongs, fork, brush, skewers and more in stainless steel with a carry case.",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "url": "https://www.amazon.com/dp/B0CQ7Z6K43",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10",
+    "searchUrl": "https://www.amazon.com/s?k=leeou+31pcs+grill+accessories+set"
+  },
+  {
+    "id": "thoughtfully-grilling-spice-set-20",
+    "name": "Thoughtfully grilling spice gift set (20 BBQ rubs)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A gift box of 20 BBQ rubs and seasonings in small jars.",
+    "image": null,
+    "dateAdded": "2026-11-10",
+    "url": "https://www.amazon.com/dp/B083C4TBT5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-10",
+    "searchUrl": "https://www.amazon.com/s?k=thoughtfully+grilling+spice+set"
   }
 ]
