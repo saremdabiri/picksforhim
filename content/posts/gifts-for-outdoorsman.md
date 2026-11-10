@@ -115,3 +115,5 @@ Start with what he does most. A hunter spends cold hours sitting still, so heate
 For a husband who likes fishing, pick gear for the trip around the fishing: TIDEWE AquaWade Pro insulated waders for cold water, a YETI Tundra 45 for the boat, and an inReach Mini 3 Plus for trips offshore or far upriver. For reels and fish finders, see our [fishing gifts for men](/fishing-gifts-for-men/) and [offshore fishing tech](/offshore-fishing-tech-gifts/) guides.
 
 Still shopping for the holidays? Browse our [Christmas gifts for husband](/christmas-gifts-for-husband/) and [gifts for men who have everything](/gifts-for-men-who-have-everything/) guides.
+
+For the outdoorsman who cooks over fire too, see our [gifts for men who like to grill](/gifts-for-men-who-like-to-grill/) picks.

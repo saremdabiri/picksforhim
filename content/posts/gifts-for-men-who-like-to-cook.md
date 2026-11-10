@@ -121,3 +121,5 @@ Match it to his space. A Traeger Pro 22 is the classic choice for a big backyard
 - **Include the care note.** Japanese knives and wood boards need hand washing; tell him in the card.
 
 Still shopping for the holidays? Our [top Christmas gifts for men](/top-christmas-gifts-for-men/) guide has more.
+
+Is the grill his favorite spot? See our [gifts for men who like to grill](/gifts-for-men-who-like-to-grill/) guide for pellet smokers, griddles, the Weber Kettle and thermometers.

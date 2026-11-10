@@ -140,3 +140,5 @@ If he truly means it, pair a small upgrade with time together: a round of golf, 
 - **Think long-term.** Watches, coolers and tough gear last for decades and carry memories.
 
 Shopping for more people on your list? See [gifts for husband](/gifts-for-husband/), [top Christmas gifts for men](/top-christmas-gifts-for-men/), [best Christmas gifts for him](/luxury-christmas-gifts-for-him/) and, if Dad just stopped working, [retirement gifts for men](/retirement-gifts-for-men/).
+
+Does Dad live at the grill? Our [gifts for men who like to grill](/gifts-for-men-who-like-to-grill/) guide has smokers, a Blackstone griddle and stocking-stuffer thermometers.
