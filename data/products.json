@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0842CNQ94",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=yeti+tundra+45"
   },
   {
@@ -388,7 +388,7 @@
     "url": "https://www.amazon.com/dp/B0D19MW8K8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=penn+battle+iv+spinning+reel"
   },
   {
@@ -402,7 +402,7 @@
     "url": "https://www.amazon.com/dp/B08LF2NML8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=garmin+striker+vivid+7cv"
   },
   {
@@ -2264,5 +2264,75 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-10"
+  },
+  {
+    "id": "shimano-sedona-23",
+    "name": "Shimano Sedona spinning reel (2023)",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Shimano's well-reviewed everyday spinning reel, sold in sizes from light freshwater to inshore fishing.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B0C7B2ZFS5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=shimano+sedona+spinning+reel"
+  },
+  {
+    "id": "costa-brine",
+    "name": "Costa Del Mar Brine polarized sunglasses",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Costa's classic wraparound polarized sunglasses for fishing, built to cut glare off the water.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B00267EOX4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=costa+brine+sunglasses"
+  },
+  {
+    "id": "workpro-electric-fillet-knife",
+    "name": "WORKPRO 12V cordless electric fillet knife (8 and 10 inch blades)",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "A rechargeable cordless electric fillet knife with 8-inch and 10-inch blades for cleaning fish at the dock or the sink.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B0C2YJW9P5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=workpro+electric+fillet+knife"
+  },
+  {
+    "id": "plano-angled-tackle-system",
+    "name": "Plano Angled Tackle System with three 3560 Stowaway boxes",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "A tackle box with an angled tray system and three removable Stowaway utility boxes for lures, hooks and terminal tackle.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B006PKXVAA",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=plano+angled+tackle+system"
+  },
+  {
+    "id": "mystery-tackle-box-bass",
+    "name": "Catch Co Mystery Tackle Box freshwater bass fishing kit",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "A curated box of bass lures and soft plastics, a fun surprise for any freshwater angler.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B07ZJSWWQB",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=mystery+tackle+box+bass"
   }
 ]
