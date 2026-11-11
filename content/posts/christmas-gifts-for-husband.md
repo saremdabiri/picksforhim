@@ -50,9 +50,9 @@
    "text": "Cordless compression boots that pros use after hard sessions. Seven zones, simple controls and a premium feel. A wow gift for the runner, cyclist or golfer."
   },
   {
-   "title": "For the husband who runs, rides or golfs: Garmin Forerunner 165",
-   "product": "garmin-forerunner-165",
-   "text": "One of Amazon's best-selling sports watches right now, with 7K+ bought in the past month and a 4.6-star rating from over 5,000 reviews. A bright AMOLED screen, built-in GPS, daily suggested workouts, a morning sleep and recovery report, and up to 11 days of battery. Sold by Amazon.com."
+   "title": "For game nights together: Nintendo Switch 2",
+   "product": "nintendo-switch-2",
+   "text": "The most-bought console on Amazon right now, with 30K+ bought in the past month and a 4.7-star rating from over 6,000 reviews. A bigger 1080p screen, play on the TV or handheld, and easy couch co-op for the two of you. Shipped and sold by Amazon.com. Gamer husband? See our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide."
   }
  ],
  "faq": [
@@ -110,11 +110,11 @@ Every pick below was checked on Amazon this week: in stock, highly rated and sol
 | UGG Men's Tasman II | Christmas morning comfort | 4.8 stars, 1,700+ ratings |
 | Braun Series 9 PRO+ | A daily grooming upgrade | 4.4 stars, 500+ ratings |
 | Hyperice Normatec Elite | Recovery after workouts | 4.4 stars |
-| Garmin Forerunner 165 | Runners and riders | 4.6 stars, 5,300+ ratings |
+| Nintendo Switch 2 | Game nights | 4.7 stars, 6,000+ ratings |
 
 ## What should a wife get her husband for Christmas?
 
-Think about what he uses every single day and buy the best version of it. Most husbands won't spend on premium headphones, a Swiss watch or a top-tier shaver for themselves, but they use them daily once they have one. That's why AirPods Max 2, the Tissot PRX and the Braun Series 9 PRO+ are on this list. If he's sporty, a Garmin Forerunner 165 is a gift he'll wear every run.
+Think about what he uses every single day and buy the best version of it. Most husbands won't spend on premium headphones, a Swiss watch or a top-tier shaver for themselves, but they use them daily once they have one. That's why AirPods Max 2, the Tissot PRX and the Braun Series 9 PRO+ are on this list. If you two love game nights, a Nintendo Switch 2 is a gift you'll both use.
 
 ## What if my husband has everything?
 
