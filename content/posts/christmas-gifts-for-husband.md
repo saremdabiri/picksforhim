@@ -27,7 +27,7 @@
   {
    "title": "A signature scent: Valentino Uomo Born in Roma",
    "product": "valentino-born-in-roma-uomo",
-   "text": "Warm and a little smoky, with apple and tobacco notes, in the iconic studded bottle. A refined cologne is a classic Christmas gift for a husband, and this one is sold directly by Valentino Beauty on Amazon."
+   "text": "Fresh with a warm edge, with bergamot, coffee and vetiver notes, in the iconic studded bottle. A refined cologne is a classic Christmas gift for a husband, and this one is sold directly by Valentino Beauty on Amazon."
   },
   {
    "title": "The Swiss classic: Tissot PRX",
@@ -88,7 +88,7 @@
   "What to Get Your Husband for Christmas",
   "Luxury Gifts for the Husband Who Has Everything"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 **Looking for Christmas gifts for husband from wife?** The best one is the luxury version of something he uses every day: **AirPods Max 2** for music and travel, a **Tissot PRX** Swiss watch, or **UGG Tasman slippers** for Christmas morning. Every pick below had 4.4 stars or higher on Amazon when we checked.
@@ -105,7 +105,7 @@ Every pick below was checked on Amazon this week: in stock, highly rated and sol
 |---|---|---|
 | Apple AirPods Max 2 | Music, travel, the commute | 4.5 stars, 1,100+ ratings |
 | Apple Watch Ultra 4 | The outdoorsy or fitness husband | 4.8 stars, newer listing |
-| Valentino Born in Roma Uomo | A signature scent | 4.6 stars |
+| Valentino Born in Roma Uomo | A signature scent | 4.7 stars |
 | Tissot PRX | His first Swiss watch | 4.6 stars, nearly 400 ratings |
 | UGG Men's Tasman II | Christmas morning comfort | 4.8 stars, 1,700+ ratings |
 | Braun Series 9 PRO+ | A daily grooming upgrade | 4.4 stars, 500+ ratings |

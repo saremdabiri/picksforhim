@@ -4,7 +4,7 @@
  "slug": "best-cologne-for-men",
  "pillar": "grooming",
  "date": "2026-11-05",
- "description": "The best cologne for men in 2026, picked as a Christmas gift: Valentino Uomo Born in Roma Coral Fantasy, Armani Acqua di Giò and Code Parfum, Prada Luna Rossa Ocean, Montblanc Explorer, Maison Margiela Jazz Club, Carolina Herrera Bad Boy Cobalt and Spicebomb Extreme.",
+ "description": "The best cologne for men in 2026, picked as a Christmas gift: Valentino Uomo Born in Roma Green Stravaganza, Armani Acqua di Giò and Code Parfum, Prada Luna Rossa Ocean, Montblanc Explorer, Maison Margiela Jazz Club, Carolina Herrera Bad Boy Cobalt and Spicebomb Extreme.",
  "heroAlt": "A wrapped gift with a gold ribbon beside an unbranded glass cologne bottle on a dark wooden dresser",
  "keyword": "best cologne for men",
  "quickPicks": [
@@ -21,9 +21,9 @@
  ],
  "items": [
   {
-   "title": "Best overall: Valentino Uomo Born in Roma Coral Fantasy",
+   "title": "Best overall: Valentino Uomo Born in Roma Green Stravaganza",
    "product": "valentino-born-in-roma-uomo-intense",
-   "text": "A warm, modern take on Valentino's best-selling men's line: a bright apple accord over smoky tobacco and amber, in the studded bottle. It smells polished without being loud.\n\n**Best for:** the man who dresses well and wants one signature scent. Rated 4.6 stars by 880+ buyers, 400+ bought last month, sold by Valentino Beauty."
+   "text": "A warm, modern take on Valentino's best-selling men's line: bright Calabrian bergamot over a roasted coffee accord and earthy vetiver, in the studded bottle. It smells polished without being loud.\n\n**Best for:** the man who dresses well and wants one signature scent. Rated 4.7 stars by 640+ buyers, 50+ bought last month, sold by Valentino Beauty."
   },
   {
    "title": "The classic: Armani Acqua di Giò Eau de Toilette",
@@ -64,7 +64,7 @@
  "faq": [
   {
    "q": "What is the best cologne for men in 2026?",
-   "a": "For a gift, the best cologne for men in 2026 is Valentino Uomo Born in Roma Coral Fantasy for a warm signature scent, Armani Acqua di Giò if you want a safe fresh classic, and Maison Margiela Replica Jazz Club for something more unusual. All are rated 4.5 stars or higher and sold by the brand."
+   "a": "For a gift, the best cologne for men in 2026 is Valentino Uomo Born in Roma Green Stravaganza for a fresh, textured signature scent, Armani Acqua di Giò if you want a safe fresh classic, and Maison Margiela Replica Jazz Club for something more unusual. All are rated 4.5 stars or higher and sold by the brand."
   },
   {
    "q": "Is cologne a good Christmas gift for a man?",
@@ -79,7 +79,7 @@
    "a": "Buy listings that are sold by the brand (Armani beauty, Valentino Beauty, Maison Margiela, Carolina Herrera, Viktor&Rolf) or shipped and sold by Amazon.com. Every cologne in this guide was checked for that on November 5, 2026."
   }
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 

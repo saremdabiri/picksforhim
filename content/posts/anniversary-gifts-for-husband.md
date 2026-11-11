@@ -25,9 +25,9 @@
    "text": "A hand-wound field watch with military roots and a clean, timeless dial. Understated, Swiss-made and built to be passed down, which is exactly the point of an anniversary gift."
   },
   {
-   "title": "A signature scent: Valentino Uomo Born in Roma Coral Fantasy",
+   "title": "A signature scent: Valentino Uomo Born in Roma Green Stravaganza",
    "product": "valentino-born-in-roma-uomo",
-   "text": "Amber and fruity, with a bright apple accord over smoky tobacco, in the studded bottle. Sold directly by Valentino Beauty on Amazon, 400+ bought last month."
+   "text": "Fresh and textured, with Calabrian bergamot over a roasted coffee accord and vetiver, in the studded bottle. Sold directly by Valentino Beauty on Amazon, 50+ bought last month."
   },
   {
    "title": "The timeless fresh one: Armani Acqua di Giò",
@@ -79,7 +79,7 @@
   "Luxury Anniversary Gifts for Him",
   "What to Get Your Husband for Your Anniversary"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 Anniversary gifts for husband should feel personal and last longer than the dinner reservation. The best ones are pieces he'll use or wear every day and think of you when he does: a fine watch, a signature cologne, or a luxury upgrade he'd never buy himself.
