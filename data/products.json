@@ -1651,7 +1651,7 @@
     "url": "https://www.amazon.com/dp/B0CRWVCNV1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-04",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+ucs+tie+interceptor"
   },
   {
@@ -2066,7 +2066,7 @@
     "url": "https://www.amazon.com/dp/B0CGY3ZB24",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+millennium+falcon+75375"
   },
   {
@@ -2488,5 +2488,75 @@
     "verified": true,
     "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=funny+golf+tees"
+  },
+  {
+    "id": "star-wars-black-series-darth-vader-helmet",
+    "name": "STAR WARS The Black Series Darth Vader Premium Electronic Helmet",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Full-size roleplay Darth Vader helmet with electronic breathing sound effects and an adjustable fit; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B09XGXRVXC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=star+wars+black+series+darth+vader+helmet"
+  },
+  {
+    "id": "star-wars-black-series-commander-cody-helmet",
+    "name": "STAR WARS The Black Series Clone Commander Cody Premium Electronic Helmet",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Amazon-exclusive full-size Clone Commander Cody helmet from Revenge of the Sith, with lights and sound; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0F251BLZN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=star+wars+black+series+commander+cody+helmet"
+  },
+  {
+    "id": "lego-star-wars-at-st-walker",
+    "name": "LEGO Star Wars AT-ST Walker (adult building set)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "A detailed adult display model of the Imperial AT-ST walker with a moving head and legs; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0DRW6CYGQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+at-st+walker"
+  },
+  {
+    "id": "lego-star-wars-razor-crest-75447",
+    "name": "LEGO Star Wars The Razor Crest 75447",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "The Mandalorian's ship as a 2025 LEGO set with opening cargo hold and minifigures; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0FMZD93DV",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+razor+crest+75447"
+  },
+  {
+    "id": "lego-star-wars-mandalorian-n1-starfighter",
+    "name": "LEGO Star Wars The Mandalorian's N-1 Starfighter 75325",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Din Djarin's N-1 starfighter with Grogu and a droid; a top-rated smaller LEGO Star Wars set, sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B09Q9848S5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+n-1+starfighter+75325"
   }
 ]
