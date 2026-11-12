@@ -2432,5 +2432,19 @@
     "verified": true,
     "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=berlinzo+ice+ball+maker"
+  },
+  {
+    "id": "ralph-lauren-polo-blue-edt",
+    "name": "Ralph Lauren Polo Blue Eau de Toilette",
+    "pillar": "grooming",
+    "merchant": "Amazon",
+    "description": "Fresh, citrusy men's cologne with melon, sage, basil verbena and washed suede; sold by Ralph Lauren Fragrances on Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B000C235PS",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=ralph+lauren+polo+blue+eau+de+toilette"
   }
 ]
