@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0C4TNKZFG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=bushnell+tour+v6+shift"
   },
   {
@@ -1189,7 +1189,7 @@
     "url": "https://www.amazon.com/dp/B0BYFBRMWP",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=garmin+approach+s70"
   },
   {
@@ -1469,7 +1469,7 @@
     "url": "https://www.amazon.com/dp/B0BBCHQJSN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=toilet+golf+game"
   },
   {
@@ -1932,7 +1932,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "bushnell-wingman-view",
@@ -1946,7 +1946,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "titleist-pro-v1-golf-balls",
@@ -1960,7 +1960,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "perfect-practice-putting-mat",
@@ -1974,7 +1974,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "samsonite-tour-deluxe-golf-case",
@@ -1988,7 +1988,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "ipad-11-a16",
@@ -2446,5 +2446,47 @@
     "verified": true,
     "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=ralph+lauren+polo+blue+eau+de+toilette"
+  },
+  {
+    "id": "shanker-funny-golf-socks",
+    "name": "Shanker funny angry golfer socks",
+    "pillar": "sports",
+    "merchant": "Amazon",
+    "description": "Novelty crew socks with a funny golf message printed on the sole; a bestselling golf stocking stuffer.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0CXQ3F8F1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=funny+golf+socks"
+  },
+  {
+    "id": "golf-whiskey-decanter-set",
+    "name": "Golf whiskey decanter set with 4 golf ball shot glasses",
+    "pillar": "sports",
+    "merchant": "Amazon",
+    "description": "A glass decanter shaped like a golf trophy with four golf-ball shot glasses; a unique bar gift for golfers.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B09CP6T4R1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=golf+whiskey+decanter+set"
+  },
+  {
+    "id": "funny-golf-tees",
+    "name": "Funny golf tees (printed messages)",
+    "pillar": "sports",
+    "merchant": "Amazon",
+    "description": "Wooden golf tees printed with funny one-liners; a cheap, useful golf stocking stuffer.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B07RNY735R",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=funny+golf+tees"
   }
 ]
