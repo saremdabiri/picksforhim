@@ -45,9 +45,9 @@
    "text": "A quick-access nightstand safe that opens with a fingerprint or PIN, with a carbon-steel shell and room for two standard pistols. Thousands of Amazon reviews and 3K+ bought in the past month. A thoughtful gift for a gun owner. Details in our [gun safe guide](/best-gun-safes-for-home/)."
   },
   {
-   "title": "The quiet upgrade: Sony WH-1000XM6",
-   "product": "sony-wh-1000xm6",
-   "text": "Flights, the office, a noisy house: Sony's newest noise-cancelling flagship gives him his own bubble. One of Amazon's most-bought headphones right now (3K+ in the past month).\n\nFor a Christmas-specific list, see [Christmas gifts for husband](/christmas-gifts-for-husband/)."
+   "title": "The signature scent: Ralph Lauren Polo Blue",
+   "product": "ralph-lauren-polo-blue-edt",
+   "text": "A fresh, easy-to-wear cologne he can put on every day: juicy melon, sage and basil verbena up top, settling into a smooth washed-suede base. Rated 4.7 stars by 11,000+ buyers, sold by Ralph Lauren Fragrances on Amazon, and one of the most-bought men's colognes right now (900+ in the past month).\n\nFor a Christmas-specific list, see [Christmas gifts for husband](/christmas-gifts-for-husband/)."
   },
   {
    "title": "For the man who'd never buy one himself: Apple iPad Air (M4)",
@@ -79,7 +79,7 @@
   "What to Get Your Husband for Christmas",
   "Gifts Your Husband Will Actually Use"
  ],
- "updated": "2026-10-22"
+ "updated": "2026-11-11"
 }
 ---
 Shopping for your husband is hard: he says he doesn't need anything, and he buys what he wants himself. The secret is to upgrade the things he already uses every single day, or feed the hobby he loves.
