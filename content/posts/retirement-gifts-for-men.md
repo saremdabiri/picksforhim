@@ -99,3 +99,5 @@ Time for the things work crowded out, and often sooner than planned. In the 2025
 It's the classic for a reason: a watch marks the moment and lasts. A hand-wound Hamilton Khaki Field is a modern take on the gold watch, made in Switzerland and easy to wear every day. For more choices, see our [luxury watches for men gift guide](/luxury-watches-for-men-gift-guide/).
 
 More ideas for him: [gifts for men who have everything](/gifts-for-men-who-have-everything/), [best gifts for men in their 50s](/best-gifts-for-men-in-their-50s/), [fishing gifts for men](/fishing-gifts-for-men/) and [Christmas gifts for dad](/christmas-gifts-for-dad/).
+
+**Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.

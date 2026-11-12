@@ -142,3 +142,5 @@ If he truly means it, pair a small upgrade with time together: a round of golf, 
 Shopping for more people on your list? See [gifts for husband](/gifts-for-husband/), [top Christmas gifts for men](/top-christmas-gifts-for-men/), [best Christmas gifts for him](/luxury-christmas-gifts-for-him/) and, if Dad just stopped working, [retirement gifts for men](/retirement-gifts-for-men/).
 
 Does Dad live at the grill? Our [gifts for men who like to grill](/gifts-for-men-who-like-to-grill/) guide has smokers, a Blackstone griddle and stocking-stuffer thermometers.
+
+**Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.

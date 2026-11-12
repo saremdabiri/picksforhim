@@ -94,3 +94,5 @@ Headed to an office gift exchange? Here are the [white elephant gifts for men](/
 - **Order early.** The best-selling items sell out first in December.
 
 Looking for the main gift? See [top Christmas gifts for men](/top-christmas-gifts-for-men/), [Christmas gifts for husband](/christmas-gifts-for-husband/) or [gifts for men who have everything](/gifts-for-men-who-have-everything/).
+
+**Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.
