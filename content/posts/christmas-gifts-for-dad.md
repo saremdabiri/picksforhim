@@ -55,15 +55,15 @@
    "text": "One of Amazon's bestselling devices right now (10K+ bought in the past month). The 7-inch glare-free screen reads like paper in sunlight and has an adjustable warm light for bedtime, and the battery lasts for weeks. Thousands of books fit on it, so it goes from the nightstand to the fishing trip without a bag full of paperbacks."
   },
   {
-   "title": "For quiet on the commute or the couch: Bose QuietComfort Headphones (2nd Gen)",
-   "product": "bose-qc-headphones-2nd-gen",
-   "text": "Bose's redesigned noise-cancelling headphones, now one of Amazon's Headphones best sellers (2K+ bought in the past month, 4.7 stars). New pill-shaped earcups, a wider padded headband and Bose TrueSpatial audio make them comfortable for long flights, games on TV or a quiet hour in the garage.\n\n**Best for:** the dad who still wears the earbuds that came with his phone. Sold by Amazon.com."
+   "title": "ThermoWorks Thermapen ONE: the thermometer pitmasters swear by",
+   "product": "thermoworks-thermapen-one",
+   "text": "If Dad runs the grill, the smoker or the Thanksgiving turkey, this is the upgrade he'll use every weekend. The Thermapen ONE gives a reading in about one second, the display rotates automatically for left- or right-handed use, and it wakes up when the probe is opened.\n\n**Best for:** the dad who cooks for the whole family.\n\n**Why it lasts:** IP67 waterproof, a 5-year warranty and ThermoWorks support based in Utah. Over 1,000 bought in the past month on Amazon."
   }
  ],
  "faq": [
   {
    "q": "What should a daughter get her dad for Christmas?",
-   "a": "Pick something tied to a moment you share with him: a Seiko Presage automatic watch he can pass down, a Kindle Paperwhite loaded with books you've talked about, or Bose QuietComfort headphones for the trips you take together. Add a handwritten card about a favorite memory. Daughters' gifts tend to land best when they're personal, not just practical."
+   "a": "Pick something tied to a moment you share with him: a Seiko Presage automatic watch he can pass down, a Kindle Paperwhite loaded with books you've talked about, or a ThermoWorks Thermapen ONE for the cookouts you share. Add a handwritten card about a favorite memory. Daughters' gifts tend to land best when they're personal, not just practical."
   },
   {
    "q": "What should a son get his dad for Christmas?",
@@ -92,10 +92,10 @@
   "Don't Let Dad See This List",
   "Christmas Gifts Dad Will Actually Use"
  ],
- "updated": "2026-11-02"
+ "updated": "2026-11-12"
 }
 ---
-**Looking for Christmas gifts for dad from daughter or son?** Don't let Dad see this list. The gifts that land best are upgrades to something he already does every week, because he will never buy the flagship version for himself. From a daughter, our top picks are the **Seiko Presage Cocktail Time** watch and the **Kindle Paperwhite**; from a son, the **Traeger Pro 22** smoker and the **Bushnell Tour V6 Shift** rangefinder. Every pick was rated 4.4 stars or higher on Amazon when we checked on November 2, 2026.
+**Looking for Christmas gifts for dad from daughter or son?** Don't let Dad see this list. The gifts that land best are upgrades to something he already does every week, because he will never buy the flagship version for himself. From a daughter, our top picks are the **Seiko Presage Cocktail Time** watch and the **Kindle Paperwhite**; from a son, the **Traeger Pro 22** smoker and the **Bushnell Tour V6 Shift** rangefinder. Every pick was rated 4.4 stars or higher on Amazon when we checked in November 2026.
 
 **Is Dad over 50?** Our [Christmas gifts for men over 50](/best-gifts-for-men-in-their-50s/) guide has 8 milestone-worthy picks.
 
@@ -107,7 +107,7 @@ These are the Christmas gifts dads actually use, including ideas for the dad who
 
 ## Christmas gifts for dad from daughter: what makes them special?
 
-A gift from a daughter usually works best when it carries a memory as well as a use. A watch like the Seiko Presage Cocktail Time is the classic keepsake, since an automatic watch can be passed down. A Kindle Paperwhite becomes personal when you load the books you've talked about, and Bose QuietComfort headphones are a thoughtful pick for the dad who travels to visit you. Add a handwritten card; it's often the part he keeps.
+A gift from a daughter usually works best when it carries a memory as well as a use. A watch like the Seiko Presage Cocktail Time is the classic keepsake, since an automatic watch can be passed down. A Kindle Paperwhite becomes personal when you load the books you've talked about, and a ThermoWorks Thermapen ONE is a thoughtful pick for the dad who cooks every family dinner. Add a handwritten card; it's often the part he keeps.
 
 ## Christmas gifts for dad from son: what does dad actually want?
 
@@ -125,7 +125,7 @@ Most dads want time and a better version of their favorite gear. Sons tend to sh
 | Seiko Presage Cocktail Time | Daughter | A keepsake watch | 4.4 stars, 500+ ratings |
 | Bushnell Tour V6 Shift | Son | The weekend golfer | 4.8 stars, 600+ ratings |
 | Kindle Paperwhite | Daughter | The dad who reads | 4.6 stars, 22,000+ ratings |
-| Bose QuietComfort Headphones (2nd Gen) | Daughter | Flights and quiet time | 4.7 stars, 200+ ratings |
+| ThermoWorks Thermapen ONE | Either | The dad who cooks | 4.6 stars, 1,400+ ratings |
 
 ## What do you get a dad who wants nothing?
 
