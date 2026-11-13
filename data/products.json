@@ -2558,5 +2558,19 @@
     "verified": true,
     "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+n-1+starfighter+75325"
+  },
+  {
+    "id": "thermoworks-thermapen-one",
+    "name": "ThermoWorks Thermapen ONE instant-read thermometer",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "One-second instant-read thermometer with a 360-degree auto-rotating display, IP67 waterproofing and a 5-year warranty. Sold by ThermoWorks.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0DC8MWQ8K",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=thermapen+one"
   }
 ]
