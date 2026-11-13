@@ -906,7 +906,7 @@
     "url": "https://www.amazon.com/dp/B0BG5YV9TX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=solo+stove+bonfire"
   },
   {
@@ -920,7 +920,7 @@
     "url": "https://www.amazon.com/dp/B0GRK1N94H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-10",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring+5"
   },
   {
@@ -1245,7 +1245,7 @@
     "url": "https://www.amazon.com/dp/B0FKCJNHWB",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-10",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=theragun+prime"
   },
   {
@@ -1791,7 +1791,7 @@
     "url": "https://www.amazon.com/dp/B0C7JMTCDH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=ridge+wallet"
   },
   {
@@ -2346,7 +2346,7 @@
     "url": "https://www.amazon.com/dp/B07PJ5Q943",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=bartesian+cocktail+machine"
   },
   {
@@ -2388,7 +2388,7 @@
     "url": "https://www.amazon.com/dp/B003QX2JMA",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=glencairn+whisky+glass+set+of+4"
   },
   {
@@ -2430,7 +2430,7 @@
     "url": "https://www.amazon.com/dp/B092R2KRXD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=berlinzo+ice+ball+maker"
   },
   {
@@ -2572,5 +2572,18 @@
     "verified": true,
     "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=thermapen+one"
+  },
+  {
+    "id": "aura-carver-frame",
+    "name": "Aura Carver 10-inch digital picture frame (Black)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "10-inch HD Wi-Fi digital picture frame; the family sends photos to it from their phones through the Aura app. Sold by Aura Home.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B09X2CL5HG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
   }
 ]
