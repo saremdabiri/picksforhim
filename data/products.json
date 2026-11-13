@@ -1539,7 +1539,7 @@
     "url": "https://www.amazon.com/dp/B0BC27MM5Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=marshall+acton+iii"
   },
   {
@@ -1553,7 +1553,7 @@
     "url": "https://www.amazon.com/dp/B0BW34LCB8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=sonos+era+100"
   },
   {
@@ -2582,6 +2582,84 @@
     "image": null,
     "dateAdded": "2026-11-13",
     "url": "https://www.amazon.com/dp/B09X2CL5HG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "google-nest-learning-thermostat-4th-gen",
+    "name": "Google Nest Learning Thermostat (4th gen) with Nest Temperature Sensor",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Google's newest learning thermostat with a sharper display, a separate room temperature sensor and automatic schedules. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0D5BGST5N",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "ring-floodlight-cam-4k-pro",
+    "name": "Ring Floodlight Cam 4K Pro (newest model)",
+    "pillar": "security",
+    "merchant": "Amazon",
+    "description": "Wired 4K floodlight camera with bright LED floodlights, a siren and 3D motion detection for the driveway or garage. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0F67KWWQH",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "ring-wired-doorbell-4k-pro",
+    "name": "Ring Wired Doorbell 4K Pro (newest model)",
+    "pillar": "security",
+    "merchant": "Amazon",
+    "description": "Ring's 4K wired video doorbell with head-to-toe view and radar-based motion detection. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0F151GFYR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "amazon-echo-show-15",
+    "name": "Amazon Echo Show 15 smart display",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "15.6-inch Full HD Alexa smart display and home hub that mounts on a wall or stands on a counter. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0C5DPSW5Y",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "dewalt-20v-max-drill-impact-combo",
+    "name": "DEWALT 20V MAX drill and impact driver combo kit (DCK277D)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Brushless 20V MAX drill/driver and impact driver with batteries, charger and bag. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0C3PQHGR7",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "chamberlain-myq-smart-garage-control",
+    "name": "CHAMBERLAIN myQ Smart Garage Control",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Turns an existing garage door opener into a smart one: open, close and check the door from a phone. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B08GD3D9YJ",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-13"
