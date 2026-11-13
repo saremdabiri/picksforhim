@@ -103,6 +103,8 @@ Christmas gifts for dad are famously hard: he says he doesn't need anything, and
 
 These are the Christmas gifts dads actually use, including ideas for the dad who has everything.
 
+**Shopping for a dad who already owns it all?** See our [Christmas gifts for dad who has everything](/christmas-gifts-for-dad-who-has-everything/): 8 gifts he'll actually use, checked November 13, 2026.
+
 <!-- list -->
 
 ## Christmas gifts for dad from daughter: what makes them special?

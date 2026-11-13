@@ -86,6 +86,8 @@ The best Christmas gifts for husband who has everything aren't more stuff, they'
 
 Every Amazon pick below was checked on November 1, 2026: in stock, rated 4.4 stars or higher with hundreds of reviews, and sold by Amazon.com or the brand.
 
+**Shopping for a dad who already owns it all?** See our [Christmas gifts for dad who has everything](/christmas-gifts-for-dad-who-has-everything/): 8 gifts he'll actually use, checked November 13, 2026.
+
 <!-- list -->
 
 ## How to choose a gift for the husband who has everything

@@ -86,6 +86,8 @@ Is he a cat person? See our [Christmas gifts for cat lovers (men)](/christmas-gi
 
 Buying for a gift exchange instead of one guy? See our [white elephant gifts for men](/white-elephant-gifts-for-men/) that get fought over.
 
+**Shopping for a dad who already owns it all?** See our [Christmas gifts for dad who has everything](/christmas-gifts-for-dad-who-has-everything/): 8 gifts he'll actually use, checked November 13, 2026.
+
 <!-- list -->
 
 ## How to shop for the man who has everything
