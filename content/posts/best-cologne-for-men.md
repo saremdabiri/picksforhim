@@ -79,7 +79,7 @@
    "a": "Buy listings that are sold by the brand (Armani beauty, Valentino Beauty, Maison Margiela, Carolina Herrera, Viktor&Rolf) or shipped and sold by Amazon.com. Every cologne in this guide was checked for that on November 5, 2026."
   }
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-13"
 }
 ---
 
