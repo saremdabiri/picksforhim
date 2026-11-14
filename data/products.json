@@ -1025,7 +1025,7 @@
     "url": "https://www.amazon.com/dp/B07V3LB5DN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-14"
   },
   {
     "id": "vortex-crossfire-hd-1400",
@@ -1038,7 +1038,7 @@
     "url": "https://www.amazon.com/dp/B09YT4X6NG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-14"
   },
   {
     "id": "tactacam-reveal-x-3",
@@ -1051,7 +1051,7 @@
     "url": "https://www.amazon.com/dp/B0FW4CW7J3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   {
     "id": "outdoor-edge-razorpro-l",
@@ -1064,7 +1064,7 @@
     "url": "https://www.amazon.com/dp/B0BDQCKXCW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-14"
   },
   {
     "id": "nintendo-switch-2",
@@ -1413,7 +1413,7 @@
     "url": "https://www.amazon.com/dp/B0CG65PYBV",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-14",
     "searchUrl": "https://www.amazon.com/s?k=rechargeable+hand+warmers+2+pack"
   },
   {
@@ -2677,5 +2677,33 @@
     "verified": true,
     "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
+  },
+  {
+    "id": "hss-ultra-lite-harness",
+    "name": "Hunter Safety System Ultra-Lite tree stand safety harness",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Lightweight full-body tree stand harness with tether and suspension relief strap.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B000AU98NK",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=hunter+safety+system+ultra-lite+harness"
+  },
+  {
+    "id": "mossy-oak-field-dressing-kit",
+    "name": "Mossy Oak field dressing kit with carry case",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Deer field dressing set: gut-hook skinner, caping knife, bone saw, rib spreader, gloves and sharpener.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B07BWKTB5Q",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=mossy+oak+field+dressing+kit"
   }
 ]
