@@ -146,3 +146,5 @@ Shopping for more people on your list? See [gifts for husband](/gifts-for-husban
 Does Dad live at the grill? Our [gifts for men who like to grill](/gifts-for-men-who-like-to-grill/) guide has smokers, a Blackstone griddle and stocking-stuffer thermometers.
 
 **Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.
+
+**Does Dad hunt?** Our [hunting gifts for men](/gifts-for-hunters/) guide has heated gear, Vortex optics, a tree stand harness and deer hunting gifts.

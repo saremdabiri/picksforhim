@@ -84,7 +84,7 @@
 
 **Looking for gifts for outdoorsman types who seem to own every piece of gear?** The best gifts for outdoorsman guys are the upgrades he wouldn't buy himself: a **Garmin Instinct 3 AMOLED** watch, a **Garmin inReach Mini 3 Plus** for trips beyond cell signal, and a **YETI Tundra 45** cooler that will outlast his truck.
 
-We chose these from listings rated 4.3 stars or higher with hundreds or thousands of reviews, checked on the date shown on this page, plus two cold-weather picks from TIDEWE's own store. We haven't used every product here. Shopping for a hunter or angler? See our [gifts for hunters](/gifts-for-hunters/) and [fishing gifts for men](/fishing-gifts-for-men/) guides.
+We chose these from listings rated 4.3 stars or higher with hundreds or thousands of reviews, checked on the date shown on this page, plus two cold-weather picks from TIDEWE's own store. We haven't used every product here. Shopping for a hunter or angler? See our [hunting gifts for men](/gifts-for-hunters/) and [fishing gifts for men](/fishing-gifts-for-men/) guides.
 
 <!-- list -->
 

@@ -120,4 +120,4 @@ Sunlight reflecting off water creates glare that hides what is under the surface
 
 Probably. Most U.S. states require adults to hold a freshwater or saltwater fishing license, with exceptions such as some private ponds or fishing with a licensed captain, according to [Take Me Fishing](https://www.takemefishing.org/blog/april-2025/a-guide-to-seasonal-fishing-licenses-and-other-license-matters/). Many states offer discounted licenses for seniors, veterans and military members, so check his state wildlife agency before the season starts.
 
-More ideas in our [gifts for outdoorsman](/gifts-for-outdoorsman/), [gifts for hunters](/gifts-for-hunters/) and [Christmas gifts for dad](/christmas-gifts-for-dad/) guides.
+More ideas in our [gifts for outdoorsman](/gifts-for-outdoorsman/), [hunting gifts for men](/gifts-for-hunters/) and [Christmas gifts for dad](/christmas-gifts-for-dad/) guides.
