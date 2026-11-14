@@ -1718,10 +1718,10 @@
     "description": "Carolina Herrera Bad Boy Cobalt Eau de Parfum in the lightning-bolt bottle; sold by Carolina Herrera.",
     "image": null,
     "dateAdded": "2026-11-05",
-    "url": "https://www.amazon.com/dp/B0DV9TR8KZ",
+    "url": "https://www.amazon.com/dp/B0D5HTHM5M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=carolina+herrera+bad+boy+cobalt"
   },
   {
@@ -2663,5 +2663,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "apple-watch-series-12",
+    "name": "Apple Watch Series 12 (GPS, 42mm)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's newest flagship smartwatch for workouts, sleep tracking, safety features and notifications; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13",
+    "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   }
 ]
