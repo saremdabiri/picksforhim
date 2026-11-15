@@ -45,9 +45,9 @@
    "text": "Wireless compression boots for after long runs, games or leg day. A true luxury for active guys."
   },
   {
-   "title": "For the griller: MEATER Plus",
-   "product": "meater-plus",
-   "text": "Wireless meat thermometer that tells his phone exactly when the steak is ready. A great add-on gift."
+   "title": "For lazy weekends: UGG Men's Tasman II",
+   "product": "ugg-tasman-ii-men",
+   "text": "The suede-and-sheepskin slipper with a rubber sole he can wear outside. 4.8 stars from 1,700+ reviews and 600+ bought in the past month, sold by Amazon."
   },
   {
    "title": "For the music lover: Marshall Emberton III",
@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Husband",
   "Birthday Gifts He'll Actually Use"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-15"
 }
 ---
 A great birthday gift for a man is something he'd want but wouldn't buy himself. Start with what he does on weekends: golf, fitness, grilling, music. Then go one level up.
