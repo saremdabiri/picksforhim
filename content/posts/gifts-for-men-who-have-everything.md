@@ -101,3 +101,5 @@ More ideas: [gifts for husband](/gifts-for-husband/), [Christmas gifts for dad](
 Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.
 
 Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
+
+Buying for a brother who has everything? Our [Christmas gifts for brother](/christmas-gifts-for-brother/) guide has nine picks, including a funny one.

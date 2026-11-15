@@ -104,3 +104,5 @@ Browse more: [Christmas gifts for him](/luxury-christmas-gifts-for-him/), [gifts
 Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
 
 Is he the one who runs the grill or the kitchen? See our [gifts for men who like to cook](/gifts-for-men-who-like-to-cook/) guide for chef's knives, smokers and a wireless meat thermometer he'll use every weekend.
+
+Shopping for a sibling? See our [Christmas gifts for brother](/christmas-gifts-for-brother/), with picks for adult brothers, brothers-in-law and gifts from a sister.
