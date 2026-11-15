@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-men-in-their-40s",
  "pillar": "gift-guides",
  "date": "2026-10-24",
- "description": "The best gifts for men in their 40s in 2026: a Hamilton Khaki Field watch, Garmin Forerunner 970, Bose QuietComfort Ultra headphones, a Breville espresso machine, MEATER Plus, Bushnell golf rangefinder and Armani cologne.",
+ "description": "The best gifts for men in their 40s for Christmas 2026: a Hamilton Khaki Field watch, Garmin Forerunner 970, Bose QuietComfort Ultra headphones, a Breville espresso machine, MEATER Plus, Bushnell golf rangefinder and Armani cologne.",
  "heroAlt": "A black gift box with a gold ribbon on a leather desk beside a field watch, noise-cancelling headphones and a golf rangefinder",
  "keyword": "best gifts for men in their 40s",
  "quickPicks": [
@@ -61,6 +61,10 @@
    "a": "Refined versions of what he already loves: a Swiss watch like the Hamilton Khaki Field, Bose noise-cancelling headphones, a Breville espresso machine, a Garmin training watch or a golf rangefinder."
   },
   {
+   "q": "What are the best Christmas gifts for men in their 40s?",
+   "a": "For Christmas 2026, men in their 40s appreciate a heritage watch like the Hamilton Khaki Field, a Garmin Forerunner 970, a Breville espresso machine and a refined cologne. One well-made piece beats several small gifts."
+  },
+  {
    "q": "What is a good 40th birthday gift for a husband?",
    "a": "Mark the milestone with something lasting: a mechanical watch, a signature cologne or a hobby upgrade like a Bushnell rangefinder. More ideas in our [birthday gifts for men](/birthday-gifts-for-men/)."
   },
@@ -78,7 +82,8 @@
   "Best Gifts for Men in Their 40s",
   "40th Birthday Gifts for Him",
   "Gifts for Him in His 40s 2026"
- ]
+ ],
+ "updated": "2026-11-15"
 }
 ---
 The best gifts for men in their 40s are about craftsmanship and the rituals he already loves: his morning coffee, his weekend round of golf, the grill, the long run and the flight for work. He doesn't need more stuff; he appreciates the best version of the things he uses.
@@ -95,3 +100,5 @@ Every pick below was checked on Amazon this week: in stock, highly rated, and so
 - **Buy from the brand or Amazon.** For watches and fragrance, the seller matters as much as the product.
 
 More ideas: [gifts for husband](/gifts-for-husband/), [best gifts for men in their 30s](/best-gifts-for-men-in-their-30s/) and the [top Christmas gifts for men](/top-christmas-gifts-for-men/).
+
+Shopping for a different age? See the [best gifts for men in their 30s](/best-gifts-for-men-in-their-30s/) and [50s](/best-gifts-for-men-in-their-50s/), or browse all [gifts for him 2026](/gifts-for-him-2026/).
