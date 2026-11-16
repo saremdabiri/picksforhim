@@ -2610,7 +2610,7 @@
     "url": "https://www.amazon.com/dp/B0F67KWWQH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "ring-wired-doorbell-4k-pro",
@@ -2649,7 +2649,7 @@
     "url": "https://www.amazon.com/dp/B0C3PQHGR7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "chamberlain-myq-smart-garage-control",
@@ -2662,7 +2662,7 @@
     "url": "https://www.amazon.com/dp/B08GD3D9YJ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "apple-watch-series-12",
@@ -2938,6 +2938,71 @@
     "image": null,
     "dateAdded": "2026-11-16",
     "url": "https://www.amazon.com/dp/B01HHRDXWK",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "dewalt-247-piece-mechanics-tool-set",
+    "name": "DEWALT 247-piece mechanics tool set (1/4, 3/8 and 1/2 in. drive)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "247-piece SAE and metric socket and wrench set in a three-drawer case. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0767PMCD8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "dewalt-bluetooth-jobsite-radio",
+    "name": "DEWALT 12V/20V MAX portable Bluetooth radio",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Cordless jobsite Bluetooth radio that runs on DEWALT 12V or 20V MAX batteries. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B088XW3HND",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "noco-boost-gbx45-jump-starter",
+    "name": "NOCO Boost X GBX45 1250A jump starter",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Portable lithium jump starter for 12V vehicles with a USB-C power bank and LED light. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0924V8SPC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "craftsman-versastack-xl-rolling-tower",
+    "name": "CRAFTSMAN VERSASTACK XL rolling tower tool storage system (4 piece)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Four-piece stackable rolling tool storage tower. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0CPT8TZR2",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "dewalt-toughsystem-rolling-tool-box",
+    "name": "DEWALT TOUGHSYSTEM large rolling tool box with telescoping handle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Modular rolling tool box with wheels and a telescoping handle. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B01N1H4N5X",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-16"
