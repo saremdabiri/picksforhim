@@ -668,7 +668,7 @@
     "url": "https://www.amazon.com/dp/B0DV7JN7ZD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
   },
   {
@@ -696,7 +696,7 @@
     "url": "https://www.amazon.com/dp/B0DPLLP4KR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-15",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=ugg+mens+tasman+ii"
   },
   {
@@ -808,7 +808,7 @@
     "url": "https://www.amazon.com/dp/B073WJMKHN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=yeti+rambler+20+oz"
   },
   {
@@ -1091,7 +1091,7 @@
     "url": "https://www.amazon.com/dp/B0CFPJYX7P",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite"
   },
   {
@@ -2388,7 +2388,7 @@
     "url": "https://www.amazon.com/dp/B003QX2JMA",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=glencairn+whisky+glass+set+of+4"
   },
   {
@@ -2584,7 +2584,7 @@
     "url": "https://www.amazon.com/dp/B09X2CL5HG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "google-nest-learning-thermostat-4th-gen",
@@ -2915,5 +2915,31 @@
     "verified": true,
     "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2+pro+controller"
+  },
+  {
+    "id": "grandpa-life-story-journal",
+    "name": "Grandpa life story guided leather journal (hardcover)",
+    "pillar": "gift-guides",
+    "merchant": "Amazon",
+    "description": "A hardcover guided journal with prompts for grandpa to record his life stories and advice for the family.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0FM2GSRYL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "magnetic-pickup-flashlight-tool",
+    "name": "VIBELITE extendable magnetic pickup tool with LED flashlight",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A telescoping magnetic pickup tool with LED lights for grabbing dropped screws and nails in tight spots.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B01HHRDXWK",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
   }
 ]
