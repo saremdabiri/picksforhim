@@ -101,3 +101,5 @@ It's the classic for a reason: a watch marks the moment and lasts. A hand-wound 
 More ideas for him: [gifts for men who have everything](/gifts-for-men-who-have-everything/), [best gifts for men in their 50s](/best-gifts-for-men-in-their-50s/), [fishing gifts for men](/fishing-gifts-for-men/) and [Christmas gifts for dad](/christmas-gifts-for-dad/).
 
 **Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.
+
+Retired and a grandfather? See our [Christmas gifts for grandpa](/christmas-gifts-for-grandpa/) guide.

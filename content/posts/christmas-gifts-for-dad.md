@@ -148,3 +148,5 @@ Does Dad live at the grill? Our [gifts for men who like to grill](/gifts-for-men
 **Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.
 
 **Does Dad hunt?** Our [hunting gifts for men](/gifts-for-hunters/) guide has heated gear, Vortex optics, a tree stand harness and deer hunting gifts.
+
+Buying for grandpa too? Our [Christmas gifts for grandpa](/christmas-gifts-for-grandpa/) guide has eight picks the grandkids can give.

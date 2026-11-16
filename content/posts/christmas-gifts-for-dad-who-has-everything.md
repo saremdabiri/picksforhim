@@ -114,3 +114,5 @@ It's the most-wanted gift overall: the [National Retail Federation's 2026 holida
 A digital photo frame is the easiest sentimental gift to get right. Set up the Aura Carver before you wrap it, invite your siblings in the app, and load it with old family photos, so it's full of memories the moment he plugs it in. Add a handwritten card about a favorite memory together and it becomes the gift he talks about all year.
 
 More ideas: [Christmas gifts for dad](/christmas-gifts-for-dad/), [gifts for men who have everything](/gifts-for-men-who-have-everything/), [Christmas gifts for husband who has everything](/christmas-gifts-for-husband-who-has-everything/), [retirement gifts for men](/retirement-gifts-for-men/) and [golf gifts for men](/golf-gifts-for-men/).
+
+Shopping for the grandfather of the family? See our [Christmas gifts for grandpa](/christmas-gifts-for-grandpa/) guide.
