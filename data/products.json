@@ -2672,10 +2672,10 @@
     "description": "Apple's newest flagship smartwatch for workouts, sleep tracking, safety features and notifications; shipped and sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-11-13",
-    "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
+    "url": "https://www.amazon.com/dp/B0HJBCX8VS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13",
+    "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -2901,5 +2901,19 @@
     "verified": true,
     "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=harry+potter+sorcerers+stone+illustrated+edition"
+  },
+  {
+    "id": "nintendo-switch-2-pro-controller",
+    "name": "Nintendo Switch 2 Pro Controller",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Nintendo's own pro controller for Switch 2 with HD Rumble 2, motion controls, two mappable GL/GR back buttons, a C button for GameChat and a 3.5mm audio jack; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-15",
+    "url": "https://www.amazon.com/dp/B0F3VTFD6J",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-15",
+    "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2+pro+controller"
   }
 ]
