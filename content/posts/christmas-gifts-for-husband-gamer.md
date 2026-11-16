@@ -3,6 +3,7 @@
  "title": "Watch Your Husband Freak Out: 8 Christmas Gifts for Husband Gamer (Upgrades He Won't Buy Himself, 2026)",
  "slug": "christmas-gifts-for-husband-gamer",
  "pillar": "gift-guides",
+ "updated": "2026-11-15",
  "date": "2026-11-09",
  "description": "The best Christmas gifts for husband gamer in 2026: Nintendo Switch 2, Meta Quest 3S, the PlayStation DualSense Edge pro controller, SteelSeries Arctis Nova Pro Omni and HyperX Cloud Alpha Wireless headsets, the Logitech G Pro X Superlight 2 mouse and more, all rated 4.3 stars or higher on Amazon.",
  "heroAlt": "A man in a gaming chair holding a black pro controller with a wireless headset around his neck in front of a TV lit up by a game",
@@ -45,9 +46,9 @@
    "text": "Logitech's very light wireless esports mouse, built for fast, accurate aim in PC shooters. Rated 4.5 stars by more than 2,400 buyers.\n\n**Best for:** the PC gamer who still uses the mouse that came with his computer.\n\n**Skip it if:** he only plays on console."
   },
   {
-   "title": "BACKBONE Pro: gaming on his phone anywhere",
-   "product": "backbone-pro-controller",
-   "text": "A controller that turns his phone into a handheld for App Store games like Call of Duty and Fortnite, Xbox Game Pass streaming and PlayStation Remote Play, per the listing. Rated 4.4 stars by more than 500 buyers, sold by Backbone Labs.\n\n**Best for:** commutes, travel and lunch breaks.\n\n**Skip it if:** he never games on his phone."
+   "title": "Nintendo Switch 2 Pro Controller: the upgrade every Switch 2 owner wants",
+   "product": "nintendo-switch-2-pro-controller",
+   "text": "Nintendo's own pro controller for Switch 2, with HD Rumble 2, motion controls, two back buttons (GL and GR) he can map to any button, a C button for GameChat and a 3.5mm headset jack. Rated 4.8 stars by nearly 4,000 buyers, with 20K+ bought on Amazon in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the Switch 2 owner still playing on the small Joy-Con 2s, or as an add-on to a Switch 2 gift.\n\n**Skip it if:** he doesn't own (or isn't getting) a Switch 2."
   },
   {
    "title": "KAFRI RGB headphone stand: the stocking stuffer for his desk",
@@ -62,7 +63,7 @@
   },
   {
    "q": "What is a good Christmas gift for a gamer who has everything?",
-   "a": "Try VR or mobile gaming, the two things many console gamers don't own yet. The Meta Quest 3S needs no PC or console, and the BACKBONE Pro turns his phone into a handheld for Xbox Game Pass and PlayStation Remote Play."
+   "a": "Try VR or mobile gaming, the two things many console gamers don't own yet. The Meta Quest 3S needs no PC or console, and if he already has a Switch 2, the Switch 2 Pro Controller is the upgrade most owners buy next."
   },
   {
    "q": "How do I know which gaming gift will work with his system?",
@@ -94,12 +95,12 @@ We chose these from Amazon listings rated 4.3 stars or higher with hundreds or t
 | SteelSeries Arctis Nova Pro Omni | Multiple devices | Luxury audio | 4.3 stars |
 | HyperX Cloud Alpha Wireless | See listing | Long battery life | 4.3 stars |
 | Logitech G Pro X Superlight 2 | PC | PC shooters | 4.5 stars |
-| BACKBONE Pro | Phone | Gaming on the go | 4.4 stars |
+| Nintendo Switch 2 Pro Controller | Switch 2 | Couch gaming upgrade | 4.8 stars |
 | KAFRI RGB headphone stand | Any desk | Stocking stuffer | 4.6 stars |
 
 ## What do you buy a gamer husband who has everything?
 
-Upgrade the gear he touches every session instead of buying another game. A pro controller, a better headset or a lighter mouse changes how every game feels, and most gamers put off buying them for themselves. If he truly has all of that, go sideways: the Meta Quest 3S adds VR without needing a console or PC, and the BACKBONE Pro lets him play on his phone while traveling.
+Upgrade the gear he touches every session instead of buying another game. A pro controller, a better headset or a lighter mouse changes how every game feels, and most gamers put off buying them for themselves. If he truly has all of that, go sideways: the Meta Quest 3S adds VR without needing a console or PC, and the Switch 2 Pro Controller makes long Switch 2 sessions far more comfortable.
 
 ## Is the DualSense Edge worth it as a gift?
 

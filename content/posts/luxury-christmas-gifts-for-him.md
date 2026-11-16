@@ -4,7 +4,7 @@
  "slug": "luxury-christmas-gifts-for-him",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, the Nintendo Switch 2, a Traeger smoker, YETI, a Garmin fishfinder, MEATER and a biometric safe. Considered gifts, no clutter.",
+ "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, the Nintendo Switch 2, a Traeger smoker, YETI, a Garmin fishfinder, the Apple Watch Series 12 and a biometric safe. Considered gifts, no clutter.",
  "heroAlt": "Gift boxes wrapped in dark paper with gold ribbon beside a watch and leather gloves",
  "keyword": "christmas gifts for him",
  "quickPicks": [
@@ -35,9 +35,9 @@
    "text": "Wood-fired flavor without babysitting a fire. The Traeger that made pellet smoking famous, and the gift that turns him into the host."
   },
   {
-   "title": "For the grill perfectionist: MEATER Plus",
-   "product": "meater-plus",
-   "text": "A truly wireless thermometer that tells his phone exactly when the brisket or steak is ready. The perfect companion to a smoker."
+   "title": "For the man who checks his wrist all day: Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Apple's newest flagship watch for workouts, sleep tracking, safety features and notifications. Rated 4.7 stars, with thousands bought on Amazon in the past month, shipped and sold by Amazon.com."
   },
   {
    "title": "For the boat and the tailgate: YETI Tundra 45",
@@ -80,7 +80,7 @@
   "Luxury Gifts He'll Actually Use",
   "Gifts for the Man Who Has Everything"
  ],
- "updated": "2026-10-27"
+ "updated": "2026-11-15"
 }
 ---
 The best gifts for men aren't gimmicks. They're the upgraded version of something he already loves: the morning shave, the watch on his wrist, Saturday at the grill, Sunday on the water.
