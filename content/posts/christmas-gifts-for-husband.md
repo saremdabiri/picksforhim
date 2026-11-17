@@ -45,14 +45,14 @@
    "text": "Braun's top shaver with a cleaning station. Men rarely buy themselves the flagship of something they use every morning, which is exactly why it lands. Compare models in our [shaver guide](/best-luxury-electric-shavers-for-men/)."
   },
   {
-   "title": "For the athlete: Hyperice Normatec Elite",
-   "product": "hyperice-normatec-elite",
-   "text": "Cordless compression boots that pros use after hard sessions. Seven zones, simple controls and a premium feel. A wow gift for the runner, cyclist or golfer."
+   "title": "For the guy who wants something new: Meta Quest 3S",
+   "product": "meta-quest-3s",
+   "text": "An all-in-one VR and mixed-reality headset with no PC or console needed, and this bundle includes Golf+ so he can play a round from the living room. 8,000+ bought on Amazon in the past month, rated 4.6 stars from 6,800+ reviews and sold by Amazon.com."
   },
   {
    "title": "For game nights together: Nintendo Switch 2",
    "product": "nintendo-switch-2",
-   "text": "The most-bought console on Amazon right now, with 30K+ bought in the past month and a 4.7-star rating from over 6,000 reviews. A bigger 1080p screen, play on the TV or handheld, and easy couch co-op for the two of you. Shipped and sold by Amazon.com. Gamer husband? See our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide."
+   "text": "The most-bought console on Amazon right now, with 40K+ bought in the past month and a 4.7-star rating from over 6,000 reviews. A bigger 1080p screen, play on the TV or handheld, and easy couch co-op for the two of you. Shipped and sold by Amazon.com. Gamer husband? See our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide."
   }
  ],
  "faq": [
@@ -88,7 +88,7 @@
   "What to Get Your Husband for Christmas",
   "Luxury Gifts for the Husband Who Has Everything"
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-17"
 }
 ---
 **Looking for Christmas gifts for husband from wife?** The best one is the luxury version of something he uses every day: **AirPods Max 2** for music and travel, a **Tissot PRX** Swiss watch, or **UGG Tasman slippers** for Christmas morning. Every pick below had 4.4 stars or higher on Amazon when we checked.
@@ -109,7 +109,7 @@ Every pick below was checked on Amazon this week: in stock, highly rated and sol
 | Tissot PRX | His first Swiss watch | 4.6 stars, nearly 400 ratings |
 | UGG Men's Tasman II | Christmas morning comfort | 4.8 stars, 1,700+ ratings |
 | Braun Series 9 PRO+ | A daily grooming upgrade | 4.4 stars, 500+ ratings |
-| Hyperice Normatec Elite | Recovery after workouts | 4.4 stars |
+| Meta Quest 3S | VR games and Golf+ at home | 4.6 stars, 6,800+ ratings |
 | Nintendo Switch 2 | Game nights | 4.7 stars, 6,000+ ratings |
 
 ## What should a wife get her husband for Christmas?
@@ -118,7 +118,7 @@ Think about what he uses every single day and buy the best version of it. Most h
 
 ## What if my husband has everything?
 
-When he already owns the gadget, upgrade the experience around it. Recovery boots like the Hyperice Normatec Elite, a new cologne for date nights, or shearling-lined UGG slippers are luxuries most men never buy for themselves. Pair the gift with a plan, like a weekend away or a dinner you book, and he gets something to open and something to look forward to.
+When he already owns the gadget, upgrade the experience around it. A VR headset like the Meta Quest 3S, a new cologne for date nights, or shearling-lined UGG slippers are luxuries most men never buy for themselves. Pair the gift with a plan, like a weekend away or a dinner you book, and he gets something to open and something to look forward to.
 
 Want the quick list? See our [top 10 gifts for men 2026](/top-10-gifts-for-men-2026/), plus [anniversary gifts for husband](/anniversary-gifts-for-husband/) if your dates are close together.
 
