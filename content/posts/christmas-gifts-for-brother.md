@@ -141,3 +141,5 @@ Older brothers with a house and a family tend to love gifts for hosting and the 
 - **Add a note.** A short card about a shared memory makes any gift land.
 
 Need more ideas? Try our [gifts for men who have everything](/gifts-for-men-who-have-everything/), [top Christmas gifts for men](/top-christmas-gifts-for-men/) and [luxury Christmas gifts for him](/luxury-christmas-gifts-for-him/) guides.
+
+Shopping for a younger brother still in high school? See our [Christmas gifts for teenage boys](/gifts-for-teenage-boys/).

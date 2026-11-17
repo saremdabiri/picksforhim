@@ -114,3 +114,5 @@ Yes, if he plays on PS5 often. PlayStation says the DualSense Edge adds back but
 - **Add a stocking stuffer.** The headphone stand or a digital gift card for his platform rounds out the gift.
 
 More gift ideas: [Christmas gifts for boyfriend](/christmas-gifts-for-boyfriend/), [white elephant gifts for men](/white-elephant-gifts-for-men/), and for her, our [Picks for Her](https://picksforher.com/) gift guides.
+
+Buying for a teen gamer instead? Our [Christmas gifts for teenage boys](/gifts-for-teenage-boys/) guide covers the Switch 2, Meta Quest 3S and more by age.

@@ -100,3 +100,5 @@ More ideas: [top 10 gifts for men 2026](/top-10-gifts-for-men-2026/), [gifts for
 Always packing for the next trip? See our [gifts for men who like to travel](/gifts-for-men-who-like-to-travel/): noise-cancelling headphones, AirTags, a power bank and a carry-on he'll use every time.
 
 **Shopping for a gamer?** Our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide covers the DualSense Edge, wireless headsets and the Switch 2.
+
+For younger guys, see our [Christmas gifts for teenage boys](/gifts-for-teenage-boys/).
