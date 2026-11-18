@@ -3097,5 +3097,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-17"
+  },
+  {
+    "id": "airpods-5-anc",
+    "name": "Apple AirPods 5 with Active Noise Cancellation",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's new AirPods 5 with improved Active Noise Cancellation, Adaptive Audio and Live Translation; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0HJB69GJL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+5"
   }
 ]
