@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B08TB1MF6F",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=tissot+prx"
   },
   {
@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -864,7 +864,7 @@
     "url": "https://www.amazon.com/dp/B0F2GYMC8H",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-17",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=meta+quest+3s"
   },
   {
@@ -1077,7 +1077,7 @@
     "url": "https://www.amazon.com/dp/B0F3GWXLTS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-17",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2"
   },
   {
@@ -1749,7 +1749,7 @@
     "url": "https://www.amazon.com/dp/B0DX3J6MT7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=lego+game+boy+72046"
   },
   {
@@ -3111,5 +3111,47 @@
     "verified": true,
     "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=airpods+5"
+  },
+  {
+    "id": "what-i-love-about-you-book",
+    "name": "What I Love About You fill-in book",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A fill-in-the-blank keepsake book of prompts about why you love him; write it by hand and give it as a sentimental gift.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0G5B4L1JR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=what+i+love+about+you+book"
+  },
+  {
+    "id": "a-year-of-us-couples-journal",
+    "name": "A Year of Us: A Couple's Journal",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "One question a day for a year, answered together; a keepsake journal for couples.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/1641524243",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=a+year+of+us+couples+journal"
+  },
+  {
+    "id": "to-my-boyfriend-engraved-wallet-card",
+    "name": "To My Boyfriend engraved metal wallet card",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A slim engraved metal card with a love note that fits in his wallet.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0BVQXJBD1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=to+my+boyfriend+engraved+wallet+card"
   }
 ]
