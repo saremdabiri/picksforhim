@@ -4,13 +4,13 @@
  "slug": "gifts-for-boyfriend",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The best gifts for your boyfriend in 2026: AirPods Pro 3, Beats Solo 4, a Tissot PRX, a Garmin watch, a JOOLA pickleball paddle and more. Christmas and birthday ideas that hit the mark.",
+ "description": "The best gifts for your boyfriend in 2026: AirPods Pro 3, the new AirPods 5, a Tissot PRX, a Garmin watch, a JOOLA pickleball paddle and more. Christmas and birthday ideas that hit the mark.",
  "heroAlt": "A gift box with a black ribbon beside headphones and a sleek watch on a bed",
  "keyword": "gifts for boyfriend",
  "quickPicks": [
   "airpods-pro-3",
   "tissot-prx",
-  "beats-solo-4"
+  "airpods-5-anc"
  ],
  "listHeading": "Gifts for your boyfriend",
  "items": [
@@ -30,9 +30,9 @@
    "text": "A standalone mixed-reality headset for games, workouts and movies on a giant virtual screen, with no PC or console needed. 10,000+ bought on Amazon last month, rated 4.6 stars from 6,700+ reviews and sold by Amazon.com, an easy win for the guy who loves gadgets."
   },
   {
-   "title": "For music on the go: Beats Solo 4",
-   "product": "beats-solo-4",
-   "text": "Over-the-ear sound with long battery life and plenty of color options. Tens of thousands of happy reviews."
+   "title": "For music on the go: Apple AirPods 5 with Active Noise Cancellation",
+   "product": "airpods-5-anc",
+   "text": "Apple's brand-new AirPods 5 add improved Active Noise Cancellation, Adaptive Audio that blends noise cancelling with Transparency, Live Translation with Apple Intelligence and better call quality with Voice Isolation. A lighter-priced alternative to AirPods Pro 3 and one of Amazon's most-bought gifts right now (10K+ in the past month), rated 4.4 stars, shipped and sold by Amazon.com."
   },
   {
    "title": "For the athlete: Garmin Forerunner 970",
@@ -63,7 +63,7 @@
  "faq": [
   {
    "q": "What should I get my boyfriend for Christmas?",
-   "a": "Tech and style are the safest wins: AirPods Pro 3, Beats Solo 4 or a watch like the Tissot PRX. If he has a hobby, upgrade his gear for it."
+   "a": "Tech and style are the safest wins: AirPods Pro 3, AirPods 5 or a watch like the Tissot PRX. If he has a hobby, upgrade his gear for it."
   },
   {
    "q": "What's a good gift for a new boyfriend?",
@@ -80,7 +80,7 @@
   "Christmas Gifts for Your Boyfriend",
   "Boyfriend Gift Ideas He'll Love"
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-18"
 }
 ---
 Whether it's your first Christmas together or his birthday, the best gifts for a boyfriend are things he'll use every day and think of you when he does.
