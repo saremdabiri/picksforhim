@@ -2374,7 +2374,7 @@
     "url": "https://www.amazon.com/dp/B076FJQS1J",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=crafthouse+by+fortessa+smoking+box"
   },
   {
@@ -2430,7 +2430,7 @@
     "url": "https://www.amazon.com/dp/B092R2KRXD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=berlinzo+ice+ball+maker"
   },
   {
@@ -3153,5 +3153,89 @@
     "verified": true,
     "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=to+my+boyfriend+engraved+wallet+card"
+  },
+  {
+    "id": "bartesian-professional-cocktail-machine",
+    "name": "Bartesian Professional Cocktail Maker",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The larger, stainless Bartesian capsule cocktail machine with four spirit reservoirs and a bigger water tank; he adds his own spirits.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0BF7GQXTP",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=bartesian+professional+cocktail+machine"
+  },
+  {
+    "id": "bartesian-duet-cocktail-machine",
+    "name": "Bartesian Duet Cocktail Maker",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Compact two-spirit Bartesian capsule cocktail machine for smaller home bars.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0BRNZKT4H",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=bartesian+duet+cocktail+machine"
+  },
+  {
+    "id": "coravin-timeless-three-plus",
+    "name": "Coravin Timeless Three Plus Wine Preservation System",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Pours wine by the glass through the cork so the rest of the bottle keeps for weeks; includes an aerator.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B095BRZYP2",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=coravin+timeless+three+plus"
+  },
+  {
+    "id": "crafthouse-professional-bar-tools",
+    "name": "Crafthouse by Fortessa Professional Bar Tools by Charles Joly",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Professional barware set by bartender Charles Joly: Boston shaker, strainer, jigger and bar spoon.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B01M9CK9H2",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=crafthouse+by+fortessa+bar+tools"
+  },
+  {
+    "id": "barillio-elite-bartender-kit",
+    "name": "Barillio Elite Mixology Bartender Kit with Bamboo Stand",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Stainless cocktail shaker set with jiggers, muddler, strainers and spoons on a bamboo stand.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B09W1JWS62",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=barillio+elite+mixology+bartender+kit"
+  },
+  {
+    "id": "viski-rocket-cocktail-shaker",
+    "name": "Viski Rocket Cocktail Shaker with Strainer",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Retro rocket-shaped stainless cocktail shaker with built-in strainer from Viski.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B00AB668P4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=viski+rocket+cocktail+shaker"
   }
 ]
