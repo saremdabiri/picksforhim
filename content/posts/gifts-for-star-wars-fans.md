@@ -4,12 +4,13 @@
  "slug": "gifts-for-star-wars-fans",
  "pillar": "gift-guides",
  "date": "2026-11-12",
- "description": "The best gifts for Star Wars fans in 2026: LEGO Ultimate Collector Series sets, the Black Series Darth Vader helmet, the LEGO Millennium Falcon, the Razor Crest and more Star Wars gifts for adults, all rated 4.7 stars or higher on Amazon.",
+ "updated": "2026-11-19",
+ "description": "The best gifts for Star Wars fans in 2026: LEGO Ultimate Collector Series sets, the Black Series stormtrooper helmet, the LEGO Millennium Falcon, the Razor Crest and more Star Wars gifts for adults, all rated 4.7 stars or higher on Amazon.",
  "heroAlt": "A collectible Star Wars style display shelf with model starships in soft light",
  "keyword": "gifts for star wars fans",
  "quickPicks": [
   "lego-star-wars-ucs-tie-interceptor",
-  "star-wars-black-series-darth-vader-helmet",
+  "star-wars-black-series-stormtrooper-helmet",
   "lego-star-wars-at-st-walker"
  ],
  "listHeading": "The best gifts for Star Wars fans",
@@ -20,9 +21,9 @@
    "text": "An Ultimate Collector Series display model of the TIE Interceptor from Return of the Jedi, with a stand, a nameplate and a TIE pilot minifigure. It's a weekend build that ends up on the office shelf for years. Rated 4.7 stars by more than 300 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the serious fan who already has a few LEGO sets.\n\n**Skip it if:** he's short on display space; the Millennium Falcon below is smaller."
   },
   {
-   "title": "Black Series Darth Vader Premium Electronic Helmet: the collector's showpiece",
-   "product": "star-wars-black-series-darth-vader-helmet",
-   "text": "A full-size Darth Vader helmet from Hasbro's Black Series with an adjustable fit and electronic breathing sound effects. Most fans put it on a stand as the centerpiece of a collection. Rated 4.8 stars by more than 1,400 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the fan who grew up on the original trilogy.\n\n**Skip it if:** he's more into prequels; the Commander Cody helmet is his pick."
+   "title": "Black Series Imperial Stormtrooper Premium Electronic Helmet: the collector's showpiece",
+   "product": "star-wars-black-series-stormtrooper-helmet",
+   "text": "A full-scale Imperial stormtrooper helmet from Hasbro's Black Series with movie-accurate Rogue One deco. Press the side button and the voice-changer makes him sound like a stormtrooper; straps adjust to fit most heads. It looks just as good on a stand as the centerpiece of a collection. Rated 4.7 stars by more than 450 buyers, with 300+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the fan who grew up on the original trilogy and the Empire.\n\n**Skip it if:** he's more into prequels; the Commander Cody helmet is his pick."
   },
   {
    "title": "LEGO Star Wars AT-ST Walker: the best-selling adult Star Wars set",
@@ -37,7 +38,7 @@
   {
    "title": "Black Series Clone Commander Cody Helmet: the prequel fan's pick",
    "product": "star-wars-black-series-commander-cody-helmet",
-   "text": "An Amazon-exclusive full-size helmet of Clone Commander Cody from Revenge of the Sith, with lights and sound effects. It sits next to a Vader helmet nicely, too. Rated 4.9 stars by more than 360 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the Clone Wars and prequel fan.\n\n**Skip it if:** he already owns a clone helmet; pick a LEGO set instead."
+   "text": "An Amazon-exclusive full-size helmet of Clone Commander Cody from Revenge of the Sith, with lights and sound effects. It sits next to a stormtrooper helmet nicely, too. Rated 4.9 stars by more than 360 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the Clone Wars and prequel fan.\n\n**Skip it if:** he already owns a clone helmet; pick a LEGO set instead."
   },
   {
    "title": "LEGO Star Wars Millennium Falcon 75375: the classic Star Wars gift",
@@ -53,7 +54,7 @@
  "faq": [
   {
    "q": "What are the best gifts for Star Wars fans in 2026?",
-   "a": "The best gifts for Star Wars fans in 2026 are LEGO Star Wars sets like the UCS TIE Interceptor, AT-ST Walker and Millennium Falcon 75375, plus Hasbro Black Series helmets like Darth Vader and Commander Cody. All are top-rated and sold by Amazon.com."
+   "a": "The best gifts for Star Wars fans in 2026 are LEGO Star Wars sets like the UCS TIE Interceptor, AT-ST Walker and Millennium Falcon 75375, plus Hasbro Black Series helmets like the Imperial stormtrooper and Commander Cody. All are top-rated and sold by Amazon.com."
   },
   {
    "q": "What do you get an adult Star Wars fan who has everything?",
@@ -77,7 +78,7 @@
 }
 ---
 
-**Looking for gifts for Star Wars fans?** The best Star Wars gifts for adults in 2026 are the display pieces fans don't buy for themselves: a **LEGO Ultimate Collector Series TIE Interceptor**, a **Black Series Darth Vader helmet**, or the best-selling **LEGO Millennium Falcon**.
+**Looking for gifts for Star Wars fans?** The best Star Wars gifts for adults in 2026 are the display pieces fans don't buy for themselves: a **LEGO Ultimate Collector Series TIE Interceptor**, a **Black Series stormtrooper helmet**, or the best-selling **LEGO Millennium Falcon**.
 
 Every pick below is rated 4.7 stars or higher on Amazon, shipped and sold by Amazon.com, and selling right now. We left out cheap novelty mugs and T-shirts.
 
@@ -88,7 +89,7 @@ Every pick below is rated 4.7 stars or higher on Amazon, shipped and sold by Ama
 | Gift | Type | Best for | Rating |
 |---|---|---|---|
 | UCS TIE Interceptor | LEGO display set | Serious collector | 4.7 stars |
-| Darth Vader helmet | Black Series helmet | Original trilogy fan | 4.8 stars |
+| Stormtrooper helmet | Black Series helmet | Original trilogy fan | 4.7 stars |
 | AT-ST Walker | LEGO display set | Mid-size build | 4.8 stars |
 | Razor Crest 75447 | LEGO set | Mandalorian fan | 4.9 stars |
 | Commander Cody helmet | Black Series helmet | Prequel fan | 4.9 stars |
@@ -97,7 +98,7 @@ Every pick below is rated 4.7 stars or higher on Amazon, shipped and sold by Ama
 
 ## How do you choose a gift for a Star Wars fan?
 
-Start with **his era**. Original trilogy fans light up for Vader, the Falcon and Imperial walkers. Prequel and Clone Wars fans love clone troopers. Newer fans watched The Mandalorian, so the Razor Crest or N-1 is the hit. Then look at **his shelf**: if he already displays LEGO, an Ultimate Collector Series set fits right in; if not, a helmet makes a bigger first impression.
+Start with **his era**. Original trilogy fans light up for stormtroopers, the Falcon and Imperial walkers. Prequel and Clone Wars fans love clone troopers. Newer fans watched The Mandalorian, so the Razor Crest or N-1 is the hit. Then look at **his shelf**: if he already displays LEGO, an Ultimate Collector Series set fits right in; if not, a helmet makes a bigger first impression.
 
 ## LEGO set or Black Series helmet?
 

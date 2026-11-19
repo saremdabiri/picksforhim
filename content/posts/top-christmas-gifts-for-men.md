@@ -27,7 +27,7 @@
   {
    "title": "The gift of the season: Nintendo Switch 2",
    "product": "nintendo-switch-2",
-   "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger, sharper screen than the original. It's the most-bought gift on Amazon this season (20K+ last month), rated 4.7 stars and sold by Amazon.com."
+   "text": "Nintendo's new console plays on the big TV or as a handheld on the couch or a flight, with a larger, sharper screen than the original. It's the most-bought gift on Amazon this season (40K+ bought in the past month), rated 4.7 stars by more than 6,000 buyers and sold by Amazon.com."
   },
   {
    "title": "Bushnell Tour V6 Shift golf rangefinder",
@@ -80,7 +80,7 @@
   "The Most-Wanted Gifts for Men This Christmas",
   "Best Christmas Gifts for Him 2026"
  ],
- "updated": "2026-11-13"
+ "updated": "2026-11-19"
 }
 ---
 These are the Christmas gifts men are actually getting this year. We built this list from what's selling now on Amazon, using its "bought in past month" numbers, plus the hobby gear guys ask for most.

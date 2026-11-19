@@ -4,6 +4,7 @@
  "slug": "christmas-gifts-for-grandpa",
  "pillar": "gift-guides",
  "date": "2026-11-16",
+ "updated": "2026-11-19",
  "description": "The best Christmas gifts for grandpa in 2026: an Aura photo frame the grandkids fill from their phones, a Kindle Paperwhite, UGG Tasman slippers, Glencairn whisky glasses, a Theragun Mini, a grandpa life story journal and more, all rated 4.6 stars or higher on Amazon when checked.",
  "heroAlt": "A grandfather in a cozy sweater smiling at family photos on a digital picture frame beside a wrapped Christmas gift and a whisky glass",
  "keyword": "christmas gifts for grandpa",
@@ -49,7 +50,7 @@
   {
    "title": "Best sentimental gift: Grandpa life story journal",
    "product": "grandpa-life-story-journal",
-   "text": "A hardcover guided journal with prompts about his childhood, first jobs, family and advice, so he can write down the stories the grandkids will want someday. Ask him to fill it in and give it back, or sit together and fill it in over the holidays.\n\n**Best for:** a gift from the grandkids that becomes a family keepsake. Rated 4.7 stars by more than 600 buyers.\n\n**Skip it if:** he dislikes writing; record his stories on a phone instead."
+   "text": "A 122-page guided journal (Tell Me Your Life Story, Grandpa) with prompts about his childhood, first jobs, family and advice, so he can write down the stories the grandkids will want someday. Ask him to fill it in and give it back, or sit together and fill it in over the holidays.\n\n**Best for:** a gift from the grandkids that becomes a family keepsake. Rated 4.8 stars by more than 2,100 buyers, shipped and sold by Amazon.com.\n\n**Skip it if:** he dislikes writing; record his stories on a phone instead."
   },
   {
    "title": "Best for grandpa's workshop: magnetic pickup flashlight tool",
@@ -98,7 +99,7 @@ Every pick was checked on November 16, 2026: in stock with Add to Cart and rated
 | UGG Tasman II | Slippers | Mid-size gift | Cozy mornings | 4.8 stars |
 | Glencairn set of 4 | Whisky glasses | Mid-size gift | Special-occasion pours | 4.8 stars |
 | Theragun Mini 3rd Gen | Massage gun | Big gift | Sore backs, active grandpas | 4.6 stars |
-| Grandpa life story journal | Guided journal | Small gift | Family keepsake | 4.7 stars |
+| Grandpa life story journal | Guided journal | Small gift | Family keepsake | 4.8 stars |
 | Magnetic pickup flashlight | Tool | Stocking stuffer | Workshop grandpas | 4.6 stars |
 | YETI Rambler 20 oz | Tumbler | Mid-size gift | Everyday coffee | 4.8 stars |
 

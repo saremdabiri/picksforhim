@@ -53,6 +53,11 @@
    "title": "For the man who'd never buy one himself: Apple iPad Air (M4)",
    "product": "ipad-air-m4",
    "text": "Streaming on the couch, reading in bed, video calls, a bigger screen for the flight. The newest iPad Air runs Apple's M4 chip on an 11-inch Liquid Retina display, with Wi-Fi 7 and Touch ID. Sold by Amazon, 4.7 stars, and 3K+ bought in the past month.\n\nIf he'd rather have something to wear, see [birthday gifts for men](/birthday-gifts-for-men/)."
+  },
+  {
+   "title": "For game nights together: Nintendo Switch 2",
+   "product": "nintendo-switch-2",
+   "text": "The most-bought console on Amazon right now, with 40K+ bought in the past month and a 4.7-star rating from more than 6,000 buyers. It plays on the TV or as a handheld with a bigger 1080p screen, and couch co-op makes it a gift you both use. Shipped and sold by Amazon.com.\n\n**Best for:** the husband who games, or a couple who wants a new date-night habit.\n\n**Skip it if:** he already has one; see our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide for add-ons."
   }
  ],
  "faq": [
@@ -83,7 +88,7 @@
   "What to Get Your Husband for Christmas",
   "Gifts Your Husband Will Actually Use"
  ],
- "updated": "2026-11-15"
+ "updated": "2026-11-19"
 }
 ---
 Shopping for your husband is hard: he says he doesn't need anything, and he buys what he wants himself. The secret is to upgrade the things he already uses every single day, or feed the hobby he loves.
