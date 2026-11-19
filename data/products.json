@@ -2490,18 +2490,17 @@
     "searchUrl": "https://www.amazon.com/s?k=funny+golf+tees"
   },
   {
-    "id": "star-wars-black-series-darth-vader-helmet",
-    "name": "STAR WARS The Black Series Darth Vader Premium Electronic Helmet",
+    "id": "star-wars-black-series-stormtrooper-helmet",
+    "name": "STAR WARS The Black Series Imperial Stormtrooper Premium Electronic Helmet",
     "pillar": "tech",
     "merchant": "Amazon",
-    "description": "Full-size roleplay Darth Vader helmet with electronic breathing sound effects and an adjustable fit; shipped and sold by Amazon.com.",
+    "description": "Full-scale Rogue One stormtrooper helmet with a voice-changer button and adjustable straps; shipped and sold by Amazon.com.",
     "image": null,
-    "dateAdded": "2026-11-12",
-    "url": "https://www.amazon.com/dp/B09XGXRVXC",
+    "dateAdded": "2026-11-19",
+    "url": "https://www.amazon.com/dp/B0CTS1KX62",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-12",
-    "searchUrl": "https://www.amazon.com/s?k=star+wars+black+series+darth+vader+helmet"
+    "lastVerified": "2026-11-19"
   },
   {
     "id": "star-wars-black-series-commander-cody-helmet",
@@ -2918,16 +2917,16 @@
   },
   {
     "id": "grandpa-life-story-journal",
-    "name": "Grandpa life story guided leather journal (hardcover)",
+    "name": "Tell Me Your Life Story, Grandpa guided journal",
     "pillar": "gift-guides",
     "merchant": "Amazon",
-    "description": "A hardcover guided journal with prompts for grandpa to record his life stories and advice for the family.",
+    "description": "A 122-page guided journal and keepsake with prompts for grandpa to record his memories and wisdom for the family.",
     "image": null,
     "dateAdded": "2026-11-16",
-    "url": "https://www.amazon.com/dp/B0FM2GSRYL",
+    "url": "https://www.amazon.com/dp/1952568153",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-16"
+    "lastVerified": "2026-11-19"
   },
   {
     "id": "magnetic-pickup-flashlight-tool",
