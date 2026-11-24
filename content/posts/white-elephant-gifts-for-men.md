@@ -112,3 +112,5 @@ Useful gifts usually get stolen more; funny gifts usually get the bigger laugh. 
 ## How do you pick a white elephant gift for a mixed group?
 
 Choose something that would work for a man or a woman, wrap it so the shape doesn't give it away, and stay within your group's spending limit. Food gadgets, winter warmers and small tools are safe bets for mixed groups. For a gift exchange that's only guys, the toilet golf set and the work lights land well. More ideas in our [top Christmas gifts for men](/top-christmas-gifts-for-men/) guide.
+
+Spending limit of 25 dollars? These [Christmas gifts for men under 25 dollars](/christmas-gifts-for-men-under-25/) all fit.

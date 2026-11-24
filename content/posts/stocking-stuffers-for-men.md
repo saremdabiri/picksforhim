@@ -98,3 +98,5 @@ Looking for the main gift? See [top Christmas gifts for men](/top-christmas-gift
 **Shopping for a golfer?** See our [golf gifts for men](/golf-gifts-for-men/): GPS watches, rangefinders and funny golf stocking stuffers.
 
 Need the main gift for your brother? See [Christmas gifts for brother](/christmas-gifts-for-brother/).
+
+**On a budget?** See [Christmas gifts for men under 25 dollars](/christmas-gifts-for-men-under-25/): 8 small gifts he will actually use.
