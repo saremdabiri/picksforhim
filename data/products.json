@@ -3278,5 +3278,33 @@
     "verified": true,
     "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=noco+boost+gb40+1000a+jump+starter"
+  },
+  {
+    "id": "carhartt-a18-beanie",
+    "name": "Carhartt A18 knit cuffed beanie",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Carhartt's classic rib-knit watch cap beanie.",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "url": "https://www.amazon.com/dp/B002G9UDYG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-22",
+    "searchUrl": "https://www.amazon.com/s?k=carhartt+a18+beanie"
+  },
+  {
+    "id": "anker-powercore-10k-poweriq",
+    "name": "Anker 10,000mAh PowerIQ portable charger",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Slim Anker power bank with USB-C and USB-A ports.",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "url": "https://www.amazon.com/dp/B0D5CLSMFB",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-22",
+    "searchUrl": "https://www.amazon.com/s?k=anker+10000mah+power+bank"
   }
 ]
