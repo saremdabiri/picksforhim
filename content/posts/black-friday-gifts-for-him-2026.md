@@ -1,79 +1,79 @@
 ---
 {
- "title": "Black Friday Gifts for Him 2026: The Big-Ticket Gifts Worth Buying on Sale",
+ "title": "Black Friday Gifts for Him 2026: 12 Big-Ticket Gifts Worth Buying on Sale",
  "slug": "black-friday-gifts-for-him-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-10-28",
- "description": "The best Black Friday gifts for him in 2026: big-ticket picks rated 4.4 stars or higher from thousands of Amazon reviews, from the Nintendo Switch 2 and AirPods Pro 3 to a Traeger grill and an Oura Ring. Check today's price on each.",
+ "updated": "2026-11-24",
+ "description": "The best Black Friday gifts for him in 2026, checked November 24: the Nintendo Switch 2 (40K+ bought last month), Apple Watch Series 12, Meta Quest 3S, Garmin watches with Black Friday deals, a Traeger grill and a DEWALT drill set, all rated 4.4 stars or higher and sold by Amazon.com or the brand.",
  "heroAlt": "Wrapped gifts in black paper with gold ribbon beside headphones, a watch and a game controller",
  "keyword": "black friday gifts for him 2026",
  "quickPicks": [
   "nintendo-switch-2",
-  "airpods-pro-3",
-  "solo-stove-bonfire-stand"
+  "apple-watch-series-12",
+  "garmin-forerunner-970"
  ],
  "listHeading": "The best Black Friday gifts for him in 2026",
  "items": [
   {
    "title": "1. The gift everyone wants: Nintendo Switch 2",
    "product": "nintendo-switch-2",
-   "text": "Nintendo's new console plays on the TV or as a handheld. Rated 4.8 stars from nearly 6,000 reviews and sold by Amazon.com. It had a limited-time deal badge when we checked, and stock runs low around Black Friday, so check today's price."
+   "text": "Nintendo's new console plays on the TV or as a handheld. Rated 4.7 stars from more than 6,400 reviews, with 40K+ bought in the past month, sold by Amazon.com. It's the first thing to sell out in Black Friday week, so don't wait for a bigger discount."
   },
   {
-   "title": "2. Earbuds he'll use every day: AirPods Pro 3",
-   "product": "airpods-pro-3",
-   "text": "Apple's best earbuds, with noise cancellation for the commute, the gym and flights. Rated 4.4 stars from more than 17,000 reviews, and on sale now on Amazon."
+   "title": "2. The everyday upgrade: Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Apple's newest watch for workouts, sleep tracking, calls and Apple Pay from his wrist. Rated 4.7 stars from 560+ reviews, shipped and sold by Amazon.com. Apple Watches are a regular Black Friday markdown, so check today's price."
   },
   {
-   "title": "3. The backyard upgrade: Solo Stove Bonfire 19.5\" with stand",
-   "product": "solo-stove-bonfire-stand",
-   "text": "A nearly smokeless stainless-steel fire pit for cold-weather evenings outside. Rated 4.8 stars from 2,000+ reviews, and on sale now with a limited-time deal."
+   "title": "3. For the runner: Garmin Forerunner 970",
+   "product": "garmin-forerunner-970",
+   "text": "Garmin's top running watch, with a bright AMOLED screen, maps and training readiness. Rated 4.6 stars from 600+ reviews, with 500+ bought in the past month and a Black Friday deal badge when we checked."
   },
   {
-   "title": "4. The shaver he won't buy himself: Braun Series 9 Pro",
-   "product": "braun-series-9-pro",
-   "text": "Braun's long-running flagship foil shaver with a cleaning station, wet or dry. Rated 4.4 stars from nearly 3,000 reviews, and marked down with a limited-time deal right now."
+   "title": "4. The rugged watch: Garmin Instinct 3 AMOLED",
+   "product": "garmin-instinct-3-amoled",
+   "text": "A tough GPS watch for the hunter, fisherman or hiker, with a bright AMOLED screen and long battery life. Rated 4.5 stars from 1,100+ reviews, with 3K+ bought in the past month and a Black Friday deal badge when we checked."
   },
   {
    "title": "5. The VR gift: Meta Quest 3S",
    "product": "meta-quest-3s",
-   "text": "A standalone VR headset, no PC or console needed: games, fitness apps and movies on a giant virtual screen. Rated 4.6 stars from 6,700+ reviews. Meta headsets are a regular Black Friday deal, so check today's price."
+   "text": "A standalone VR headset, no PC or console needed: games, fitness apps and movies on a giant virtual screen. Rated 4.6 stars from 6,900+ reviews, with 10K+ bought in the past month. Meta headsets are a regular Black Friday deal, so check today's price."
   },
   {
-   "title": "6. For the home barista: Breville Barista Express",
+   "title": "6. The backyard upgrade: Solo Stove Bonfire 19.5\" with stand",
+   "product": "solo-stove-bonfire-stand",
+   "text": "A nearly smokeless stainless-steel fire pit for cold-weather evenings outside. Rated 4.7 stars and sold by Solo Stove, with a Black Friday deal badge when we checked."
+  },
+  {
+   "title": "7. The shaver he won't buy himself: Braun Series 9 Pro",
+   "product": "braun-series-9-pro",
+   "text": "Braun's long-running flagship foil shaver with a cleaning station, wet or dry. Rated 4.4 stars from nearly 2,900 reviews, sold by Amazon.com."
+  },
+  {
+   "title": "8. For the home barista: Breville Barista Express",
    "product": "breville-barista-express",
-   "text": "Grinder, steam wand and precise extraction in one brushed-steel machine. Close to 28,000 reviews at 4.4 stars make it one of the most-reviewed espresso machines on Amazon."
+   "text": "Grinder, steam wand and precise extraction in one machine, so he can pull café-quality espresso at home. Rated 4.4 stars from 28,000+ reviews, with 400+ bought in the past month, sold by Amazon.com."
   },
   {
-   "title": "7. For the grill master: Traeger Pro 22 pellet grill",
+   "title": "9. For the pitmaster: Traeger Pro 22 pellet grill",
    "product": "traeger-pro-22",
-   "text": "A wood-pellet grill and smoker that holds a steady temperature on its own. Rated 4.5 stars from nearly 2,500 reviews, with a limited-time deal badge when we checked."
+   "text": "Wood-fired flavor with set-it-and-forget-it temperature control for smoking, grilling and baking. Rated 4.5 stars from nearly 2,500 reviews, sold by Amazon.com."
   },
   {
-   "title": "8. Over-ear luxury: Apple AirPods Max 2",
+   "title": "10. For the garage: DEWALT 20V MAX drill and impact driver kit",
+   "product": "dewalt-20v-max-drill-impact-combo",
+   "text": "The two cordless tools every homeowner reaches for, with batteries and a charger. Rated 4.8 stars from nearly 4,900 reviews, sold by Amazon.com. Black Friday is when DEWALT kits get their best prices of the year."
+  },
+  {
+   "title": "11. Over-ear luxury: Apple AirPods Max 2",
    "product": "airpods-max-2",
-   "text": "Apple's premium over-ear headphones with noise cancellation and spatial audio. Rated 4.5 stars from 1,100+ reviews, and on sale now on Amazon."
-  },
-  {
-   "title": "9. The cooler that lasts decades: YETI Tundra 45",
-   "product": "yeti-tundra-45",
-   "text": "YETI's classic hard cooler for fishing, hunting, tailgates and camping. Rated 4.7 stars from nearly 5,000 reviews."
-  },
-  {
-   "title": "10. The health tracker he'll actually wear: Oura Ring 5",
-   "product": "oura-ring-5",
-   "text": "Sleep, recovery and activity tracking in a ring instead of a watch. Rated 4.4 stars from 2,500+ reviews."
-  },
-  {
-   "title": "11. For the runner: Garmin Forerunner 970",
-   "product": "garmin-forerunner-970",
-   "text": "Garmin's top running watch, with a bright AMOLED screen, maps and training readiness. Rated 4.6 stars from 600+ reviews."
+   "text": "Apple's premium noise-cancelling headphones for flights and the office. Rated 4.5 stars from 1,300+ reviews, sold by Amazon.com."
   },
   {
    "title": "12. For the reader: Kindle Paperwhite Signature Edition",
    "product": "kindle-paperwhite-signature",
-   "text": "32 GB, wireless charging and an auto-adjusting warm light. Rated 4.6 stars from nearly 13,000 reviews. Kindles are among Amazon's most dependable Black Friday deals."
+   "text": "32 GB, wireless charging and an auto-adjusting warm light. Rated 4.6 stars from more than 13,600 reviews, with 3K+ bought in the past month. Kindles are among Amazon's most dependable Black Friday deals."
   }
  ],
  "faq": [
@@ -83,7 +83,15 @@
   },
   {
    "q": "What are the best Black Friday gifts for him in 2026?",
-   "a": "The big-ticket gifts most worth buying on sale: Nintendo Switch 2, AirPods Pro 3, a Solo Stove fire pit, a Braun Series 9 Pro shaver, Meta Quest 3S, a Breville espresso machine and a Traeger pellet grill."
+   "a": "The big-ticket gifts most worth buying on sale this year: the Nintendo Switch 2, Apple Watch Series 12, Garmin Forerunner 970 and Instinct 3 (both with Black Friday deals when we checked), Meta Quest 3S, a Traeger pellet grill and a DEWALT drill kit."
+  },
+  {
+   "q": "What are the best Black Friday gifts for dad?",
+   "a": "For dad, go for something he'd never buy himself: a DEWALT 20V MAX drill and impact driver kit for the garage, a Traeger Pro 22 for the backyard, a Garmin Instinct 3 for the outdoors or a Kindle Paperwhite for reading. More ideas in our [Christmas gifts for dad](/christmas-gifts-for-dad/) guide."
+  },
+  {
+   "q": "What are the best Black Friday gifts for husband?",
+   "a": "The Apple Watch Series 12, Nintendo Switch 2, AirPods Max 2 and a Breville Barista Express are the husband gifts that get the biggest Black Friday markdowns. See also [Christmas gifts for husband](/christmas-gifts-for-husband/) and [wearable tech gifts for men](/wearable-tech-gifts-for-men/)."
   },
   {
    "q": "Should I buy a gift now or wait for Black Friday?",
@@ -97,15 +105,15 @@
  "pinTag": "Black Friday 2026",
  "pinHeadlines": [
   "Black Friday Gifts for Him 2026",
-  "Big-Ticket Gifts for Men Worth Buying on Sale",
-  "Black Friday Gift Ideas for Husband"
+  "Black Friday Gifts for Dad",
+  "Black Friday Gifts for Husband"
  ],
  "promo": "tidewe-black-friday-2026"
 }
 ---
-Black Friday is the one week a year when the big gifts, the ones he'd never buy himself, get within reach. This list skips the gadget filler and sticks to big-ticket gifts that are worth the money at any price: each one is rated 4.4 stars or higher from hundreds to thousands of Amazon reviews.
+Black Friday is the one week a year when the big gifts, the ones he'd never buy himself, get within reach. This list skips the gadget filler and sticks to big-ticket gifts that are worth the money at any price: each one is rated 4.4 stars or higher on Amazon.
 
-Every pick was checked on Amazon on October 27, 2026: in stock, with an Add to Cart button. We'll refresh this page every day from November 20 through Cyber Monday and swap in whatever is actually on sale. We never list prices here because they change by the hour; each button shows today's price on Amazon.
+Every pick was re-checked on Amazon on November 24, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in whatever is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices here because they change by the hour; each button shows today's price on Amazon.
 
 <!-- list -->
 
@@ -118,7 +126,7 @@ Every pick was checked on Amazon on October 27, 2026: in stock, with an Add to C
 ## Black Friday shopping tips
 
 - **Black Friday is November 27, 2026; Cyber Monday is November 30.** Amazon starts many deals earlier in November.
-- **Popular items sell out.** The Switch 2 and AirPods are the first to go. If you've decided, there's no prize for waiting.
+- **Popular items sell out.** The Switch 2 and Apple gear are the first to go. If you've decided, there's no prize for waiting.
 - **Add it to your cart now.** It saves time once the deals start, and you can check the price again before checking out.
 - **Check the return window.** Amazon usually extends holiday returns for gifts bought in November and December.
 
@@ -129,3 +137,5 @@ Every pick was checked on Amazon on October 27, 2026: in stock, with an Add to C
 - [Christmas gifts for dad](/christmas-gifts-for-dad/)
 - [Gifts for men who have everything](/gifts-for-men-who-have-everything/)
 - [Tech gifts for men](/tech-gifts-for-men/)
+- [Wearable tech gifts for men](/wearable-tech-gifts-for-men/)
+- [Garage gifts for men](/garage-gifts-for-men/)

@@ -61,6 +61,10 @@
    "a": "The Nintendo Switch 2, Meta Quest 3S, AirPods Max 2 and the Garmin Forerunner 970 are among the most-bought tech gifts for men right now, along with the Oura Ring 5 and the Kindle Paperwhite Signature Edition."
   },
   {
+   "q": "What are the best tech gifts for guys?",
+   "a": "The best tech gifts for guys are the Nintendo Switch 2, Meta Quest 3S, AirPods Max 2, a Garmin or Apple smartwatch, the Oura Ring 5 and the iPad Air M4. For watches and smart rings, see our wearable tech gifts for men guide."
+  },
+  {
    "q": "What tech gift should I get my husband for Christmas?",
    "a": "Match it to how he spends his free time: a Switch 2 or Quest 3S for play, AirPods Max 2 for the commute, a Garmin for training. More ideas in our [Christmas gifts for husband](/christmas-gifts-for-husband/)."
   },
@@ -78,7 +82,8 @@
   "Tech Gifts for Men 2026",
   "Tech Gifts for Husband",
   "Best Tech Gifts for Dad"
- ]
+ ],
+ "updated": "2026-11-24"
 }
 ---
 
@@ -102,3 +107,5 @@ Always packing for the next trip? See our [gifts for men who like to travel](/gi
 **Shopping for a gamer?** Our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide covers the DualSense Edge, wireless headsets and the Switch 2.
 
 For younger guys, see our [Christmas gifts for teenage boys](/gifts-for-teenage-boys/).
+
+**Want something he wears every day?** See our [wearable tech gifts for men](/wearable-tech-gifts-for-men/): the Apple Watch Ultra 4, Garmin fenix 8, Pixel Watch 5 and Oura Ring 5.

@@ -1,10 +1,10 @@
 ---
 {
- "title": "Whiskey Gifts for Men 2026: 7 Luxury Bar Gifts for the Bourbon Lover",
+ "title": "Whiskey & Bourbon Gifts for Men 2026: 7 Luxury Bar Gifts for the Bourbon Lover",
  "slug": "whiskey-gifts-for-men",
  "pillar": "gift-guides",
  "date": "2026-11-11",
- "description": "The best whiskey gifts for men in 2026: a Bartesian cocktail machine, a Marquis by Waterford decanter set, Glencairn and Riedel glasses, a Crafthouse smoking box, a whiskey smoker kit and a clear ice ball maker, all rated 4.3 stars or higher on Amazon.",
+ "description": "The best whiskey and bourbon gifts for men in 2026: a Bartesian cocktail machine, a Marquis by Waterford decanter set, Glencairn and Riedel glasses, a Crafthouse smoking box, a whiskey smoker kit and a clear ice ball maker, all rated 4.3 stars or higher on Amazon.",
  "heroAlt": "A glass of whiskey with a large clear ice cube on a dark wooden bar",
  "keyword": "whiskey gifts for men",
  "quickPicks": [
@@ -22,7 +22,7 @@
   {
    "title": "Marquis by Waterford decanter set: the classic whiskey gift",
    "product": "marquis-waterford-markham-decanter-set",
-   "text": "A square crystal decanter with two matching double old fashioned glasses from Waterford's Marquis line. It turns a bottle of bourbon into something that looks good on a bar cart or office shelf. Rated 4.7 stars by more than 400 buyers, shipped and sold by Amazon.com.\n\n**Best for:** the man who has a favorite bottle and a spot to show it off.\n\n**Skip it if:** he already owns a decanter; go for the smoking box instead."
+   "text": "A square crystal decanter with two matching double old fashioned glasses from Waterford's Marquis line. It turns a bottle of bourbon into something that looks good on a bar cart or office shelf. Rated 4.7 stars by more than 400 buyers.\n\n**Best for:** the man who has a favorite bottle and a spot to show it off.\n\n**Skip it if:** he already owns a decanter; go for the smoking box instead."
   },
   {
    "title": "Crafthouse by Fortessa Smoking Box: the bartender-grade smoked cocktail",
@@ -37,7 +37,7 @@
   {
    "title": "Riedel rocks glasses: crystal for his bourbon on the rocks",
    "product": "riedel-rocks-glass-set",
-   "text": "Heavy-based crystal rocks glasses from Riedel, the Austrian glassmaker, sized for one big ice cube and a generous pour. Pair them with the ice ball mold below and you've got a complete gift. Rated 4.7 stars by more than 3,800 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the bourbon-on-the-rocks or old fashioned drinker.\n\n**Skip it if:** he only drinks neat; Glencairns suit him better."
+   "text": "Heavy-based crystal rocks glasses from Riedel, the Austrian glassmaker, sized for one big ice cube and a generous pour. Pair them with the ice ball mold below and you've got a complete gift. Rated 4.7 stars by more than 3,800 buyers, with 200+ bought in the past month.\n\n**Best for:** the bourbon-on-the-rocks or old fashioned drinker.\n\n**Skip it if:** he only drinks neat; Glencairns suit him better."
   },
   {
    "title": "ComboJoy whiskey smoker kit: the viral cocktail gift",
@@ -54,6 +54,10 @@
   {
    "q": "What are the best whiskey gifts for men in 2026?",
    "a": "The best whiskey gifts for men in 2026 are a crystal decanter set like the Marquis by Waterford Markham, Glencairn whisky glasses, Riedel rocks glasses, a cocktail smoker and a clear ice ball maker. For a big-ticket gift, the Bartesian cocktail machine is the one hosts love."
+  },
+  {
+   "q": "What are the best bourbon gifts for him?",
+   "a": "The best bourbon gifts for him are the ones that upgrade every pour: a crystal decanter set, Glencairn whisky glasses for sipping neat, a clear ice ball maker for bourbon on the rocks, and a cocktail smoker for a smoked old fashioned. For the host, a Bartesian cocktail machine is the big-ticket pick."
   },
   {
    "q": "What do you buy a man who loves bourbon?",
@@ -73,7 +77,8 @@
   "Whiskey Gifts for Men He'll Love",
   "Luxury Bourbon Gifts for Him 2026",
   "Bar Gifts for Men Who Have Everything"
- ]
+ ],
+ "updated": "2026-11-24"
 }
 ---
 
