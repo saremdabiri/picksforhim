@@ -960,7 +960,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-hunting-blind-see-through-with-carrying-bag-2-3-person-pop-up-ground-blinds-270-degree-hunting-tent",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "tidewe-heated-hunting-chair",
@@ -986,7 +986,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-men-s-heated-jacket-fleece-with-battery-pack-rechargeable-coat-for-hunting-black-camo",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "tidewe-heated-gloves",
@@ -999,7 +999,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Fheated-hunting-gloves",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "tidewe-slough-dawgs-waders",
@@ -1012,7 +1012,7 @@
     "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Fslough-dawgs-duck-hunting-wader",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "vortex-crossfire-hd-10x42",
@@ -1413,7 +1413,7 @@
     "url": "https://www.amazon.com/dp/B0CG65PYBV",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=rechargeable+hand+warmers+2+pack"
   },
   {
@@ -2053,7 +2053,7 @@
     "dateAdded": "2026-11-08",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "lego-star-wars-millennium-falcon-75375",
@@ -3095,7 +3095,7 @@
     "url": "https://www.amazon.com/dp/B073WJMKHN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "airpods-5-anc",
@@ -3306,5 +3306,45 @@
     "verified": true,
     "lastVerified": "2026-11-22",
     "searchUrl": "https://www.amazon.com/s?k=anker+10000mah+power+bank"
+  },
+  {
+    "id": "tidewe-panel-duck-blind",
+    "name": "TIDEWE modular panel waterfowl blind (A-frame, 3-4 person)",
+    "pillar": "outdoors",
+    "merchant": "TideWe",
+    "description": "Four-panel pop-up A-frame duck and goose blind; side panels zip on and clasps link several blinds together.",
+    "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ftidewe-panel-blind-waterfowl-duck-hunting-blind",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "tidewe-fowlstorm-elite-jacket",
+    "name": "TIDEWE FowlStorm Elite TideShell duck hunting jacket",
+    "pillar": "outdoors",
+    "merchant": "TideWe",
+    "description": "Lightweight waterproof, windproof and breathable waterfowl jacket in Veil Avayde camo or marsh brown.",
+    "url": "https://www.awin1.com/cread.php?awinmid=78182&awinaffid=3125838&ued=https%3A%2F%2Fwww.tidewe.com%2Fproducts%2Ffowlstorm-elite-waterfowl-hunting-jacket",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "dokken-mallard-dead-fowl-trainer",
+    "name": "Dokken Mallard Dead Fowl Trainer",
+    "pillar": "outdoors",
+    "merchant": "Amazon",
+    "description": "Realistic mallard-shaped retriever training dummy with a throwing rope.",
+    "url": "https://www.amazon.com/dp/B0011G8G08",
+    "searchUrl": "https://www.amazon.com/s?k=dokken+mallard+dead+fowl+trainer",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
   }
 ]
