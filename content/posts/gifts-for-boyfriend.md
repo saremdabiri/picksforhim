@@ -126,3 +126,5 @@ For Christmas, pair one practical gift with one personal one. AirPods Pro 3 or a
 - **Know his hobby?** Upgrade his gear for it. That's the gift he'll talk about.
 
 Also see [Christmas gifts for boyfriend](/christmas-gifts-for-boyfriend/), [gifts for husband](/gifts-for-husband/), [birthday gifts for men](/birthday-gifts-for-men/) and [Christmas gifts for him](/luxury-christmas-gifts-for-him/). Shopping for her too? Try [gifts for girlfriend](https://picksforher.com/gifts-for-girlfriend/) on Picks for Her.
+
+**Just got engaged?** Our [Christmas gifts for fiance (male)](/christmas-gifts-for-fiance/) guide has 8 sentimental and practical picks for your first Christmas engaged.
