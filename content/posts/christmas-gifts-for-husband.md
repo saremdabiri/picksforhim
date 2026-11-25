@@ -132,3 +132,5 @@ Want the quick list? See our [top 10 gifts for men 2026](/top-10-gifts-for-men-2
 Need more ideas? See our [gifts for husband](/gifts-for-husband/) guide for any occasion, [gifts for men who have everything](/gifts-for-men-who-have-everything/), or the full [Christmas gifts for him](/luxury-christmas-gifts-for-him/) list. Want to go bigger? See our [luxury gifts for husband](/luxury-gifts-for-husband/).
 
 **Is he a gamer?** See our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/): pro controllers, headsets and VR he won't buy himself.
+
+**Not married yet?** See [Christmas gifts for fiance (male)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
