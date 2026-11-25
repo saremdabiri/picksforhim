@@ -4,7 +4,7 @@
  "slug": "luxury-christmas-gifts-for-him",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, the Nintendo Switch 2, a Traeger smoker, YETI, a Garmin fishfinder, the Apple Watch Series 12 and a biometric safe. Considered gifts, no clutter.",
+ "description": "Our Christmas edit for him: a flagship shaver, an iconic Swiss watch, the Nintendo Switch 2, a Traeger smoker, YETI, a TheraGun Prime massage gun, the Apple Watch Series 12 and a biometric safe. Considered gifts, no clutter.",
  "heroAlt": "Gift boxes wrapped in dark paper with gold ribbon beside a watch and leather gloves",
  "keyword": "christmas gifts for him",
  "quickPicks": [
@@ -45,9 +45,9 @@
    "text": "Built like a vault and keeps ice for days. The cooler that lasts a lifetime of weekends."
   },
   {
-   "title": "For the angler: Garmin STRIKER Vivid 4cv",
-   "product": "garmin-striker-vivid-4cv",
-   "text": "A clear color fishfinder that's easy to learn; shows structure and fish below the boat or kayak."
+   "title": "For the guy who trains hard: TheraGun Prime (6th Gen)",
+   "product": "theragun-prime-6",
+   "text": "Therabody's mid-size percussive massager with a rugged rubber exterior, one-button control with LED pressure feedback and app-guided routines. Rated 4.6 stars from 6,800+ reviews, with 1,000+ bought in the past month, sold by TheraGun."
   },
   {
    "title": "For the music lover: Apple AirPods Max 2",
@@ -80,7 +80,7 @@
   "Luxury Gifts He'll Actually Use",
   "Gifts for the Man Who Has Everything"
  ],
- "updated": "2026-11-15"
+ "updated": "2026-11-24"
 }
 ---
 The best gifts for men aren't gimmicks. They're the upgraded version of something he already loves: the morning shave, the watch on his wrist, Saturday at the grill, Sunday on the water.

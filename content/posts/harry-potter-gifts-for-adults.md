@@ -3,21 +3,22 @@
  "title": "Harry Potter Gifts for Adults 2026: 8 Collector-Worthy LEGO Sets, Wands & Replicas",
  "slug": "harry-potter-gifts-for-adults",
  "pillar": "gift-guides",
+ "updated": "2026-11-24",
  "date": "2026-11-15",
  "description": "The best Harry Potter gifts for adults in 2026: LEGO Hogwarts Great Hall, Diagon Alley and Sorcerer's Stone Collectors' Edition sets, the Noble Collection Elder Wand, Wizard Chess set and Marauder's Map, all rated 4.7 stars or higher on Amazon.",
  "heroAlt": "A candlelit study with old books, a wooden wand and a chess board",
  "keyword": "harry potter gifts for adults",
  "quickPicks": [
-  "lego-harry-potter-great-hall-76435",
+  "lego-harry-potter-hogwarts-castle-71043",
   "noble-collection-elder-wand",
   "noble-collection-wizard-chess-set"
  ],
  "listHeading": "The best Harry Potter gifts for adults",
  "items": [
   {
-   "title": "LEGO Hogwarts Castle: The Great Hall: the big-ticket centerpiece",
-   "product": "lego-harry-potter-great-hall-76435",
-   "text": "The biggest Harry Potter LEGO build on this list: the Great Hall with its towers, staircases and a cast of minifigures, made to sit on a shelf as a display piece. It's a long, satisfying weekend build for the adult fan. Rated 4.7 stars by more than 440 buyers, with 100+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the fan who wants a showpiece.\n\n**Skip it if:** shelf space is tight; the Castle and Grounds model below is much smaller."
+   "title": "LEGO Hogwarts Castle 71043: the big-ticket centerpiece",
+   "product": "lego-harry-potter-hogwarts-castle-71043",
+   "text": "The biggest Harry Potter LEGO build on this list: a microscale Hogwarts with the Great Hall (stained-glass windows, house banners, moving staircases), Hagrid's hut, the Whomping Willow and five boats, plus small details like the Sword of Gryffindor and Hufflepuff's cup. It's a long, satisfying build that ends up as a serious display piece. Rated 4.8 stars by more than 3,700 buyers, with 400+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** the fan who wants a showpiece.\n\n**Skip it if:** shelf space is tight; the Castle and Grounds model below is much smaller."
   },
   {
    "title": "LEGO Sorcerer's Stone Collectors' Edition: the newest collector set",
