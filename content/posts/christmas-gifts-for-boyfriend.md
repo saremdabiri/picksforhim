@@ -127,3 +127,5 @@ Keep it personal but not over the top. A cologne, cozy slippers or a LEGO build 
 Shopping for his family too? See [Christmas gifts for dad](/christmas-gifts-for-dad/). More ideas: [gifts for boyfriend](/gifts-for-boyfriend/) (any occasion), [luxury gifts for men](/luxury-gifts-for-men/) and [tech gifts for men](/tech-gifts-for-men/).
 
 **Gamer boyfriend?** The controllers, headsets and VR in our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide work for him too.
+
+**Engaged?** See our [Christmas gifts for fiance (male)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
