@@ -1245,7 +1245,7 @@
     "url": "https://www.amazon.com/dp/B0FKCJNHWB",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-15",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=theragun+prime"
   },
   {
@@ -3346,5 +3346,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "lego-harry-potter-hogwarts-castle-71043",
+    "name": "LEGO Harry Potter Hogwarts Castle 71043",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A large microscale Hogwarts display model with the Great Hall, moving staircases, Hagrid's hut, the Whomping Willow and five boats; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "url": "https://www.amazon.com/dp/B07GH953JN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24",
+    "searchUrl": "https://www.amazon.com/s?k=lego+hogwarts+castle+71043"
   }
 ]
