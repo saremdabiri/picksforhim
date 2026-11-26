@@ -4,8 +4,8 @@
  "slug": "black-friday-gifts-for-him-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-11-24",
- "description": "The best Black Friday gifts for him in 2026, checked November 24: the Nintendo Switch 2 (40K+ bought last month), Apple Watch Series 12, Meta Quest 3S, Garmin watches with Black Friday deals, a Traeger grill and a DEWALT drill set, all rated 4.4 stars or higher and sold by Amazon.com or the brand.",
+ "updated": "2026-11-26",
+ "description": "The best Black Friday gifts for him in 2026, checked November 26: the Nintendo Switch 2 (40K+ bought last month), Apple Watch Series 12, Meta Quest 3S, Garmin watches with Black Friday deals, a Traeger grill and a DEWALT drill set, all rated 4.4 stars or higher and sold by Amazon.com, the brand or an authorized dealer.",
  "heroAlt": "Wrapped gifts in black paper with gold ribbon beside headphones, a watch and a game controller",
  "keyword": "black friday gifts for him 2026",
  "quickPicks": [
@@ -113,7 +113,7 @@
 ---
 Black Friday is the one week a year when the big gifts, the ones he'd never buy himself, get within reach. This list skips the gadget filler and sticks to big-ticket gifts that are worth the money at any price: each one is rated 4.4 stars or higher on Amazon.
 
-Every pick was re-checked on Amazon on November 24, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in whatever is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices here because they change by the hour; each button shows today's price on Amazon.
+Every pick was re-checked on Amazon on November 26, 2026: in stock, with an Add to Cart button, and sold by Amazon.com, the brand or an authorized dealer. We refresh this page through Cyber Monday and swap in whatever is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices here because they change by the hour; each button shows today's price on Amazon.
 
 <!-- list -->
 
