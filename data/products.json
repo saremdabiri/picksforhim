@@ -3360,5 +3360,19 @@
     "verified": true,
     "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=lego+hogwarts+castle+71043"
+  },
+  {
+    "id": "hyperice-normatec-3-legs",
+    "name": "Hyperice Normatec 3 Legs Compression Boots",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Full-leg dynamic air compression with 7 levels, Pulse technology, 5 overlapping zones with ZoneBoost and Bluetooth app control; sold by Hyperice.",
+    "image": null,
+    "dateAdded": "2026-11-25",
+    "url": "https://www.amazon.com/dp/B0B72QBWHC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-25",
+    "searchUrl": "https://www.amazon.com/s?k=hyperice+normatec+3+legs"
   }
 ]
