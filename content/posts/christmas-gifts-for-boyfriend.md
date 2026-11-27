@@ -129,3 +129,6 @@ Shopping for his family too? See [Christmas gifts for dad](/christmas-gifts-for-
 **Gamer boyfriend?** The controllers, headsets and VR in our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/) guide work for him too.
 
 **Engaged?** See our [Christmas gifts for fiance (male)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
+
+
+Running out of time? See [last minute Christmas gifts for him](/last-minute-christmas-gifts-for-him/), with 2026 shipping cutoffs.
