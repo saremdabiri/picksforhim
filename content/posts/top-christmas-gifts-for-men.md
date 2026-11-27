@@ -108,3 +108,6 @@ Is he the one who runs the grill or the kitchen? See our [gifts for men who like
 Shopping for a sibling? See our [Christmas gifts for brother](/christmas-gifts-for-brother/), with picks for adult brothers, brothers-in-law and gifts from a sister.
 
 **Smaller budget?** Our [Christmas gifts for men under 25 dollars](/christmas-gifts-for-men-under-25/) list has 8 picks rated 4.3 stars or higher.
+
+
+Running out of time? See [last minute Christmas gifts for him](/last-minute-christmas-gifts-for-him/), with 2026 shipping cutoffs.
