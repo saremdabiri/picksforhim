@@ -1777,7 +1777,7 @@
     "url": "https://www.amazon.com/dp/B0D7DKJ75M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=anker+maggo+power+bank+10000"
   },
   {
@@ -1791,7 +1791,7 @@
     "url": "https://www.amazon.com/dp/B0C7JMTCDH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=ridge+wallet"
   },
   {
@@ -1819,7 +1819,7 @@
     "url": "https://www.amazon.com/dp/B00P80CAQ4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=armani+acqua+di+gio+eau+de+toilette"
   },
   {
@@ -2912,7 +2912,7 @@
     "url": "https://www.amazon.com/dp/B0F3VTFD6J",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-15",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=nintendo+switch+2+pro+controller"
   },
   {
@@ -3108,7 +3108,7 @@
     "url": "https://www.amazon.com/dp/B0HJB69GJL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=airpods+5"
   },
   {
@@ -3290,7 +3290,7 @@
     "url": "https://www.amazon.com/dp/B002G9UDYG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-22",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=carhartt+a18+beanie"
   },
   {
@@ -3429,6 +3429,34 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-26",
+    "merchant": "Amazon"
+  },
+  {
+    "id": "lego-star-wars-gingerbread-at-at-40806",
+    "name": "LEGO Star Wars Gingerbread AT-AT Walker 40806",
+    "pillar": "home",
+    "description": "A small holiday LEGO Star Wars build: an AT-AT walker styled as gingerbread; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0G2STSGW3",
+    "searchUrl": "https://www.amazon.com/s?k=lego+star+wars+gingerbread+at-at",
+    "image": null,
+    "dateAdded": "2026-11-27",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-27",
+    "merchant": "Amazon"
+  },
+  {
+    "id": "apple-airtag-2nd-gen",
+    "name": "Apple AirTag (2nd Generation)",
+    "pillar": "tech",
+    "description": "A single Apple AirTag tracker for keys, a backpack or a wallet (Find My on iPhone); shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0GJTFXNRX",
+    "searchUrl": "https://www.amazon.com/s?k=apple+airtag+2nd+generation",
+    "image": null,
+    "dateAdded": "2026-11-27",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-27",
     "merchant": "Amazon"
   }
 ]
