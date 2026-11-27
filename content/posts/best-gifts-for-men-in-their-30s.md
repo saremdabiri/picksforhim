@@ -4,8 +4,8 @@
  "slug": "best-gifts-for-men-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-22",
- "updated": "2026-11-15",
- "description": "The best gifts for men in their 30s for Christmas 2026: Nintendo Switch 2, AirPods Max 2, Sony WH-1000XM6 headphones, a Tissot PRX watch, Apple Watch Ultra 4, a Breville espresso machine and Valentino cologne.",
+ "updated": "2026-11-26",
+ "description": "The best gifts for men in their 30s for Christmas 2026: Nintendo Switch 2, AirPods Max 2, a Meta Quest 3S, a Tissot PRX watch, Apple Watch Ultra 4, a Breville espresso machine and Valentino cologne.",
  "heroAlt": "A black gift box with a gold ribbon on a walnut desk beside wireless headphones, a steel watch and smart sunglasses",
  "keyword": "best gifts for men in their 30s",
  "quickPicks": [
@@ -26,9 +26,9 @@
    "text": "Apple's over-ear noise-cancelling headphones for flights, the commute and focus time at home. Rated 4.5 stars by more than 1,000 buyers and sold by Amazon.com, one of the best-selling premium headphones on Amazon this season."
   },
   {
-   "title": "For the commute and the flight: Sony WH-1000XM6",
-   "product": "sony-wh-1000xm6",
-   "text": "Sony's flagship noise-cancelling headphones with long battery life and a fold-flat design. Over 3,000 bought last month and more than 5,000 reviews."
+   "title": "For game nights and workouts: Meta Quest 3S",
+   "product": "meta-quest-3s",
+   "text": "An all-in-one VR and mixed-reality headset that needs no PC or console, with games, fitness apps and Golf+ included in this bundle. Rated 4.6 stars by nearly 7,000 buyers, 20K+ bought last month and sold by Amazon.com."
   },
   {
    "title": "His first real watch: Tissot PRX",
@@ -59,11 +59,11 @@
  "faq": [
   {
    "q": "What are the best gifts for men in their 30s?",
-   "a": "Premium versions of things he uses daily: Sony or Apple headphones, a Swiss watch like the Tissot PRX, a Breville espresso machine, or a Nintendo Switch 2 for game nights."
+   "a": "Premium versions of things he uses daily: Apple headphones or a Meta Quest 3S, a Swiss watch like the Tissot PRX, a Breville espresso machine, or a Nintendo Switch 2 for game nights."
   },
   {
    "q": "What are the best Christmas gifts for men in their 30s?",
-   "a": "For Christmas 2026, men in their 30s love a Nintendo Switch 2, AirPods Max 2 or Sony noise-cancelling headphones, a first Swiss watch like the Tissot PRX and a designer cologne. Pick one premium piece over several small gifts."
+   "a": "For Christmas 2026, men in their 30s love a Nintendo Switch 2, AirPods Max 2 headphones, a Meta Quest 3S VR headset, a first Swiss watch like the Tissot PRX and a designer cologne. Pick one premium piece over several small gifts."
   },
   {
    "q": "What do you get a man in his 30s who has everything?",
