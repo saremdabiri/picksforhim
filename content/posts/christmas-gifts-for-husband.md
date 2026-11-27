@@ -134,3 +134,6 @@ Need more ideas? See our [gifts for husband](/gifts-for-husband/) guide for any 
 **Is he a gamer?** See our [Christmas gifts for husband gamer](/christmas-gifts-for-husband-gamer/): pro controllers, headsets and VR he won't buy himself.
 
 **Not married yet?** See [Christmas gifts for fiance (male)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
+
+
+Running out of time? See [last minute Christmas gifts for him](/last-minute-christmas-gifts-for-him/), with 2026 shipping cutoffs.
