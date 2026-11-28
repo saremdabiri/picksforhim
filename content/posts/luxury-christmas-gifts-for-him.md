@@ -47,7 +47,7 @@
   {
    "title": "For the guy who trains hard: TheraGun Prime (6th Gen)",
    "product": "theragun-prime-6",
-   "text": "Therabody's mid-size percussive massager with a rugged rubber exterior, one-button control with LED pressure feedback and app-guided routines. Rated 4.6 stars from 6,800+ reviews, with 1,000+ bought in the past month, sold by TheraGun."
+   "text": "Therabody's mid-size percussive massager with a rugged rubber exterior, one-button control with LED pressure feedback and app-guided routines. Rated 4.6 stars from 6,800+ reviews, with 4,000+ bought in the past month, sold by TheraGun."
   },
   {
    "title": "For the music lover: Apple AirPods Max 2",
@@ -80,7 +80,7 @@
   "Luxury Gifts He'll Actually Use",
   "Gifts for the Man Who Has Everything"
  ],
- "updated": "2026-11-24"
+ "updated": "2026-11-27"
 }
 ---
 The best gifts for men aren't gimmicks. They're the upgraded version of something he already loves: the morning shave, the watch on his wrist, Saturday at the grill, Sunday on the water.

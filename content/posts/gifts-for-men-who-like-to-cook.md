@@ -3,6 +3,7 @@
  "title": "Watch Him Light Up: 8 Gifts for Men Who Like to Cook (Tools He'll Use Every Weekend, 2026)",
  "slug": "gifts-for-men-who-like-to-cook",
  "pillar": "gift-guides",
+ "updated": "2026-11-27",
  "date": "2026-11-07",
  "description": "The best gifts for men who like to cook in 2026: the MEATER Plus wireless thermometer, a Shun Classic chef's knife, Ninja Woodfire and Traeger smokers, the Ninja Artisan pizza oven, a Le Creuset Dutch oven and more, all rated 4.3 stars or higher on Amazon.",
  "heroAlt": "A man slicing a smoked brisket on a maple cutting board next to a chef's knife, a red Dutch oven and a wireless meat thermometer",
@@ -42,7 +43,7 @@
   {
    "title": "Le Creuset 5.5-quart Dutch oven: the heirloom pot",
    "product": "le-creuset-dutch-oven-5-5-qt",
-   "text": "The enameled cast iron Dutch oven cooks reach for chili, braised short ribs, stews and bread. It goes from stovetop to oven and lasts for decades. The 5.5-quart size feeds about four to six people. Rated 4.6 stars by more than 3,000 buyers when we checked; this listing ships from Amazon and is sold by a third-party seller.\n\n**Best for:** the Sunday-sauce, low-and-slow guy.\n\n**Skip it if:** he mostly grills outside."
+   "text": "The enameled cast iron Dutch oven cooks reach for chili, braised short ribs, stews and bread. It goes from stovetop to oven and lasts for decades. The 5.5-quart size feeds about four to six people. Rated 4.6 stars by more than 1,800 buyers when we checked; this listing is sold by a third-party seller.\n\n**Best for:** the Sunday-sauce, low-and-slow guy.\n\n**Skip it if:** he mostly grills outside."
   },
   {
    "title": "Breville Smart Oven Air Fryer Pro: best countertop oven for serious cooks",
@@ -52,7 +53,7 @@
   {
    "title": "John Boos maple cutting board (18 x 12 in): the board that goes with the knife",
    "product": "john-boos-maple-cutting-board",
-   "text": "A thick, reversible hard-maple cutting board from the American maker butchers and chefs have used for generations. Pair it with the Shun knife for a gift set. Rated 4.5 stars by more than 4,600 buyers when we checked.\n\n**Best for:** rounding out a knife gift.\n\n**Skip it if:** he wants something he can put in the dishwasher; wood boards need hand washing and oil."
+   "text": "A 2.25-inch-thick, reversible edge-grain maple board (24 x 18 inches) with recessed finger grips, from the American maker butchers and chefs have used for generations. Pair it with the Shun knife for a gift set. Rated 4.6 stars by more than 1,200 buyers when we checked.\n\n**Best for:** rounding out a knife gift.\n\n**Skip it if:** he wants something he can put in the dishwasher; wood boards need hand washing and oil."
   }
  ],
  "faq": [

@@ -35,9 +35,9 @@
    "text": "The cooler that lasts decades. Tough enough for the truck bed and the dock, and it keeps ice for days. A gift he'll use every summer."
   },
   {
-   "title": "For the dad who fishes: Garmin STRIKER Vivid 7cv",
-   "product": "garmin-striker-vivid-7cv",
-   "text": "A bright, easy fishfinder with clear sonar and GPS waypoints for his favorite spots. Going bigger? See our [fishing gifts guide](/fishing-gifts-for-men/) and [offshore fishing tech](/offshore-fishing-tech-gifts/)."
+   "title": "For the dad who stays active: TheraGun Prime (6th Gen)",
+   "product": "theragun-prime-6",
+   "text": "Therabody's mid-size percussive massager with a rugged rubber exterior, one-button control with LED pressure feedback and app-guided routines. Rated 4.6 stars from 6,800+ reviews, with 4,000+ bought in the past month, sold by TheraGun. Fishing dad? See our [fishing gifts guide](/fishing-gifts-for-men/) and [offshore fishing tech](/offshore-fishing-tech-gifts/)."
   },
   {
    "title": "The heirloom: Seiko Presage Cocktail Time",
@@ -67,7 +67,7 @@
   },
   {
    "q": "What should a son get his dad for Christmas?",
-   "a": "Go for the hobby you do together. A Traeger Pro 22 for the cookouts, a Bushnell Tour V6 Shift rangefinder for your rounds of golf, a Garmin STRIKER Vivid fishfinder for the boat, or a YETI Tundra 45 for tailgates. Then put a date on the calendar to use it with him."
+   "a": "Go for the hobby you do together. A Traeger Pro 22 for the cookouts, a Bushnell Tour V6 Shift rangefinder for your rounds of golf, a TheraGun Prime for after the game, or a YETI Tundra 45 for tailgates. Then put a date on the calendar to use it with him."
   },
   {
    "q": "What do you get a dad who wants nothing?",
@@ -92,7 +92,7 @@
   "Don't Let Dad See This List",
   "Christmas Gifts Dad Will Actually Use"
  ],
- "updated": "2026-11-12"
+ "updated": "2026-11-27"
 }
 ---
 **Looking for Christmas gifts for dad from daughter or son?** Don't let Dad see this list. The gifts that land best are upgrades to something he already does every week, because he will never buy the flagship version for himself. From a daughter, our top picks are the **Seiko Presage Cocktail Time** watch and the **Kindle Paperwhite**; from a son, the **Traeger Pro 22** smoker and the **Bushnell Tour V6 Shift** rangefinder. Every pick was rated 4.4 stars or higher on Amazon when we checked in November 2026.
@@ -113,7 +113,7 @@ A gift from a daughter usually works best when it carries a memory as well as a 
 
 ## Christmas gifts for dad from son: what does dad actually want?
 
-Most dads want time and a better version of their favorite gear. Sons tend to share a hobby with Dad, so feed that: a Traeger Pro 22 for backyard cookouts, a Bushnell Tour V6 Shift rangefinder for the course, a Garmin STRIKER Vivid 7cv fishfinder for the boat or a YETI Tundra 45 for tailgates. The best version of this gift comes with a plan: book the tee time or the fishing trip and go with him.
+Most dads want time and a better version of their favorite gear. Sons tend to share a hobby with Dad, so feed that: a Traeger Pro 22 for backyard cookouts, a Bushnell Tour V6 Shift rangefinder for the course, a TheraGun Prime for after the game or a YETI Tundra 45 for tailgates. The best version of this gift comes with a plan: book the tee time or the fishing trip and go with him.
 
 ## Quick comparison
 
@@ -123,7 +123,7 @@ Most dads want time and a better version of their favorite gear. Sons tend to sh
 | Garmin Forerunner 970 | Either | Walks, runs, golf, sleep | 4.6 stars, 600+ ratings |
 | Braun Series 9 PRO+ | Either | His morning routine | 4.4 stars, 500+ ratings |
 | YETI Tundra 45 | Son | Tailgates, camping, boat | 4.7 stars, 4,900+ ratings |
-| Garmin STRIKER Vivid 7cv | Son | The dad who fishes | 4.5 stars, 500+ ratings |
+| TheraGun Prime (6th Gen) | Either | The dad who stays active | 4.6 stars, 6,800+ ratings |
 | Seiko Presage Cocktail Time | Daughter | A keepsake watch | 4.4 stars, 500+ ratings |
 | Bushnell Tour V6 Shift | Son | The weekend golfer | 4.8 stars, 600+ ratings |
 | Kindle Paperwhite | Daughter | The dad who reads | 4.6 stars, 22,000+ ratings |
